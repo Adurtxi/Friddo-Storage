@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Pan de Molde Bimbo",
+		"amount": 1.0,
+		"unitId": 3,
+		"brandId": 1,
+		"price": 2.4,
+		"imagePath": "/images/c9817802-5e3d-4ce6-8eb2-9f29093e2a11.webp",
+		"barcode": null,
+		"nameOnTicket": "",
+		"ingredientId": 1
+	},
+	{
+		"id": 2,
+		"name": "Platanos Eroski Natur",
+		"amount": 1.0,
+		"unitId": 3,
+		"brandId": 1,
+		"price": 1.55,
+		"imagePath": "/images/c238132f-5925-4170-a9c0-4a53cc7d36f8.webp",
+		"barcode": null,
+		"nameOnTicket": "",
+		"ingredientId": 4
+	},
+	{
+		"id": 3,
+		"name": "Aloe Vera",
+		"amount": 200.0,
+		"unitId": 5,
+		"brandId": 2,
+		"price": 0.0,
+		"imagePath": "/images/1627248a-bc47-4801-8737-3c7771d99ec1.webp",
+		"barcode": null,
+		"nameOnTicket": "",
+		"ingredientId": 3
+	},
+	{
+		"id": 4,
+		"name": "Nueces Pack Familiar",
+		"amount": 400.0,
+		"unitId": 1,
+		"brandId": 5,
+		"price": 6.0,
+		"imagePath": "/images/068e3c30-9c85-40ce-bb78-c840df2b453d.webp",
+		"barcode": null,
+		"nameOnTicket": "",
+		"ingredientId": 2
+	}
+]
