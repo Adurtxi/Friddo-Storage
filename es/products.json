@@ -6,7 +6,7 @@
 		"unitId": 3,
 		"brandId": 1,
 		"price": 2.4,
-		"imagePath": "/images/c9817802-5e3d-4ce6-8eb2-9f29093e2a11.webp",
+		"imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
 		"barcode": null,
 		"nameOnTicket": "",
 		"ingredientId": 1
@@ -18,7 +18,7 @@
 		"unitId": 3,
 		"brandId": 1,
 		"price": 1.55,
-		"imagePath": "/images/c238132f-5925-4170-a9c0-4a53cc7d36f8.webp",
+		"imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
 		"barcode": null,
 		"nameOnTicket": "",
 		"ingredientId": 4
@@ -30,7 +30,7 @@
 		"unitId": 5,
 		"brandId": 2,
 		"price": 0.0,
-		"imagePath": "/images/1627248a-bc47-4801-8737-3c7771d99ec1.webp",
+		"imagePath": "/images/89268ffe-2277-4663-8fb3-f818a214dacd.webp",
 		"barcode": null,
 		"nameOnTicket": "",
 		"ingredientId": 3
@@ -42,7 +42,7 @@
 		"unitId": 1,
 		"brandId": 5,
 		"price": 6.0,
-		"imagePath": "/images/068e3c30-9c85-40ce-bb78-c840df2b453d.webp",
+		"imagePath": "/images/d190c2b4-522e-42ab-965f-6a3399b9105b.webp",
 		"barcode": null,
 		"nameOnTicket": "",
 		"ingredientId": 2

@@ -1,26 +1,230 @@
 [
 	{
 		"id": 1,
-		"name": "Pan de Molde",
-		"imagePath": "/images/2e74a83e-c872-42a0-8969-54295d2e3d56.webp",
-		"categoryId": 22
+		"name": "Sliced Bread Bimbo",
+		"imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
+		"categoryId": 5
 	},
 	{
 		"id": 2,
-		"name": "Nueces",
-		"imagePath": "/images/504a0a3a-2817-4e41-abf9-aa0e90390c78.webp",
-		"categoryId": 2
+		"name": "Nuts",
+		"imagePath": "/images/d190c2b4-522e-42ab-965f-6a3399b9105b.webp",
+		"categoryId": 1
 	},
 	{
 		"id": 3,
 		"name": "Aloe Vera",
-		"imagePath": "/images/962a8be0-0ced-4625-921e-4e9d6bde4802.webp",
-		"categoryId": 18
+		"imagePath": "/images/89268ffe-2277-4663-8fb3-f818a214dacd.webp",
+		"categoryId": 20
 	},
 	{
 		"id": 4,
-		"name": "Platanos",
-		"imagePath": "/images/b437f12e-ded6-4744-a535-d235dd8c3533.webp",
-		"categoryId": 16
+		"name": "Bananas",
+		"imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 5,
+		"name": "Donuts",
+		"imagePath": "/images/e7eca189-99db-4559-9293-32f7f0c1d731.webp",
+		"categoryId": 5
+	},
+	{
+		"id": 6,
+		"name": "Burger Bun",
+		"imagePath": "/images/907c4f0d-1b58-4f5c-a11d-ae75df3b6d4a.webp",
+		"categoryId": 5
+	},
+	{
+		"id": 7,
+		"name": "Bomba Rice",
+		"imagePath": "/images/11b1e6aa-a99d-431d-b807-b10e83f09009.webp",
+		"categoryId": 6
+	},
+	{
+		"id": 8,
+		"name": "Long Grain Rice",
+		"imagePath": "/images/c624f50f-6d6f-4a19-8a3e-ba9ddce0d846.webp",
+		"categoryId": 6
+	},
+	{
+		"id": 9,
+		"name": "Round Grain Rice",
+		"imagePath": "/images/15855491-ccea-49f3-bde6-19816d44d1e1.webp",
+		"categoryId": 6
+	},
+	{
+		"id": 10,
+		"name": "Hot Sauce",
+		"imagePath": "/images/245086b2-15e8-4f1d-8544-d06390e9914c.webp",
+		"categoryId": 7
+	},
+	{
+		"id": 11,
+		"name": "Soy Sauce",
+		"imagePath": "/images/22d8a0ad-def5-4998-be55-514aa0272394.webp",
+		"categoryId": 7
+	},
+	{
+		"id": 12,
+		"name": "Ketchup",
+		"imagePath": "/images/0b8ab4f0-1a5c-437f-a66c-b262de6474a8.webp",
+		"categoryId": 7
+	},
+	{
+		"id": 13,
+		"name": "Barbecue Sauce",
+		"imagePath": "/images/f633dc25-57e5-4302-888b-ab088dc45380.webp",
+		"categoryId": 7
+	},
+	{
+		"id": 14,
+		"name": "Extra Virgin Olive Oil",
+		"imagePath": "/images/71f93b11-cf2e-4798-8ed8-4cda8dddd208.webp",
+		"categoryId": 7
+	},
+	{
+		"id": 15,
+		"name": "Olive Oil 0.4",
+		"imagePath": "/images/700689ad-325d-48f6-8680-d2f7b3604d56.webp",
+		"categoryId": 7
+	},
+	{
+		"id": 16,
+		"name": "Red Apple",
+		"imagePath": "/images/bd2c9d32-9aa7-4dc8-b7c3-f36708fd688a.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 17,
+		"name": "Green Apple",
+		"imagePath": "/images/6239496c-c9bc-45b4-9880-2fa7c869ebf0.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 18,
+		"name": "Yellow Apple",
+		"imagePath": "/images/59b33ca3-898d-411c-b914-c492cfae0f33.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 19,
+		"name": "Purple Grapes",
+		"imagePath": "/images/a935e0d3-4d6c-4f3d-b193-8f6a937b0fd8.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 20,
+		"name": "Grapes",
+		"imagePath": "/images/e70c07e1-47a2-40b3-874f-954e1cc8f9cc.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 21,
+		"name": "Pineapple",
+		"imagePath": "/images/1f73ae20-1323-4e53-82e2-a167ff50499d.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 22,
+		"name": "Orange",
+		"imagePath": "/images/0b90cf8a-f93c-41f9-9818-66a737779a0a.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 23,
+		"name": "Blueberries",
+		"imagePath": "/images/6aa0b326-2d70-4e29-86e2-ed3267b4a1bc.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 24,
+		"name": "Raspberries",
+		"imagePath": "/images/600ef26b-5478-48ab-b3c4-9544310fb8bb.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 25,
+		"name": "Blackberries",
+		"imagePath": "/images/e81ba5fb-2f00-4ccb-aa52-ad0f2a05026a.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 26,
+		"name": "Kiwi",
+		"imagePath": "/images/d1983279-6848-4ae5-8ac6-565aa73e0fa2.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 27,
+		"name": "Cherries",
+		"imagePath": "/images/1a9d2dbe-f26a-4114-8ee0-dc59729fd6a1.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 28,
+		"name": "Melon",
+		"imagePath": "/images/5f8087b5-d71a-4739-b9d5-6a77d58cdf83.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 29,
+		"name": "Yellow Melon",
+		"imagePath": "/images/2c79a815-ed71-491c-a36f-c0796c8bf37b.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 30,
+		"name": "Watermelon",
+		"imagePath": "/images/e716b3e7-385c-4deb-94a6-ef12f3c577ed.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 31,
+		"name": "Mandarin orange",
+		"imagePath": "/images/de30f63a-8281-4170-bf40-0b8ddc23ee53.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 32,
+		"name": "Mango",
+		"imagePath": "/images/ac249147-87c0-4aed-bdec-da6ca78f198f.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 33,
+		"name": "Pear",
+		"imagePath": "/images/cac67b90-3e72-4eb6-b10a-15c2f22da89f.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 34,
+		"name": "Cupcakes",
+		"imagePath": "/images/2e5b578d-4133-4b29-955b-123d788db3ce.webp",
+		"categoryId": 5
+	},
+	{
+		"id": 35,
+		"name": "Cannelloni",
+		"imagePath": "/images/a95146f0-f7d8-4159-aaaa-8a76bb69c5b5.webp",
+		"categoryId": 12
+	},
+	{
+		"id": 36,
+		"name": "Frozen Lasagna",
+		"imagePath": "/images/363d341a-d9b9-497d-8261-b9c4704c7cc0.webp",
+		"categoryId": 12
+	},
+	{
+		"id": 37,
+		"name": "Meat-filled pasta",
+		"imagePath": "/images/74e44522-6592-4224-b213-c29582d0229e.webp",
+		"categoryId": 12
+	},
+	{
+		"id": 38,
+		"name": "Spinach-filled pasta",
+		"imagePath": "/images/3b5146d9-8ca6-443f-90bf-f38151bfb98d.webp",
+		"categoryId": 12
 	}
 ]
