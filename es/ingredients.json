@@ -31,7 +31,7 @@
 	},
 	{
 		"id": 6,
-		"name": "Pan de Hamburguesa",
+		"name": "Pan Hamburguesa",
 		"imagePath": "/images/907c4f0d-1b58-4f5c-a11d-ae75df3b6d4a.webp",
 		"categoryId": 5
 	},
@@ -226,5 +226,29 @@
 		"name": "Pasta rellena Espinacas",
 		"imagePath": "/images/3b5146d9-8ca6-443f-90bf-f38151bfb98d.webp",
 		"categoryId": 12
+	},
+	{
+		"id": 39,
+		"name": "Tomate Rayado",
+		"imagePath": "/images/ef50b3e4-5293-40da-a51b-1e34ad3a5d33.webp",
+		"categoryId": 1
+	},
+	{
+		"id": 40,
+		"name": "Vinagre de Manzana",
+		"imagePath": "/images/5af8fb51-fa3e-47a7-a48c-b480e621a215.webp",
+		"categoryId": 7
+	},
+	{
+		"id": 41,
+		"name": "Batido Fresa y Platano",
+		"imagePath": "/images/ae45b151-5e76-4d58-8ce2-e08b2af2f8cb.webp",
+		"categoryId": 15
+	},
+	{
+		"id": 42,
+		"name": "Batido Frutos del Bosque",
+		"imagePath": "/images/d55ad421-ba82-4d1b-ba7d-4482b24f13b8.webp",
+		"categoryId": 15
 	}
 ]
