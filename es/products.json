@@ -9,7 +9,8 @@
 		"imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
 		"barcode": null,
 		"nameOnTicket": "",
-		"ingredientId": 1
+		"ingredientId": 1,
+		"stored": true
 	},
 	{
 		"id": 2,
@@ -21,7 +22,8 @@
 		"imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
 		"barcode": null,
 		"nameOnTicket": "",
-		"ingredientId": 4
+		"ingredientId": 4,
+		"stored": true
 	},
 	{
 		"id": 3,
@@ -33,7 +35,8 @@
 		"imagePath": "/images/89268ffe-2277-4663-8fb3-f818a214dacd.webp",
 		"barcode": null,
 		"nameOnTicket": "",
-		"ingredientId": 3
+		"ingredientId": 3,
+		"stored": true
 	},
 	{
 		"id": 4,
@@ -45,6 +48,7 @@
 		"imagePath": "/images/d190c2b4-522e-42ab-965f-6a3399b9105b.webp",
 		"barcode": null,
 		"nameOnTicket": "",
-		"ingredientId": 2
+		"ingredientId": 2,
+		"stored": true
 	}
 ]

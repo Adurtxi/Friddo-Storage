@@ -3,252 +3,294 @@
 		"id": 1,
 		"name": "Pan de Molde",
 		"imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
-		"categoryId": 5
+		"categoryId": 5,
+		"stored": true
 	},
 	{
 		"id": 2,
 		"name": "Nueces",
 		"imagePath": "/images/d190c2b4-522e-42ab-965f-6a3399b9105b.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 3,
 		"name": "Aloe Vera",
 		"imagePath": "/images/89268ffe-2277-4663-8fb3-f818a214dacd.webp",
-		"categoryId": 20
+		"categoryId": 20,
+		"stored": true
 	},
 	{
 		"id": 4,
 		"name": "Platanos",
 		"imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 5,
 		"name": "Donuts",
 		"imagePath": "/images/e7eca189-99db-4559-9293-32f7f0c1d731.webp",
-		"categoryId": 5
+		"categoryId": 5,
+		"stored": true
 	},
 	{
 		"id": 6,
 		"name": "Pan Hamburguesa",
 		"imagePath": "/images/907c4f0d-1b58-4f5c-a11d-ae75df3b6d4a.webp",
-		"categoryId": 5
+		"categoryId": 5,
+		"stored": true
 	},
 	{
 		"id": 7,
 		"name": "Arroz Bomba",
 		"imagePath": "/images/11b1e6aa-a99d-431d-b807-b10e83f09009.webp",
-		"categoryId": 6
+		"categoryId": 6,
+		"stored": true
 	},
 	{
 		"id": 8,
 		"name": "Arroz Largo",
 		"imagePath": "/images/c624f50f-6d6f-4a19-8a3e-ba9ddce0d846.webp",
-		"categoryId": 6
+		"categoryId": 6,
+		"stored": true
 	},
 	{
 		"id": 9,
 		"name": "Arroz Redondo",
 		"imagePath": "/images/15855491-ccea-49f3-bde6-19816d44d1e1.webp",
-		"categoryId": 6
+		"categoryId": 6,
+		"stored": true
 	},
 	{
 		"id": 10,
 		"name": "Salsa Picante",
 		"imagePath": "/images/245086b2-15e8-4f1d-8544-d06390e9914c.webp",
-		"categoryId": 7
+		"categoryId": 7,
+		"stored": true
 	},
 	{
 		"id": 11,
 		"name": "Salsa de Soja",
 		"imagePath": "/images/22d8a0ad-def5-4998-be55-514aa0272394.webp",
-		"categoryId": 7
+		"categoryId": 7,
+		"stored": true
 	},
 	{
 		"id": 12,
 		"name": "Ketchup",
 		"imagePath": "/images/0b8ab4f0-1a5c-437f-a66c-b262de6474a8.webp",
-		"categoryId": 7
+		"categoryId": 7,
+		"stored": true
 	},
 	{
 		"id": 13,
 		"name": "Salsa Barbacoa",
 		"imagePath": "/images/f633dc25-57e5-4302-888b-ab088dc45380.webp",
-		"categoryId": 7
+		"categoryId": 7,
+		"stored": true
 	},
 	{
 		"id": 14,
 		"name": "Aceite Oliva Extra ",
 		"imagePath": "/images/71f93b11-cf2e-4798-8ed8-4cda8dddd208.webp",
-		"categoryId": 7
+		"categoryId": 7,
+		"stored": true
 	},
 	{
 		"id": 15,
 		"name": "Aceite Oliva 0.4",
 		"imagePath": "/images/700689ad-325d-48f6-8680-d2f7b3604d56.webp",
-		"categoryId": 7
+		"categoryId": 7,
+		"stored": true
 	},
 	{
 		"id": 16,
 		"name": "Manzana Roja",
 		"imagePath": "/images/bd2c9d32-9aa7-4dc8-b7c3-f36708fd688a.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 17,
 		"name": "Manzana Verde",
 		"imagePath": "/images/6239496c-c9bc-45b4-9880-2fa7c869ebf0.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 18,
 		"name": "Manzana Amarilla",
 		"imagePath": "/images/59b33ca3-898d-411c-b914-c492cfae0f33.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 19,
 		"name": "Uvas Moradas",
 		"imagePath": "/images/a935e0d3-4d6c-4f3d-b193-8f6a937b0fd8.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 20,
 		"name": "Uvas",
 		"imagePath": "/images/e70c07e1-47a2-40b3-874f-954e1cc8f9cc.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 21,
 		"name": "Piña",
 		"imagePath": "/images/1f73ae20-1323-4e53-82e2-a167ff50499d.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 22,
 		"name": "Naranja",
 		"imagePath": "/images/0b90cf8a-f93c-41f9-9818-66a737779a0a.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 23,
 		"name": "Arandanos",
 		"imagePath": "/images/6aa0b326-2d70-4e29-86e2-ed3267b4a1bc.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 24,
 		"name": "Frambuesas",
 		"imagePath": "/images/600ef26b-5478-48ab-b3c4-9544310fb8bb.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 25,
 		"name": "Moras",
 		"imagePath": "/images/e81ba5fb-2f00-4ccb-aa52-ad0f2a05026a.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 26,
 		"name": "Kiwi",
 		"imagePath": "/images/d1983279-6848-4ae5-8ac6-565aa73e0fa2.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 27,
 		"name": "Cerezas",
 		"imagePath": "/images/1a9d2dbe-f26a-4114-8ee0-dc59729fd6a1.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 28,
 		"name": "Melón",
 		"imagePath": "/images/5f8087b5-d71a-4739-b9d5-6a77d58cdf83.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 29,
 		"name": "Melón Amarillo",
 		"imagePath": "/images/2c79a815-ed71-491c-a36f-c0796c8bf37b.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 30,
 		"name": "Sandía",
 		"imagePath": "/images/e716b3e7-385c-4deb-94a6-ef12f3c577ed.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 31,
 		"name": "Mandarina",
 		"imagePath": "/images/de30f63a-8281-4170-bf40-0b8ddc23ee53.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 32,
 		"name": "Mango",
 		"imagePath": "/images/ac249147-87c0-4aed-bdec-da6ca78f198f.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 33,
 		"name": "Pera",
 		"imagePath": "/images/cac67b90-3e72-4eb6-b10a-15c2f22da89f.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 34,
 		"name": "Magdalenas",
 		"imagePath": "/images/2e5b578d-4133-4b29-955b-123d788db3ce.webp",
-		"categoryId": 5
+		"categoryId": 5,
+		"stored": true
 	},
 	{
 		"id": 35,
 		"name": "Canelones",
 		"imagePath": "/images/a95146f0-f7d8-4159-aaaa-8a76bb69c5b5.webp",
-		"categoryId": 12
+		"categoryId": 12,
+		"stored": true
 	},
 	{
 		"id": 36,
 		"name": "Lasaña Congelada",
 		"imagePath": "/images/363d341a-d9b9-497d-8261-b9c4704c7cc0.webp",
-		"categoryId": 12
+		"categoryId": 12,
+		"stored": true
 	},
 	{
 		"id": 37,
 		"name": "Pasta rellena Carne",
 		"imagePath": "/images/74e44522-6592-4224-b213-c29582d0229e.webp",
-		"categoryId": 12
+		"categoryId": 12,
+		"stored": true
 	},
 	{
 		"id": 38,
 		"name": "Pasta rellena Espinacas",
 		"imagePath": "/images/3b5146d9-8ca6-443f-90bf-f38151bfb98d.webp",
-		"categoryId": 12
+		"categoryId": 12,
+		"stored": true
 	},
 	{
 		"id": 39,
 		"name": "Tomate Rayado",
 		"imagePath": "/images/ef50b3e4-5293-40da-a51b-1e34ad3a5d33.webp",
-		"categoryId": 1
+		"categoryId": 1,
+		"stored": true
 	},
 	{
 		"id": 40,
 		"name": "Vinagre de Manzana",
 		"imagePath": "/images/5af8fb51-fa3e-47a7-a48c-b480e621a215.webp",
-		"categoryId": 7
+		"categoryId": 7,
+		"stored": true
 	},
 	{
 		"id": 41,
 		"name": "Batido Fresa y Platano",
 		"imagePath": "/images/ae45b151-5e76-4d58-8ce2-e08b2af2f8cb.webp",
-		"categoryId": 15
+		"categoryId": 15,
+		"stored": true
 	},
 	{
 		"id": 42,
 		"name": "Batido Frutos del Bosque",
 		"imagePath": "/images/d55ad421-ba82-4d1b-ba7d-4482b24f13b8.webp",
-		"categoryId": 15
+		"categoryId": 15,
+		"stored": true
 	}
 ]
