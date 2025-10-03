@@ -1,1 +1,35 @@
-[]
+[
+	{
+		"id": 1,
+		"foodId": 1,
+		"ingredientId": 15,
+		"description": "",
+		"amount": 1,
+		"principal": 0,
+		"necesary": 0,
+		"canBeGeneric": 0,
+		"order": 0
+	},
+	{
+		"id": 2,
+		"foodId": 1,
+		"ingredientId": 38,
+		"description": "",
+		"amount": 3,
+		"principal": 0,
+		"necesary": 0,
+		"canBeGeneric": 0,
+		"order": 0
+	},
+	{
+		"id": 3,
+		"foodId": 4,
+		"ingredientId": 37,
+		"description": "",
+		"amount": 1,
+		"principal": 0,
+		"necesary": 0,
+		"canBeGeneric": 0,
+		"order": 0
+	}
+]

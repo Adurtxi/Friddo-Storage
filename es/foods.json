@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"id": 4,
+		"name": "Macarrones con Tomate",
+		"difficulty": 1,
+		"time": 2,
+		"price": 1,
+		"mealType": 3,
+		"dishCategoryId": null,
+		"imagePath": "images/foods/food_1759528427326.jpg"
+	}
+]
