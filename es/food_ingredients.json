@@ -2,17 +2,7 @@
 	{
 		"id": 1,
 		"foodId": 1,
-		"ingredientId": 15,
-		"description": "",
-		"amount": 1,
-		"principal": 0,
-		"necesary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 2,
-		"foodId": 1,
+    "foodGUID": "ad3aa285-350a-42e6-9e00-956695b0ba21",
 		"ingredientId": 38,
 		"description": "",
 		"amount": 3,
@@ -22,8 +12,9 @@
 		"order": 0
 	},
 	{
-		"id": 3,
-		"foodId": 4,
+		"id": 2,
+		"foodId": 1,
+    "foodGUID": "ad3aa285-350a-42e6-9e00-956695b0ba21",
 		"ingredientId": 37,
 		"description": "",
 		"amount": 1,
