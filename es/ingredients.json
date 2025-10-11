@@ -464,7 +464,7 @@
 	{
 		"id": 43,
 		"name": "Berenjena",
-		"imagePath": "",
+		"imagePath": "/images/e2fe5253-033f-4dd8-9cdf-14433f9fe21b.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -486,7 +486,7 @@
 	{
 		"id": 45,
 		"name": "Pechugas de Pollo",
-		"imagePath": "",
+		"imagePath": "/images/82fad054-17a1-4322-8cf9-e40ae845df3c.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -497,7 +497,7 @@
 	{
 		"id": 46,
 		"name": "Pechugas de Pollo (Fileteadas)",
-		"imagePath": "",
+		"imagePath": "/images/c090fca0-bad5-433c-ae0b-4ab3b4fee0fd.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -508,7 +508,7 @@
 	{
 		"id": 47,
 		"name": "Alitas de Pollo",
-		"imagePath": "",
+		"imagePath": "/images/a5838656-2c76-4960-9259-af2d781d1e74.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -585,7 +585,7 @@
 	{
 		"id": 54,
 		"name": "Salmón",
-		"imagePath": "",
+		"imagePath": "/images/5fc0baaf-4ee1-4df1-9a76-1fa453a3252b.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -596,7 +596,7 @@
 	{
 		"id": 55,
 		"name": "Yogur con Frambruesa",
-		"imagePath": "",
+		"imagePath": "/images/67365058-e191-4db7-88e3-de668fb65a2d.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -607,7 +607,7 @@
 	{
 		"id": 56,
 		"name": "Yogur con Kiwi",
-		"imagePath": "",
+		"imagePath": "/images/cbf540a3-68af-4c5d-b6b5-a17f9607a586.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -618,7 +618,7 @@
 	{
 		"id": 57,
 		"name": "Yogur Griego",
-		"imagePath": "",
+		"imagePath": "/images/5e9c2369-e2bf-48f7-8fea-2a1174c646b7.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -629,7 +629,7 @@
 	{
 		"id": 58,
 		"name": "Yogur con Fresa",
-		"imagePath": "",
+		"imagePath": "/images/f5ea73c2-7b43-4437-b875-01f2381ab7a8.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -640,7 +640,7 @@
 	{
 		"id": 59,
 		"name": "Yogur Natural",
-		"imagePath": "",
+		"imagePath": "/images/b60387b3-76d5-4881-be95-3b1706182ab4.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -706,7 +706,7 @@
 	{
 		"id": 65,
 		"name": "Azucar Moreno",
-		"imagePath": "",
+		"imagePath": "/images/780c054f-6958-4765-a189-a48143a8f0ac.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -761,7 +761,7 @@
 	{
 		"id": 70,
 		"name": "Albondigas de Carne",
-		"imagePath": "",
+		"imagePath": "/images/d6ffa719-f580-4c72-95c7-e9516e0e1d5b.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -772,7 +772,7 @@
 	{
 		"id": 71,
 		"name": "Albondigas de Pollo",
-		"imagePath": "",
+		"imagePath": "/images/f7aca14b-6d39-45b4-84e1-70062d7fd255.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -838,7 +838,7 @@
 	{
 		"id": 77,
 		"name": "Patatas",
-		"imagePath": "",
+		"imagePath": "/images/b3eb6878-bd57-4ea4-a20d-78f66e26333f.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -904,7 +904,7 @@
 	{
 		"id": 83,
 		"name": "Naranjas de Zumo",
-		"imagePath": "",
+		"imagePath": "/images/fb5b216c-451e-4b44-8c8f-29cec610c27f.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -915,7 +915,7 @@
 	{
 		"id": 84,
 		"name": "Naranjas de Mesa",
-		"imagePath": "",
+		"imagePath": "/images/bbf88d2c-b7dd-426f-a53d-d569ea7e642e.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1014,7 +1014,7 @@
 	{
 		"id": 93,
 		"name": "Gazpacho",
-		"imagePath": "",
+		"imagePath": "/images/0c750c93-2e01-4279-a4b3-f5c02f395812.webp",
 		"categoryId": 12,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1047,7 +1047,7 @@
 	{
 		"id": 96,
 		"name": "Puerros",
-		"imagePath": "",
+		"imagePath": "/images/847a656d-5aec-449f-87a4-a90e8eedc7a4.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1069,8 +1069,8 @@
 	{
 		"id": 98,
 		"name": "Salchicas de Pollo",
-		"imagePath": "",
-		"categoryId": 2,
+		"imagePath": "/images/afa32303-9cac-4584-8b24-be161f5487d9.webp",
+		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
@@ -1080,7 +1080,7 @@
 	{
 		"id": 99,
 		"name": "Café Soluble",
-		"imagePath": "",
+		"imagePath": "/images/37d31b56-31d2-4541-bf08-ec5b682bc576.webp",
 		"categoryId": 16,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1091,7 +1091,7 @@
 	{
 		"id": 100,
 		"name": "Pechugas de Pavo",
-		"imagePath": "",
+		"imagePath": "/images/369acd33-7f56-484e-bb58-4ea1be2e5b01.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1102,7 +1102,7 @@
 	{
 		"id": 101,
 		"name": "Zumo de Naranja Exprimido",
-		"imagePath": "",
+		"imagePath": "/images/9792d6fe-835d-4702-a9c6-eeab3a806cf7.webp",
 		"categoryId": 15,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1113,7 +1113,7 @@
 	{
 		"id": 102,
 		"name": "Tomate",
-		"imagePath": "",
+		"imagePath": "/images/5fe7279b-856e-45fd-9779-fb85ac021207.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1135,7 +1135,7 @@
 	{
 		"id": 104,
 		"name": "Pepino",
-		"imagePath": "",
+		"imagePath": "/images/ec549b27-0109-4357-ae03-52743f7bfb09.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1146,7 +1146,7 @@
 	{
 		"id": 105,
 		"name": "Calabacín",
-		"imagePath": "",
+		"imagePath": "/images/a74c85ce-0ae1-4f30-a7d6-a4e65715e38e.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1157,7 +1157,7 @@
 	{
 		"id": 106,
 		"name": "Solomillo de Pavo",
-		"imagePath": "",
+		"imagePath": "/images/c54da462-d035-4f1d-8224-06fe4558f05c.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -1186,5 +1186,148 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"stored": 1
+	},
+	{
+		"id": 110,
+		"name": "Azucar Blanco",
+		"imagePath": "/images/670c7a15-fe8e-4ce8-a2aa-5c941466a7ef.webp",
+		"categoryId": 7,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 111,
+		"name": "Salchichas de Cerdo",
+		"imagePath": "/images/1f9c9964-27a0-47a0-a51e-b99861c8a877.webp",
+		"categoryId": 3,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 112,
+		"name": "Ajos",
+		"imagePath": "/images/6051c19d-0fb0-4527-a111-836dac14a09a.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 113,
+		"name": "Cebollas",
+		"imagePath": "/images/19943150-2fe1-4f6e-b2ad-98db4f756777.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 114,
+		"name": "Pimiento Verde",
+		"imagePath": "/images/cc537b6a-2b03-4815-8e55-2602473310c0.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 115,
+		"name": "Pimiento Rojo",
+		"imagePath": "/images/bac59d4c-3ae8-45b0-9e20-c559d16aa5be.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 116,
+		"name": "Lechuga",
+		"imagePath": "/images/b3862d3c-8736-40e6-bb2b-e7a2ee5bc83f.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 117,
+		"name": "Coliflor",
+		"imagePath": "/images/33eb2f4a-613e-4a98-aec6-0bc6084ac340.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 118,
+		"name": "Guisantes",
+		"imagePath": "/images/e98fb380-7a08-420e-b98c-7b3c9657b4ec.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 119,
+		"name": "Patatas para Freir",
+		"imagePath": "/images/89a15a4f-31cc-45b8-9730-a9637f426358.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 120,
+		"name": "Patatas para Cocer",
+		"imagePath": "/images/ca57d42e-d134-42a6-831a-5de36440db31.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 121,
+		"name": "Muslos de Pollo",
+		"imagePath": "/images/9d379407-7ec4-4cf2-9a4e-3551fbb36070.webp",
+		"categoryId": 2,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 122,
+		"name": "Hamburguesas de Ternera",
+		"imagePath": "/images/91117c48-78e8-4020-bfc8-442e758deaaf.webp",
+		"categoryId": 2,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
 	}
 ]
