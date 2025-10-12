@@ -475,13 +475,13 @@
 	{
 		"id": 44,
 		"name": "Jamón Iberico",
-		"imagePath": "",
+		"imagePath": "/images/64c5ec52-11bf-4a4f-992d-2fc2075ca102.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 45,
@@ -552,35 +552,35 @@
 	{
 		"id": 51,
 		"name": "Frambruesas",
-		"imagePath": "",
+		"imagePath": "/images/c5465872-e8fc-46ff-8584-9db4495aaf40.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 52,
 		"name": "Piminetos Troceados",
 		"imagePath": "",
-		"categoryId": 8,
+		"categoryId": 11,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 53,
 		"name": "Pasta de Dientes",
-		"imagePath": "",
+		"imagePath": "/images/3024225e-2407-4e54-ae41-8a0674329c25.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 54,
@@ -662,13 +662,13 @@
 	{
 		"id": 61,
 		"name": "Harina de Repostería",
-		"imagePath": "",
+		"imagePath": "/images/7fca0e2c-1511-4733-ba57-a53859b9259d.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 62,
@@ -679,29 +679,29 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 63,
 		"name": "Calamares",
-		"imagePath": "",
+		"imagePath": "/images/179e9aab-c9bd-4d23-93f3-aded6cbe166e.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 64,
 		"name": "Bebida de Soja",
-		"imagePath": "",
+		"imagePath": "/images/1828ee20-144c-4ece-8c27-91b98af1ad30.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 65,
@@ -717,13 +717,13 @@
 	{
 		"id": 66,
 		"name": "Gel de Ducha",
-		"imagePath": "",
+		"imagePath": "/images/2e82a7de-df4c-4d94-b850-01a736d16c45.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 67,
@@ -734,12 +734,12 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 68,
 		"name": "Chuletas de Cerdo",
-		"imagePath": "",
+		"imagePath": "/images/d1a63ed7-eca6-4be8-be61-74bdc79041d4.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -750,13 +750,13 @@
 	{
 		"id": 69,
 		"name": "Cereales con Chocolate",
-		"imagePath": "",
+		"imagePath": "/images/15e18047-a99a-401d-9ad5-78a3fe922f1f.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 70,
@@ -789,7 +789,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 73,
@@ -800,40 +800,40 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 74,
 		"name": "Pimienta Negra",
-		"imagePath": "",
+		"imagePath": "/images/cf134c4a-bcd0-497a-8c41-700c4fdd09f1.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 75,
 		"name": "Oregano",
-		"imagePath": "",
+		"imagePath": "/images/cd525282-dabc-4bdd-8dcb-85c8c1163dfc.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 76,
 		"name": "Perejil",
-		"imagePath": "",
+		"imagePath": "/images/49f77555-e7fe-4f0c-a058-eded22ec61e3.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 77,
@@ -860,35 +860,35 @@
 	{
 		"id": 79,
 		"name": "Champú",
-		"imagePath": "",
+		"imagePath": "/images/a92214e5-a978-4b62-befe-493595c2e162.webp",
 		"categoryId": 21,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 80,
 		"name": "Brochetas de Pollo",
-		"imagePath": "",
+		"imagePath": "/images/a69aa781-371b-42a8-805e-e047c1dfe85e.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 81,
-		"name": "Brochetas de Pocho con Pimientos",
-		"imagePath": "",
+		"name": "Brochetas de Pollo con Pimientos",
+		"imagePath": "/images/26f72c1d-4854-48d6-81df-011f5f410646.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 82,
@@ -937,79 +937,79 @@
 	{
 		"id": 86,
 		"name": "Garbanzos Cocidos",
-		"imagePath": "",
+		"imagePath": "/images/7105a714-d582-4e4b-a020-1dd9b773463e.webp",
 		"categoryId": 8,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 87,
 		"name": "Macarrones",
-		"imagePath": "",
+		"imagePath": "/images/67e0c9f5-9aab-45b3-a18d-97a56de86be0.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 88,
 		"name": "Flan de Huevo",
-		"imagePath": "",
+		"imagePath": "/images/6cf90ac8-3237-4953-94b3-5f11b2384d79.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 89,
 		"name": "Flan de Queso",
-		"imagePath": "",
+		"imagePath": "/images/00920520-9c9f-4930-ac2f-e93a2b604ee2.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 90,
 		"name": "Galletas",
-		"imagePath": "",
-		"categoryId": 10,
+		"imagePath": "/images/f0c0e285-37b8-4826-b309-4611eeac987f.webp",
+		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 91,
 		"name": "Alubias Cocidas",
-		"imagePath": "",
+		"imagePath": "/images/3eefbd56-b590-49de-b1b3-68cb63f85307.webp",
 		"categoryId": 8,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 92,
 		"name": "Espaguetis",
-		"imagePath": "",
+		"imagePath": "/images/be88e397-627c-4dbe-a034-550d18248689.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 93,
@@ -1025,24 +1025,24 @@
 	{
 		"id": 94,
 		"name": "Chorizo de Pamplona",
-		"imagePath": "",
+		"imagePath": "/images/e2b6599d-16e8-4181-93a3-edaadddc7b23.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 95,
 		"name": "Carne Picada",
-		"imagePath": "",
+		"imagePath": "/images/d22ddf61-bc6a-49cb-97f0-55439456dcf9.webp",
 		"categoryId": 2,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 96,
@@ -1058,13 +1058,13 @@
 	{
 		"id": 97,
 		"name": "Chorizo Picante",
-		"imagePath": "",
+		"imagePath": "/images/430382c1-9371-40c2-a5ae-78b68a21f4f0.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 98,
@@ -1179,13 +1179,13 @@
 	{
 		"id": 108,
 		"name": "Mascarilla Capilar",
-		"imagePath": "",
+		"imagePath": "/images/258a51d3-29e6-4b98-9c19-d4f686ced167.webp",
 		"categoryId": 21,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 110,
@@ -1196,7 +1196,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 111,
@@ -1207,7 +1207,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 112,
@@ -1218,7 +1218,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 113,
@@ -1229,7 +1229,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 114,
@@ -1240,7 +1240,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 115,
@@ -1251,7 +1251,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 116,
@@ -1262,7 +1262,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 117,
@@ -1273,7 +1273,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 118,
@@ -1284,7 +1284,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 119,
@@ -1295,7 +1295,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 120,
@@ -1306,7 +1306,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 121,
@@ -1317,7 +1317,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 122,
@@ -1328,6 +1328,6 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	}
 ]
