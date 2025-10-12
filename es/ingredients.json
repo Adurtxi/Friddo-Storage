@@ -481,7 +481,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 45,
@@ -558,7 +558,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 52,
@@ -569,7 +569,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 53,
@@ -580,7 +580,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 54,
@@ -668,7 +668,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 62,
@@ -679,7 +679,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 63,
@@ -690,7 +690,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 64,
@@ -701,7 +701,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 65,
@@ -723,7 +723,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 67,
@@ -734,7 +734,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 68,
@@ -756,7 +756,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 70,
@@ -789,7 +789,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 73,
@@ -800,7 +800,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 74,
@@ -811,7 +811,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 75,
@@ -822,7 +822,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 76,
@@ -833,7 +833,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 77,
@@ -866,7 +866,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 80,
@@ -877,7 +877,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 81,
@@ -888,7 +888,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 82,
@@ -943,7 +943,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 87,
@@ -954,7 +954,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 88,
@@ -965,7 +965,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 89,
@@ -976,7 +976,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 90,
@@ -987,7 +987,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 91,
@@ -998,7 +998,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 92,
@@ -1009,7 +1009,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 93,
@@ -1031,7 +1031,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 95,
@@ -1042,7 +1042,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 96,
@@ -1064,7 +1064,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 98,
@@ -1185,7 +1185,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 1
+		"stored": 0
 	},
 	{
 		"id": 110,
