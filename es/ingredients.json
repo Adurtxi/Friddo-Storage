@@ -1955,7 +1955,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 181,
@@ -1966,7 +1966,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 182,
@@ -1977,7 +1977,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 183,
@@ -1988,7 +1988,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 184,
@@ -1999,7 +1999,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 185,
@@ -2010,7 +2010,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 186,
@@ -2021,7 +2021,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 187,
@@ -2032,7 +2032,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 188,
@@ -2043,7 +2043,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 189,
@@ -2054,7 +2054,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 190,
@@ -2065,7 +2065,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 191,
@@ -2076,7 +2076,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 192,
@@ -2087,7 +2087,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 193,
@@ -2098,7 +2098,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 194,
@@ -2109,7 +2109,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 195,
@@ -2120,7 +2120,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 196,
@@ -2131,7 +2131,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 197,
@@ -2142,7 +2142,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 198,
@@ -2153,7 +2153,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 199,
@@ -2164,7 +2164,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 200,
@@ -2175,7 +2175,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 201,
@@ -2186,7 +2186,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 202,
@@ -2197,7 +2197,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 203,
@@ -2208,12 +2208,34 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 204,
 		"name": "Cúrcuma",
 		"imagePath": "/images/f00f8fe0-9c73-40e6-ad5e-b4e3a30a7f37.webp",
+		"categoryId": 7,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 205,
+		"name": "Aceite Oliva Virgen",
+		"imagePath": "/images/133c779b-7494-4d9c-b830-2b3f16fce963.webp",
+		"categoryId": 7,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 0
+	},
+	{
+		"id": 206,
+		"name": "Vinagre de Vino",
+		"imagePath": "/images/7c942151-7499-4da1-81da-75bfa47758d9.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
