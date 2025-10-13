@@ -1505,5 +1505,115 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"stored": 1
+	},
+	{
+		"id": 139,
+		"name": "Aguacate",
+		"imagePath": "/images/fe8d8d44-b292-41a3-bc41-4d90ea10c2e0.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 140,
+		"name": "Rulos de Queso de Cabra",
+		"imagePath": "/images/accfc3ce-bc5c-4b17-993d-61ddf6decbe5.webp",
+		"categoryId": 4,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 141,
+		"name": "Queso Curado",
+		"imagePath": "/images/f66297b5-3df8-46b7-b9d9-775dfc3b5791.webp",
+		"categoryId": 4,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 142,
+		"name": "Queso Fresco",
+		"imagePath": "/images/aa4c8a40-4779-4312-8da9-20f59564ea90.webp",
+		"categoryId": 4,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 143,
+		"name": "Espinacas",
+		"imagePath": "/images/78caa810-db17-4a31-be96-1fea543a5ed5.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 1,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 144,
+		"name": "Espinacas",
+		"imagePath": "/images/224ead5b-1e71-44cb-8e7f-5acdb30fbf53.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": 143,
+		"stored": 1
+	},
+	{
+		"id": 145,
+		"name": "Lima",
+		"imagePath": "/images/b58ecd3f-88d3-44df-a55f-406a0daf0ff7.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 146,
+		"name": "Granada",
+		"imagePath": "/images/58178cbe-863c-438f-947a-363a0c9d16d9.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 147,
+		"name": "Limón",
+		"imagePath": "/images/62057126-43fb-42a4-902f-547d66d1ddf8.webp",
+		"categoryId": 1,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
+	},
+	{
+		"id": 148,
+		"name": "Nata para Cocinar",
+		"imagePath": "/images/a96282a1-9871-44ac-b37c-e7a8cb7aced6.webp",
+		"categoryId": 4,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"stored": 1
 	}
 ]
