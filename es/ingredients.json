@@ -375,7 +375,7 @@
 	},
 	{
 		"id": 36,
-		"name": "Lasaña Congelada",
+		"name": "Lasaña Boloñesa",
 		"imagePath": "/images/363d341a-d9b9-497d-8261-b9c4704c7cc0.webp",
 		"categoryId": 12,
 		"isVegetarian": 0,
@@ -1398,7 +1398,7 @@
 	},
 	{
 		"id": 130,
-		"name": "Mantequilla",
+		"name": "Mantequilla con Sal",
 		"imagePath": "/images/4d43a834-8b94-4a66-8d43-e49a19d39061.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
@@ -1893,7 +1893,7 @@
 	},
 	{
 		"id": 175,
-		"name": "Toallitas",
+		"name": "Toallitas WC",
 		"imagePath": "/images/b887ad9c-28d9-488e-901e-2e7a64b7be3c.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
@@ -2252,7 +2252,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 208,
@@ -2263,7 +2263,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 209,
@@ -2274,7 +2274,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 210,
@@ -2285,7 +2285,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 211,
@@ -2296,7 +2296,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 212,
@@ -2307,7 +2307,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 213,
@@ -2318,7 +2318,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 214,
@@ -2329,7 +2329,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 215,
@@ -2340,7 +2340,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 216,
@@ -2351,7 +2351,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 217,
@@ -2362,7 +2362,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 218,
@@ -2373,7 +2373,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 219,
@@ -2384,7 +2384,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 220,
@@ -2395,7 +2395,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 221,
@@ -2406,7 +2406,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 222,
@@ -2417,7 +2417,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 223,
@@ -2428,7 +2428,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 224,
@@ -2439,7 +2439,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 225,
@@ -2450,7 +2450,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 226,
@@ -2461,7 +2461,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 227,
@@ -2472,7 +2472,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 228,
@@ -2483,7 +2483,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 229,
@@ -2494,7 +2494,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 230,
@@ -2505,7 +2505,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 231,
@@ -2516,7 +2516,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 232,
@@ -2527,7 +2527,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 233,
@@ -2538,7 +2538,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 234,
@@ -2549,7 +2549,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 235,
@@ -2560,7 +2560,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 236,
@@ -2571,7 +2571,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 237,
@@ -2582,7 +2582,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 238,
@@ -2593,7 +2593,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 239,
@@ -2604,7 +2604,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 240,
@@ -2615,7 +2615,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 241,
@@ -2626,7 +2626,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 242,
@@ -2637,7 +2637,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 243,
@@ -2648,7 +2648,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 244,
@@ -2659,7 +2659,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 245,
@@ -2670,7 +2670,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 246,
@@ -2681,7 +2681,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 247,
@@ -2692,7 +2692,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 248,
@@ -2703,7 +2703,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 249,
@@ -2714,7 +2714,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 250,
@@ -2725,7 +2725,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 251,
@@ -2736,7 +2736,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 252,
@@ -2747,7 +2747,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 253,
@@ -2758,7 +2758,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 254,
@@ -2769,7 +2769,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 255,
@@ -2780,7 +2780,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 256,
@@ -2791,7 +2791,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 257,
@@ -2802,7 +2802,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 258,
@@ -2813,7 +2813,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 259,
@@ -2824,7 +2824,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 260,
@@ -2835,7 +2835,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 261,
@@ -2846,7 +2846,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 262,
@@ -2857,7 +2857,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 263,
@@ -2868,7 +2868,7 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 264,
@@ -2879,6 +2879,6 @@
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"stored": 0
+		"stored": 1
 	}
 ]
