@@ -1,32 +1,162 @@
 [
-	{ "id": 2, "ingredientId": 93, "ticketName": "GAZPACHO FRESCO" },
-	{ "id": 3, "ingredientId": 87, "ticketName": "HELICES" },
-	{ "id": 4, "ingredientId": 254, "ticketName": "CREMA CAMEMBERT" },
-	{ "id": 5, "ingredientId": 195, "ticketName": "TOM. RECETA ARTESANA" },
-	{ "id": 6, "ingredientId": 150, "ticketName": "12 HUEVOS CAMPEROS" },
-	{ "id": 7, "ingredientId": 6, "ticketName": "PAN H BRIOCHE" },
-	{ "id": 8, "ingredientId": 95, "ticketName": "PICADA DE VACUNO" },
-	{ "id": 9, "ingredientId": 163, "ticketName": "FRESAS" },
-	{ "id": 10, "ingredientId": 164, "ticketName": "ARÁNDANOS" },
-	{ "id": 11, "ingredientId": 195, "ticketName": "TOMATE FRITO" },
-	{ "id": 12, "ingredientId": 149, "ticketName": "GUACAMOLE 200 G" },
-	{ "id": 13, "ingredientId": 13, "ticketName": "SALSA BARBACOA" },
-	{ "id": 14, "ingredientId": 148, "ticketName": "NATA PARA COCINAR" },
-	{ "id": 15, "ingredientId": 126, "ticketName": "HARINA DE PIZZA" },
-	{ "id": 16, "ingredientId": 94, "ticketName": "CHORIZO PAMPLONA" },
-	{ "id": 17, "ingredientId": 83, "ticketName": "NARANJA 2 KG" },
-	{ "id": 18, "ingredientId": 81, "ticketName": "BROCHETA POLLO" },
-	{ "id": 19, "ingredientId": 175, "ticketName": "PAPEL HUMEDO WC" },
-	{ "id": 20, "ingredientId": 238, "ticketName": "GALL C CHOCOBLANCO" },
-	{ "id": 21, "ingredientId": 1, "ticketName": "PAN M. BRIOCHE" },
-	{ "id": 22, "ingredientId": 217, "ticketName": "VALENCIANA" },
-	{ "id": 23, "ingredientId": 61, "ticketName": "HARINA REPOSTERIA" },
-	{ "id": 24, "ingredientId": 130, "ticketName": "MANTEQUILLA C/SAL" },
-	{ "id": 25, "ingredientId": 39, "ticketName": "TOMATE NATURAL RALLA" },
-	{ "id": 26, "ingredientId": 132, "ticketName": "LECHE SEMI" },
-	{ "id": 27, "ingredientId": 86, "ticketName": "GARBANZO PEDROSILLAN" },
-	{ "id": 28, "ingredientId": 36, "ticketName": "LASAÑA BOLOÑESA" },
-	{ "id": 29, "ingredientId": 140, "ticketName": "RULITO CABRA" },
-	{ "id": 30, "ingredientId": 87, "ticketName": "FUSILLI" },
+	{
+		"id": 2,
+		"ingredientId": 93,
+		"ticketName": "GAZPACHO FRESCO",
+		"supermarketId": 1
+	},
+	{ "id": 3, "ingredientId": 87, "ticketName": "HELICES", "supermarketId": 1 },
+	{
+		"id": 4,
+		"ingredientId": 254,
+		"ticketName": "CREMA CAMEMBERT",
+		"supermarketId": 1
+	},
+	{
+		"id": 5,
+		"ingredientId": 195,
+		"ticketName": "TOM. RECETA ARTESANA",
+		"supermarketId": 1
+	},
+	{
+		"id": 6,
+		"ingredientId": 150,
+		"ticketName": "12 HUEVOS CAMPEROS",
+		"supermarketId": 1
+	},
+	{
+		"id": 7,
+		"ingredientId": 6,
+		"ticketName": "PAN H BRIOCHE",
+		"supermarketId": 1
+	},
+	{
+		"id": 8,
+		"ingredientId": 95,
+		"ticketName": "PICADA DE VACUNO",
+		"supermarketId": 1
+	},
+	{ "id": 9, "ingredientId": 163, "ticketName": "FRESAS", "supermarketId": 1 },
+	{
+		"id": 10,
+		"ingredientId": 164,
+		"ticketName": "ARÁNDANOS",
+		"supermarketId": 1
+	},
+	{
+		"id": 11,
+		"ingredientId": 195,
+		"ticketName": "TOMATE FRITO",
+		"supermarketId": 1
+	},
+	{
+		"id": 12,
+		"ingredientId": 149,
+		"ticketName": "GUACAMOLE 200 G",
+		"supermarketId": 1
+	},
+	{
+		"id": 13,
+		"ingredientId": 13,
+		"ticketName": "SALSA BARBACOA",
+		"supermarketId": 1
+	},
+	{
+		"id": 14,
+		"ingredientId": 148,
+		"ticketName": "NATA PARA COCINAR",
+		"supermarketId": 1
+	},
+	{
+		"id": 15,
+		"ingredientId": 126,
+		"ticketName": "HARINA DE PIZZA",
+		"supermarketId": 1
+	},
+	{
+		"id": 16,
+		"ingredientId": 94,
+		"ticketName": "CHORIZO PAMPLONA",
+		"supermarketId": 1
+	},
+	{
+		"id": 17,
+		"ingredientId": 83,
+		"ticketName": "NARANJA 2 KG",
+		"supermarketId": 1
+	},
+	{
+		"id": 18,
+		"ingredientId": 81,
+		"ticketName": "BROCHETA POLLO",
+		"supermarketId": 1
+	},
+	{
+		"id": 19,
+		"ingredientId": 175,
+		"ticketName": "PAPEL HUMEDO WC",
+		"supermarketId": 1
+	},
+	{
+		"id": 20,
+		"ingredientId": 238,
+		"ticketName": "GALL C CHOCOBLANCO",
+		"supermarketId": 1
+	},
+	{
+		"id": 21,
+		"ingredientId": 1,
+		"ticketName": "PAN M. BRIOCHE",
+		"supermarketId": 1
+	},
+	{
+		"id": 22,
+		"ingredientId": 217,
+		"ticketName": "VALENCIANA",
+		"supermarketId": 1
+	},
+	{
+		"id": 23,
+		"ingredientId": 61,
+		"ticketName": "HARINA REPOSTERIA",
+		"supermarketId": 1
+	},
+	{
+		"id": 24,
+		"ingredientId": 130,
+		"ticketName": "MANTEQUILLA C/SAL",
+		"supermarketId": 1
+	},
+	{
+		"id": 25,
+		"ingredientId": 39,
+		"ticketName": "TOMATE NATURAL RALLA",
+		"supermarketId": 1
+	},
+	{
+		"id": 26,
+		"ingredientId": 132,
+		"ticketName": "LECHE SEMI",
+		"supermarketId": 1
+	},
+	{
+		"id": 27,
+		"ingredientId": 86,
+		"ticketName": "GARBANZO PEDROSILLAN",
+		"supermarketId": 1
+	},
+	{
+		"id": 28,
+		"ingredientId": 36,
+		"ticketName": "LASAÑA BOLOÑESA",
+		"supermarketId": 1
+	},
+	{
+		"id": 29,
+		"ingredientId": 140,
+		"ticketName": "RULITO CABRA",
+		"supermarketId": 1
+	},
+	{ "id": 30, "ingredientId": 87, "ticketName": "FUSILLI", "supermarketId": 1 },
 	{ "id": 31, "ingredientId": 197, "ticketName": "BIZCOCHO DE YOGUR" }
 ]
