@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Arroz y Granos",
+    "icon": "🍚"
+  },
+  {
+    "id": 2,
+    "name": "Atún y Conservas",
+    "icon": "🥫"
+  },
+  {
+    "id": 3,
+    "name": "Carne",
+    "icon": "🥩"
+  },
+  {
+    "id": 4,
+    "name": "Carne Picada",
+    "icon": "🍔"
+  },
+  {
+    "id": 5,
+    "name": "Cítricos",
+    "icon": "🍊"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate",
+    "icon": "🍫"
+  },
+  {
+    "id": 7,
+    "name": "Embutidos",
+    "icon": "🌭"
+  },
+  {
+    "id": 8,
+    "name": "Fruta",
+    "icon": "🍓"
+  },
+  {
+    "id": 9,
+    "name": "Frutos Secos",
+    "icon": "🥜"
+  },
+  {
+    "id": 10,
+    "name": "Gambas / Camarones",
+    "icon": "🍤"
+  },
+  {
+    "id": 11,
+    "name": "Harina",
+    "icon": "🌾"
+  },
+  {
+    "id": 12,
+    "name": "Hojas Verdes",
+    "icon": "🥬"
+  },
+  {
+    "id": 13,
+    "name": "Hortalizas",
+    "icon": "🍆"
+  },
+  {
+    "id": 14,
+    "name": "Huevos",
+    "icon": "🥚"
+  },
+  {
+    "id": 15,
+    "name": "Leche y Nata",
+    "icon": "🥛"
+  },
+  {
+    "id": 16,
+    "name": "Legumbres",
+    "icon": "🫘"
+  },
+  {
+    "id": 17,
+    "name": "Mantequilla",
+    "icon": "🧈"
+  },
+  {
+    "id": 18,
+    "name": "Pan",
+    "icon": "🍞"
+  },
+  {
+    "id": 19,
+    "name": "Pasta",
+    "icon": "🍝"
+  },
+  {
+    "id": 20,
+    "name": "Patatas / Papas",
+    "icon": "🥔"
+  },
+  {
+    "id": 21,
+    "name": "Pescado Blanco",
+    "icon": "🐠"
+  },
+  {
+    "id": 22,
+    "name": "Pescado y Marisco",
+    "icon": "🐟"
+  },
+  {
+    "id": 23,
+    "name": "Pollo y Aves",
+    "icon": "🍗"
+  },
+  {
+    "id": 24,
+    "name": "Queso",
+    "icon": "🧀"
+  },
+  {
+    "id": 25,
+    "name": "Salmón",
+    "icon": "🍣"
+  },
+  {
+    "id": 26,
+    "name": "Salsas",
+    "icon": "🌶️"
+  },
+  {
+    "id": 27,
+    "name": "Setas / Champiñones",
+    "icon": "🍄"
+  },
+  {
+    "id": 28,
+    "name": "Tomate",
+    "icon": "🍅"
+  },
+  {
+    "id": 29,
+    "name": "Verduras",
+    "icon": "🥦"
+  },
+  {
+    "id": 30,
+    "name": "Yogur",
+    "icon": "🥣"
+  }
+]

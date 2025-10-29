@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "A la Parrilla / BBQ",
+    "icon": "🔥"
+  },
+  {
+    "id": 2,
+    "name": "Acompañamientos",
+    "icon": "🍟"
+  },
+  {
+    "id": 3,
+    "name": "Aperitivos / Picoteo",
+    "icon": "🥨"
+  },
+  {
+    "id": 4,
+    "name": "Bocadillos / Sándwiches",
+    "icon": "🥪"
+  },
+  {
+    "id": 5,
+    "name": "Bowls",
+    "icon": "🥗"
+  },
+  {
+    "id": 6,
+    "name": "Brunch",
+    "icon": "🥂"
+  },
+  {
+    "id": 7,
+    "name": "Cenas Ligeras",
+    "icon": "🌙"
+  },
+  {
+    "id": 8,
+    "name": "Comida Casera",
+    "icon": "🏠"
+  },
+  {
+    "id": 9,
+    "name": "Comida Reconfortante",
+    "icon": "🤗"
+  },
+  {
+    "id": 10,
+    "name": "Desayunos",
+    "icon": "🥞"
+  },
+  {
+    "id": 11,
+    "name": "Ensaladas",
+    "icon": "🥬"
+  },
+  {
+    "id": 12,
+    "name": "Entrantes",
+    "icon": "🥟"
+  },
+  {
+    "id": 13,
+    "name": "Gratinados",
+    "icon": "🧀"
+  },
+  {
+    "id": 14,
+    "name": "Guisos y Estofados",
+    "icon": "🥘"
+  },
+  {
+    "id": 15,
+    "name": "Hamburguesas",
+    "icon": "🍔"
+  },
+  {
+    "id": 16,
+    "name": "Horneados / Asados",
+    "icon": "🧑‍🍳"
+  },
+  {
+    "id": 17,
+    "name": "Para Fiestas",
+    "icon": "🎉"
+  },
+  {
+    "id": 18,
+    "name": "Pastas",
+    "icon": "🍝"
+  },
+  {
+    "id": 19,
+    "name": "Pizzas",
+    "icon": "🍕"
+  },
+  {
+    "id": 20,
+    "name": "Plato Único",
+    "icon": "🍽️"
+  },
+  {
+    "id": 21,
+    "name": "Platos de Cuchara",
+    "icon": "🥄"
+  },
+  {
+    "id": 22,
+    "name": "Platos Fríos",
+    "icon": "🧊"
+  },
+  {
+    "id": 23,
+    "name": "Postres",
+    "icon": "🍰"
+  },
+  {
+    "id": 24,
+    "name": "Quiches y Tartas Saladas",
+    "icon": "🥧"
+  },
+  {
+    "id": 25,
+    "name": "Salsas y Aderezos",
+    "icon": "🥫"
+  },
+  {
+    "id": 26,
+    "name": "Salteados y Woks",
+    "icon": "🥡"
+  },
+  {
+    "id": 27,
+    "name": "Snacks",
+    "icon": "🍿"
+  },
+  {
+    "id": 28,
+    "name": "Sopas y Cremas",
+    "icon": "🥣"
+  },
+  {
+    "id": 29,
+    "name": "Tacos y Burritos",
+    "icon": "🌮"
+  },
+  {
+    "id": 30,
+    "name": "Tapas",
+    "icon": "🍢"
+  }
+]
