@@ -1,13 +1,47 @@
 [
 	{
-		"id": 1,
-    "guid": "ad3aa285-350a-42e6-9e00-956695b0ba21",
-		"name": "Macarrones con Tomate",
+		"id": 2,
+		"uuid": "119b36e3-b7d7-4167-b14d-b3ff4bcb5a4a",
+		"isGeneric": false,
+		"isStored": false,
+		"genericId": 4,
+		"name": "Macarrones con Atún",
 		"difficulty": 1,
 		"time": 2,
-		"price": 1,
+		"price": 2,
 		"mealType": 3,
-		"dishCategoryId": null,
-		"imagePath": "images/foods/food_1759528427326.jpg"
+		"foodCategoryByIngredientId": 19,
+		"foodCategoryByTypeId": 18,
+		"imagePath": null
+	},
+	{
+		"id": 3,
+		"uuid": "a22f4bef-9a4f-4264-8968-46e478aee6d6",
+		"isGeneric": false,
+		"isStored": false,
+		"genericId": 4,
+		"name": "Macarrones Boloñesa",
+		"difficulty": 1,
+		"time": 2,
+		"price": 2,
+		"mealType": 3,
+		"foodCategoryByIngredientId": 19,
+		"foodCategoryByTypeId": 18,
+		"imagePath": null
+	},
+	{
+		"id": 4,
+		"uuid": "194c7fd9-482a-4536-92ff-199b8e57b3d5",
+		"isGeneric": true,
+		"isStored": false,
+		"genericId": null,
+		"name": "Macarrones",
+		"difficulty": null,
+		"time": null,
+		"price": null,
+		"mealType": null,
+		"foodCategoryByIngredientId": null,
+		"foodCategoryByTypeId": null,
+		"imagePath": null
 	}
 ]
