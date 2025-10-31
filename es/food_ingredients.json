@@ -37,7 +37,7 @@
 	},
 	{
 		"id": 4,
-		"foodId": 1,
+		"foodId": 2,
 		"foodUUID": "a22f4bef-9a4f-4264-8968-46e478aee6d6",
 		"ingredientId": 123,
 		"description": "",
@@ -49,7 +49,7 @@
 	},
 	{
 		"id": 5,
-		"foodId": 1,
+		"foodId": 2,
 		"foodUUID": "a22f4bef-9a4f-4264-8968-46e478aee6d6",
 		"ingredientId": 95,
 		"description": "",
