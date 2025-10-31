@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"uuid": "119b36e3-b7d7-4167-b14d-b3ff4bcb5a4a",
+		"UUID": "119b36e3-b7d7-4167-b14d-b3ff4bcb5a4a",
 		"isGeneric": false,
 		"isStored": false,
 		"genericId": 3,
@@ -16,7 +16,7 @@
 	},
 	{
 		"id": 2,
-		"uuid": "a22f4bef-9a4f-4264-8968-46e478aee6d6",
+		"UUID": "a22f4bef-9a4f-4264-8968-46e478aee6d6",
 		"isGeneric": false,
 		"isStored": false,
 		"genericId": 3,
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": 3,
-		"uuid": "194c7fd9-482a-4536-92ff-199b8e57b3d5",
+		"UUID": "194c7fd9-482a-4536-92ff-199b8e57b3d5",
 		"isGeneric": true,
 		"isStored": false,
 		"genericId": null,
