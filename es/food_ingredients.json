@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"foodId": 1,
-		"foodUUID": null,
+		"foodUUID": "119b36e3-b7d7-4167-b14d-b3ff4bcb5a4a",
 		"ingredientId": 87,
 		"description": "",
 		"amount": 1,
@@ -14,7 +14,7 @@
 	{
 		"id": 2,
 		"foodId": 1,
-		"foodUUID": null,
+		"foodUUID": "119b36e3-b7d7-4167-b14d-b3ff4bcb5a4a",
 		"ingredientId": 195,
 		"description": "",
 		"amount": 1,
@@ -26,7 +26,7 @@
 	{
 		"id": 3,
 		"foodId": 1,
-		"foodUUID": null,
+		"foodUUID": "119b36e3-b7d7-4167-b14d-b3ff4bcb5a4a",
 		"ingredientId": 150,
 		"description": "",
 		"amount": 1,
@@ -38,7 +38,7 @@
 	{
 		"id": 4,
 		"foodId": 1,
-		"foodUUID": null,
+		"foodUUID": "a22f4bef-9a4f-4264-8968-46e478aee6d6",
 		"ingredientId": 123,
 		"description": "",
 		"amount": 1,
@@ -50,7 +50,7 @@
 	{
 		"id": 5,
 		"foodId": 1,
-		"foodUUID": null,
+		"foodUUID": "a22f4bef-9a4f-4264-8968-46e478aee6d6",
 		"ingredientId": 95,
 		"description": "",
 		"amount": 1,
