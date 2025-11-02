@@ -9,7 +9,7 @@
 		"difficulty": 1,
 		"time": 2,
 		"price": 2,
-		"mealTypes": [3],
+		"mealTypes": "3",
 		"foodCategoryByIngredientId": 19,
 		"foodCategoryByTypeId": 18,
 		"imagePath": null
@@ -24,7 +24,7 @@
 		"difficulty": 1,
 		"time": 2,
 		"price": 2,
-		"mealTypes": [3],
+		"mealTypes": "3",
 		"foodCategoryByIngredientId": 19,
 		"foodCategoryByTypeId": 18,
 		"imagePath": null
@@ -39,7 +39,7 @@
 		"difficulty": null,
 		"time": null,
 		"price": null,
-		"mealTypes": [],
+		"mealTypes": "",
 		"foodCategoryByIngredientId": null,
 		"foodCategoryByTypeId": null,
 		"imagePath": null
