@@ -2546,7 +2546,7 @@
 	{
 		"id": 215,
 		"name": "Maíz para Palomitas",
-		"imagePath": "",
+		"imagePath": "/images/9d28fe31-1c74-4896-a6eb-f1f5c3bf1f10.webp",
 		"categoryId": 9,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3302,7 +3302,7 @@
 	{
 		"id": 279,
 		"name": "Gazpacho Pasteurizado",
-		"imagePath": "",
+		"imagePath": "/images/faad636d-451a-4ad8-870b-b61ce93b7458.webp",
 		"categoryId": 12,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3314,7 +3314,7 @@
 	{
 		"id": 280,
 		"name": "Queso rallado Pizza",
-		"imagePath": "",
+		"imagePath": "/images/8f8c324a-afbc-4fd4-97db-06f7c3e2486b.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3326,7 +3326,7 @@
 	{
 		"id": 281,
 		"name": "Queso rallado 4 quesos",
-		"imagePath": "",
+		"imagePath": "/images/a49e6438-8ee5-4bb0-9c5c-0ae83bad4595.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3338,7 +3338,7 @@
 	{
 		"id": 282,
 		"name": "Yogur Proteínas",
-		"imagePath": "",
+		"imagePath": "/images/91f8d779-ef7c-4ac5-ad06-17f5ea1aa035.webp",
 		"categoryId": 4,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3350,7 +3350,7 @@
 	{
 		"id": 283,
 		"name": "Salmorejo Pasteurizado",
-		"imagePath": "",
+		"imagePath": "/images/f2b3a711-2ba7-4e78-b424-2b6b5a822c21.webp",
 		"categoryId": 12,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3362,7 +3362,7 @@
 	{
 		"id": 284,
 		"name": "Lasaña de Espinacas",
-		"imagePath": "",
+		"imagePath": "/images/ae231b55-8eef-4de1-8532-ee3ea6f46e92.webp",
 		"categoryId": 12,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3374,7 +3374,7 @@
 	{
 		"id": 285,
 		"name": "Banana",
-		"imagePath": "",
+		"imagePath": "/images/09083f51-798f-4e64-be9d-a5d447362b35.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3386,7 +3386,7 @@
 	{
 		"id": 286,
 		"name": "Bizcocho de Yogur",
-		"imagePath": "",
+		"imagePath": "/images/7b3fbc46-324f-4797-9f51-d9c0f197643e.webp",
 		"categoryId": 10,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3398,7 +3398,7 @@
 	{
 		"id": 287,
 		"name": "Tomate Frito estilo Casero",
-		"imagePath": "",
+		"imagePath": "/images/006706ae-e481-46d5-99b1-872a155fa111.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3410,7 +3410,7 @@
 	{
 		"id": 288,
 		"name": "Chocolate Negro Fundir",
-		"imagePath": "",
+		"imagePath": "/images/ff738c63-82ad-4738-a549-53e4cd6ae2b8.webp",
 		"categoryId": 16,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3422,7 +3422,7 @@
 	{
 		"id": 289,
 		"name": "Nachos",
-		"imagePath": "",
+		"imagePath": "/images/d0bea7fe-33ae-4e87-bc21-49c6c0ee7227.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3434,7 +3434,7 @@
 	{
 		"id": 290,
 		"name": "Toallitas Faciales",
-		"imagePath": "",
+		"imagePath": "/images/e6464516-34df-4313-8a7c-0570e26aca53.webp",
 		"categoryId": 22,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3446,7 +3446,7 @@
 	{
 		"id": 291,
 		"name": "Gominolas",
-		"imagePath": "",
+		"imagePath": "/images/46c519c9-da60-4ea3-b9c5-b83dd46814e9.webp",
 		"categoryId": 10,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3458,7 +3458,7 @@
 	{
 		"id": 292,
 		"name": "Regalices Nata y Fresa",
-		"imagePath": "",
+		"imagePath": "/images/676ae940-e9ec-4b87-a836-3f6951e82b2b.webp",
 		"categoryId": 10,
 		"isVegetarian": 0,
 		"isHalal": 0,
