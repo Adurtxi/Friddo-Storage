@@ -19,7 +19,7 @@
 		"id": 2,
 		"UUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
 		"isGeneric": 0,
-		"isStored": 0,
+		"isStored": 1,
 		"genericId": 1,
 		"name": "Macarrones Boloñesa",
 		"difficulty": 2,
@@ -28,14 +28,14 @@
 		"mealTypes": "3,5",
 		"foodCategoryByIngredientId": 19,
 		"foodCategoryByTypeId": 18,
-		"imagePath": null,
+		"imagePath": "b84774ff-1399-445b-b379-c8521705005d.webp",
 		"isFavorite": 0
 	},
 	{
 		"id": 3,
 		"UUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
 		"isGeneric": 0,
-		"isStored": 0,
+		"isStored": 1,
 		"genericId": 1,
 		"name": "Macarrones con Atún",
 		"difficulty": 2,
@@ -44,14 +44,14 @@
 		"mealTypes": "3,5",
 		"foodCategoryByIngredientId": 19,
 		"foodCategoryByTypeId": 18,
-		"imagePath": null,
+		"imagePath": "05caa79a-cc9d-499d-9fb1-d3024e43edde.webp",
 		"isFavorite": 0
 	},
 	{
 		"id": 4,
 		"UUID": "9e3fa970-08f3-45f9-8881-599164adefa1",
 		"isGeneric": 0,
-		"isStored": 0,
+		"isStored": 1,
 		"genericId": 1,
 		"name": "Macarrones con Pesto",
 		"difficulty": 2,
@@ -60,7 +60,7 @@
 		"mealTypes": "3,5",
 		"foodCategoryByIngredientId": 19,
 		"foodCategoryByTypeId": 18,
-		"imagePath": null,
+		"imagePath": "b2c828d4-6b55-4801-9f17-1e9cee577b00.webp",
 		"isFavorite": 0
 	},
 	{
@@ -115,7 +115,7 @@
 		"id": 8,
 		"UUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
 		"isGeneric": 0,
-		"isStored": 0,
+		"isStored": 1,
 		"genericId": 10,
 		"name": "Ensalada Variada",
 		"difficulty": 2,
@@ -124,14 +124,14 @@
 		"mealTypes": "3,5",
 		"foodCategoryByIngredientId": 12,
 		"foodCategoryByTypeId": 11,
-		"imagePath": null,
+		"imagePath": "126595cb-ee12-417e-a9fb-9a2af5e8b86a.webp",
 		"isFavorite": 0
 	},
 	{
 		"id": 9,
 		"UUID": "bb3fc804-4cc6-4689-a08f-b5175fde051b",
 		"isGeneric": 0,
-		"isStored": 0,
+		"isStored": 1,
 		"genericId": 5,
 		"name": "Ensalada de Tomate con Bonito",
 		"difficulty": 2,
@@ -140,7 +140,7 @@
 		"mealTypes": "3,5",
 		"foodCategoryByIngredientId": 28,
 		"foodCategoryByTypeId": 11,
-		"imagePath": null,
+		"imagePath": "images/foods/3d2e5134-0ae2-4be2-be5c-5495d499c644.webp",
 		"isFavorite": 0
 	},
 	{
