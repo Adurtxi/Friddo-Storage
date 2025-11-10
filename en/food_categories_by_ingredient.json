@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Rice & Grains",
+    "icon": "🍚"
+  },
+  {
+    "id": 2,
+    "name": "Tuna & Canned Goods",
+    "icon": "🥫"
+  },
+  {
+    "id": 3,
+    "name": "Meat",
+    "icon": "🥩"
+  },
+  {
+    "id": 4,
+    "name": "Ground Meat",
+    "icon": "🍔"
+  },
+  {
+    "id": 5,
+    "name": "Citrus",
+    "icon": "🍊"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate",
+    "icon": "🍫"
+  },
+  {
+    "id": 7,
+    "name": "Cured Meats",
+    "icon": "🌭"
+  },
+  {
+    "id": 8,
+    "name": "Fruit",
+    "icon": "🍓"
+  },
+  {
+    "id": 9,
+    "name": "Nuts",
+    "icon": "🥜"
+  },
+  {
+    "id": 10,
+    "name": "Prawns / Shrimp",
+    "icon": "🍤"
+  },
+  {
+    "id": 11,
+    "name": "Flour",
+    "icon": "🌾"
+  },
+  {
+    "id": 12,
+    "name": "Leafy Greens",
+    "icon": "🥬"
+  },
+  {
+    "id": 13,
+    "name": "Vegetables",
+    "icon": "🍆"
+  },
+  {
+    "id": 14,
+    "name": "Eggs",
+    "icon": "🥚"
+  },
+  {
+    "id": 15,
+    "name": "Milk & Cream",
+    "icon": "🥛"
+  },
+  {
+    "id": 16,
+    "name": "Legumes",
+    "icon": "🫘"
+  },
+  {
+    "id": 17,
+    "name": "Butter",
+    "icon": "🧈"
+  },
+  {
+    "id": 18,
+    "name": "Bread",
+    "icon": "🍞"
+  },
+  {
+    "id": 19,
+    "name": "Pasta",
+    "icon": "🍝"
+  },
+  {
+    "id": 20,
+    "name": "Potatoes",
+    "icon": "🥔"
+  },
+  {
+    "id": 21,
+    "name": "White Fish",
+    "icon": "🐠"
+  },
+  {
+    "id": 22,
+    "name": "Fish & Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": 23,
+    "name": "Chicken & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": 24,
+    "name": "Cheese",
+    "icon": "🧀"
+  },
+  {
+    "id": 25,
+    "name": "Salmon",
+    "icon": "🍣"
+  },
+  {
+    "id": 26,
+    "name": "Sauces",
+    "icon": "🌶️"
+  },
+  {
+    "id": 27,
+    "name": "Mushrooms",
+    "icon": "🍄"
+  },
+  {
+    "id": 28,
+    "name": "Tomato",
+    "icon": "🍅"
+  },
+  {
+    "id": 29,
+    "name": "Greens",
+    "icon": "🥦"
+  },
+  {
+    "id": 30,
+    "name": "Yogurt",
+    "icon": "🥣"
+  }
+]

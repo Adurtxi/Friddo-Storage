@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled / BBQ",
+    "icon": "🔥"
+  },
+  {
+    "id": 2,
+    "name": "Side Dishes",
+    "icon": "🍟"
+  },
+  {
+    "id": 3,
+    "name": "Appetizers / Snacks",
+    "icon": "🥨"
+  },
+  {
+    "id": 4,
+    "name": "Rolls / Sandwiches",
+    "icon": "🥪"
+  },
+  {
+    "id": 5,
+    "name": "Bowls",
+    "icon": "🥗"
+  },
+  {
+    "id": 6,
+    "name": "Brunch",
+    "icon": "🥂"
+  },
+  {
+    "id": 7,
+    "name": "Light Dinners",
+    "icon": "🌙"
+  },
+  {
+    "id": 8,
+    "name": "Homemade Food",
+    "icon": "🏠"
+  },
+  {
+    "id": 9,
+    "name": "Comfort Food",
+    "icon": "🤗"
+  },
+  {
+    "id": 10,
+    "name": "Breakfasts",
+    "icon": "🥞"
+  },
+  {
+    "id": 11,
+    "name": "Salads",
+    "icon": "🥬"
+  },
+  {
+    "id": 12,
+    "name": "Starters",
+    "icon": "🥟"
+  },
+  {
+    "id": 13,
+    "name": "Au Gratin",
+    "icon": "🧀"
+  },
+  {
+    "id": 14,
+    "name": "Stews",
+    "icon": "🥘"
+  },
+  {
+    "id": 15,
+    "name": "Burgers",
+    "icon": "🍔"
+  },
+  {
+    "id": 16,
+    "name": "Baked / Roasted",
+    "icon": "🧑‍🍳"
+  },
+  {
+    "id": 17,
+    "name": "For Parties",
+    "icon": "🎉"
+  },
+  {
+    "id": 18,
+    "name": "Pasta",
+    "icon": "🍝"
+  },
+  {
+    "id": 19,
+    "name": "Pizzas",
+    "icon": "🍕"
+  },
+  {
+    "id": 20,
+    "name": "One-Dish Meal",
+    "icon": "🍽️"
+  },
+  {
+    "id": 21,
+    "name": "Spoon Dishes",
+    "icon": "🥄"
+  },
+  {
+    "id": 22,
+    "name": "Cold Dishes",
+    "icon": "🧊"
+  },
+  {
+    "id": 23,
+    "name": "Desserts",
+    "icon": "🍰"
+  },
+  {
+    "id": 24,
+    "name": "Quiches & Savory Tarts",
+    "icon": "🥧"
+  },
+  {
+    "id": 25,
+    "name": "Sauces & Dressings",
+    "icon": "🥫"
+  },
+  {
+    "id": 26,
+    "name": "Stir-fries & Woks",
+    "icon": "🥡"
+  },
+  {
+    "id": 27,
+    "name": "Snacks",
+    "icon": "🍿"
+  },
+  {
+    "id": 28,
+    "name": "Soups & Creams",
+    "icon": "🥣"
+  },
+  {
+    "id": 29,
+    "name": "Tacos & Burritos",
+    "icon": "🌮"
+  },
+  {
+    "id": 30,
+    "name": "Tapas",
+    "icon": "🍢"
+  }
+]

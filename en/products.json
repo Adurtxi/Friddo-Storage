@@ -1,50 +1,50 @@
 [
-	{
-		"id": 1,
-		"name": "Pan de Molde Bimbo",
-		"amount": 1.0,
-		"unitId": 3,
-		"brandId": 1,
-		"price": 2.4,
-		"imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
-		"barcode": null,
-		"nameOnTicket": "",
-		"ingredientId": 1
-	},
-	{
-		"id": 2,
-		"name": "Platanos Eroski Natur",
-		"amount": 1.0,
-		"unitId": 3,
-		"brandId": 1,
-		"price": 1.55,
-		"imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
-		"barcode": null,
-		"nameOnTicket": "",
-		"ingredientId": 4
-	},
-	{
-		"id": 3,
-		"name": "Aloe Vera",
-		"amount": 200.0,
-		"unitId": 5,
-		"brandId": 2,
-		"price": 0.0,
-		"imagePath": "/images/89268ffe-2277-4663-8fb3-f818a214dacd.webp",
-		"barcode": null,
-		"nameOnTicket": "",
-		"ingredientId": 3
-	},
-	{
-		"id": 4,
-		"name": "Nueces Pack Familiar",
-		"amount": 400.0,
-		"unitId": 1,
-		"brandId": 5,
-		"price": 6.0,
-		"imagePath": "/images/d190c2b4-522e-42ab-965f-6a3399b9105b.webp",
-		"barcode": null,
-		"nameOnTicket": "",
-		"ingredientId": 2
-	}
+  {
+    "id": 1,
+    "name": "Bimbo Sliced Bread",
+    "amount": 1.0,
+    "unitId": 3,
+    "brandId": 1,
+    "price": 2.4,
+    "imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
+    "barcode": null,
+    "nameOnTicket": "",
+    "ingredientId": 1
+  },
+  {
+    "id": 2,
+    "name": "Eroski Natur Bananas",
+    "amount": 1.0,
+    "unitId": 3,
+    "brandId": 1,
+    "price": 1.55,
+    "imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
+    "barcode": null,
+    "nameOnTicket": "",
+    "ingredientId": 4
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera",
+    "amount": 200.0,
+    "unitId": 5,
+    "brandId": 2,
+    "price": 0.0,
+    "imagePath": "/images/89268ffe-2277-4663-8fb3-f818a214dacd.webp",
+    "barcode": null,
+    "nameOnTicket": "",
+    "ingredientId": 3
+  },
+  {
+    "id": 4,
+    "name": "Walnuts Family Pack",
+    "amount": 400.0,
+    "unitId": 1,
+    "brandId": 5,
+    "price": 6.0,
+    "imagePath": "/images/d190c2b4-522e-42ab-965f-6a3399b9105b.webp",
+    "barcode": null,
+    "nameOnTicket": "",
+    "ingredientId": 2
+  }
 ]
