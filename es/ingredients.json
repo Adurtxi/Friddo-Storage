@@ -3477,19 +3477,19 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 294,
 		"name": "Zanahorias",
-		"imagePath": "",
+		"imagePath": "/images/76cf6fc5-9f85-4b04-8f42-32f70a1105f4.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 295,
@@ -3501,79 +3501,79 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 296,
 		"name": "Champiñones",
-		"imagePath": "",
+		"imagePath": "/images/561b6252-9c67-478f-8f42-d6bac6c42c71.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 297,
 		"name": "Judías Verdes",
-		"imagePath": "",
+		"imagePath": "/images/c683455f-e206-4993-8eaa-62f6ada660e9.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 298,
 		"name": "Espárragos",
-		"imagePath": "",
+		"imagePath": "/images/b1e7da57-1cd4-425d-a264-fe59244fb9ad.webp",
 		"categoryId": 1,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 299,
 		"name": "Albahaca",
-		"imagePath": "",
+		"imagePath": "/images/d65c12c5-ab3a-425b-b051-fa1b9e0b8571.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 300,
 		"name": "Menta",
-		"imagePath": "",
+		"imagePath": "/images/ab71531a-7c38-40b4-a7e1-4080632e504e.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 301,
 		"name": "Romero",
-		"imagePath": "",
+		"imagePath": "/images/f55f683d-1b00-455c-9559-276140054c33.webp",
 		"categoryId": 7,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 302,
@@ -3585,7 +3585,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 303,
@@ -3597,19 +3597,19 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 304,
 		"name": "Gambas",
-		"imagePath": "",
+		"imagePath": "/images/b2c165e3-6d3a-4172-b966-71c1ddf42499.webp",
 		"categoryId": 27,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 305,
@@ -3621,19 +3621,19 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 306,
 		"name": "Mejillones",
-		"imagePath": "",
+		"imagePath": "/images/a2ae4419-ddfc-41e6-920a-df2c2f97aba2.webp",
 		"categoryId": 27,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 307,
@@ -3645,7 +3645,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 308,
@@ -3657,7 +3657,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 309,
@@ -3669,31 +3669,31 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 310,
 		"name": "Queso Parmesano",
-		"imagePath": "",
+		"imagePath": "/images/f79fea13-93ac-4ee5-bddf-6c5d2f05f823.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 311,
 		"name": "Queso Azul",
-		"imagePath": "",
+		"imagePath": "/images/89974f81-7822-4268-b9cf-5855569466ec.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 312,
@@ -3705,31 +3705,31 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 313,
 		"name": "Queso Camembert",
-		"imagePath": "",
+		"imagePath": "/images/570f5ab9-ff37-4650-bd3c-3d35d9e911c9.webp",
 		"categoryId": 3,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 314,
 		"name": "Masa de Hojaldre",
-		"imagePath": "",
+		"imagePath": "/images/bebec20e-b2f3-4afd-b7ac-c997bfe14c92.webp",
 		"categoryId": 5,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 315,
@@ -3741,31 +3741,31 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 316,
 		"name": "Masa de Empanada",
-		"imagePath": "",
+		"imagePath": "/images/a162e668-f0c6-4689-8fe9-97514df3ddaf.webp",
 		"categoryId": 5,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 3,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 317,
 		"name": "Copos de Avena",
-		"imagePath": "",
+		"imagePath": "/images/b5e8a878-805f-4073-8734-55c1ca8c9858.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 318,
@@ -3777,7 +3777,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 319,
@@ -3789,7 +3789,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 320,
@@ -3801,7 +3801,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 321,
@@ -3813,7 +3813,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 322,
@@ -3825,127 +3825,127 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 323,
 		"name": "Almendras",
-		"imagePath": "",
+		"imagePath": "/images/b52d2b1c-5fe2-45f4-847c-8c1e2be9c9df.webp",
 		"categoryId": 9,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 324,
 		"name": "Anacardos",
-		"imagePath": "",
+		"imagePath": "/images/3cd76594-fd12-4fb0-9d74-aa9db5e70685.webp",
 		"categoryId": 9,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 325,
 		"name": "Café Molido",
-		"imagePath": "",
+		"imagePath": "/images/9def96f9-63dd-4706-8523-9d3ce5904350.webp",
 		"categoryId": 16,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 326,
 		"name": "Café en Grano",
-		"imagePath": "",
+		"imagePath": "/images/11ad1c23-128e-4fe7-842c-7d46f676490e.webp",
 		"categoryId": 16,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 327,
 		"name": "Agua",
-		"imagePath": "",
+		"imagePath": "/images/68b1d860-ee52-4488-a864-eaa451ead2db.webp",
 		"categoryId": 14,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 328,
 		"name": "Agua con Gas",
-		"imagePath": "",
+		"imagePath": "/images/d4a9fdbc-479a-41f8-b20b-226a86b14af0.webp",
 		"categoryId": 14,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 329,
 		"name": "Vino Tinto",
-		"imagePath": "",
+		"imagePath": "/images/dac1fe3b-f2fe-4300-9716-a061405fe098.webp",
 		"categoryId": 17,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 330,
 		"name": "Vino Blanco",
-		"imagePath": "",
+		"imagePath": "/images/e7fd3213-fe59-4501-b51a-e3c6a5ee1b35.webp",
 		"categoryId": 17,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 331,
 		"name": "Vino Rosado",
-		"imagePath": "",
+		"imagePath": "/images/433737eb-ba24-4cd1-874a-cc0af963d82d.webp",
 		"categoryId": 17,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 332,
 		"name": "Cerveza",
-		"imagePath": "",
+		"imagePath": "/images/25a85aae-1f9d-4e3f-a28d-f5122833b195.webp",
 		"categoryId": 18,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 333,
@@ -3957,7 +3957,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 334,
@@ -3969,7 +3969,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 335,
@@ -3981,7 +3981,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 336,
@@ -3993,7 +3993,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 337,
@@ -4005,7 +4005,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 338,
@@ -4017,7 +4017,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 339,
@@ -4029,7 +4029,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 340,
@@ -4041,7 +4041,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 341,
@@ -4053,7 +4053,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 342,
@@ -4065,7 +4065,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 343,
@@ -4077,7 +4077,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 344,
@@ -4089,7 +4089,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 345,
@@ -4101,7 +4101,19 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
+	},
+	{
+		"id": 346,
+		"name": "Fregasuelos",
+		"imagePath": "",
+		"categoryId": 23,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"storageRuleId": 1,
+		"stored": 1
 	},
 	{
 		"id": 354,
@@ -4113,7 +4125,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 355,
@@ -4125,7 +4137,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 356,
@@ -4137,7 +4149,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 357,
@@ -4149,7 +4161,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 358,
@@ -4161,7 +4173,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 359,
@@ -4173,7 +4185,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 360,
@@ -4185,7 +4197,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 361,
@@ -4197,7 +4209,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 362,
@@ -4209,7 +4221,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 363,
@@ -4221,7 +4233,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 364,
@@ -4233,7 +4245,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 365,
@@ -4245,7 +4257,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 366,
@@ -4257,7 +4269,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 367,
@@ -4269,7 +4281,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 368,
@@ -4281,7 +4293,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 369,
@@ -4293,7 +4305,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 370,
@@ -4305,7 +4317,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 371,
@@ -4317,7 +4329,7 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	},
 	{
 		"id": 372,
@@ -4329,6 +4341,6 @@
 		"isGeneric": 0,
 		"genericId": null,
 		"storageRuleId": 1,
-		"stored": 0
+		"stored": 1
 	}
 ]
