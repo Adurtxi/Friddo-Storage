@@ -3986,7 +3986,7 @@
 	{
 		"id": 336,
 		"name": "Té Verde",
-		"imagePath": "",
+		"imagePath": "/images/ff8e4fd1-e9ab-4352-bc3b-f400a21a2a05.webp",
 		"categoryId": 16,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -3998,7 +3998,7 @@
 	{
 		"id": 337,
 		"name": "Manzanilla",
-		"imagePath": "",
+		"imagePath": "/images/a6a6151a-116c-4b35-96f6-14a104a48f03.webp",
 		"categoryId": 16,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4010,7 +4010,7 @@
 	{
 		"id": 338,
 		"name": "Tila",
-		"imagePath": "",
+		"imagePath": "/images/a4507178-962e-4a5c-8d82-9efcd505c8c3.webp",
 		"categoryId": 16,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4034,7 +4034,7 @@
 	{
 		"id": 340,
 		"name": "Detergente Lavadora",
-		"imagePath": "",
+		"imagePath": "/images/84881a2d-f50a-412b-a97f-c64276457742.webp",
 		"categoryId": 23,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4046,7 +4046,7 @@
 	{
 		"id": 341,
 		"name": "Suavizante Ropa",
-		"imagePath": "",
+		"imagePath": "/images/e8f841a3-18fa-440f-a67b-f806d1af0651.webp",
 		"categoryId": 23,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4070,7 +4070,7 @@
 	{
 		"id": 343,
 		"name": "Limpia-hogar Multiusos",
-		"imagePath": "",
+		"imagePath": "/images/13e0dfea-4cd6-43fd-8103-0b81bce8a1d1.webp",
 		"categoryId": 23,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4082,7 +4082,7 @@
 	{
 		"id": 344,
 		"name": "Limpiacristales",
-		"imagePath": "",
+		"imagePath": "/images/fa50377d-d347-48a7-9dc5-5a258c033606.webp",
 		"categoryId": 23,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4094,7 +4094,7 @@
 	{
 		"id": 345,
 		"name": "Pastillas Lavavajillas",
-		"imagePath": "",
+		"imagePath": "/images/04bd0deb-973c-4443-88e2-a647af5ac9e9.webp",
 		"categoryId": 23,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4202,13 +4202,13 @@
 	{
 		"id": 361,
 		"name": "Lentejas Cocidas",
-		"imagePath": "",
+		"imagePath": "/images/0794ae72-4e56-4596-bd59-d994690d6218.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"storageRuleId": 1,
+		"storageRuleId": 2,
 		"stored": 1
 	},
 	{
