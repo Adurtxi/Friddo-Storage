@@ -4118,7 +4118,7 @@
 	{
 		"id": 354,
 		"name": "Judías Verdes Congeladas",
-		"imagePath": "",
+		"imagePath": "/images/ec777431-0b07-480b-8543-1f10fbd9920f.webp",
 		"categoryId": 11,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4130,7 +4130,7 @@
 	{
 		"id": 355,
 		"name": "Menestra de Verduras Congelada",
-		"imagePath": "",
+		"imagePath": "/images/1c0c896b-d846-416b-9845-04e32296976b.webp",
 		"categoryId": 11,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4142,19 +4142,19 @@
 	{
 		"id": 356,
 		"name": "Varitas de Merluza Congeladas",
-		"imagePath": "",
+		"imagePath": "/images/8756cefc-19bb-4469-a97c-74366faf8d01.webp",
 		"categoryId": 11,
 		"isVegetarian": 0,
 		"isHalal": 0,
 		"isGeneric": 0,
 		"genericId": null,
-		"storageRuleId": 1,
+		"storageRuleId": 3,
 		"stored": 1
 	},
 	{
 		"id": 357,
 		"name": "Pescado Rebozado",
-		"imagePath": "",
+		"imagePath": "/images/9553bca1-ab2d-45a5-ad2b-733498ca8e35.webp",
 		"categoryId": 11,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4166,7 +4166,7 @@
 	{
 		"id": 358,
 		"name": "Sardinas en Aceite",
-		"imagePath": "",
+		"imagePath": "/images/a467bd3c-3d5c-4f0d-b756-357eb70bac32.webp",
 		"categoryId": 8,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4178,7 +4178,7 @@
 	{
 		"id": 359,
 		"name": "Berberechos",
-		"imagePath": "",
+		"imagePath": "/images/e838c366-acd1-4c87-9f90-66116d637ddc.webp",
 		"categoryId": 8,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4190,7 +4190,7 @@
 	{
 		"id": 360,
 		"name": "Mejillones en Escabeche",
-		"imagePath": "",
+		"imagePath": "/images/c62bf26b-3bc4-42d5-9101-9ad520510fec.webp",
 		"categoryId": 8,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4201,19 +4201,7 @@
 	},
 	{
 		"id": 361,
-		"name": "Lentejas Secas",
-		"imagePath": "",
-		"categoryId": 6,
-		"isVegetarian": 0,
-		"isHalal": 0,
-		"isGeneric": 0,
-		"genericId": null,
-		"storageRuleId": 1,
-		"stored": 1
-	},
-	{
-		"id": 362,
-		"name": "Garbanzos Secos",
+		"name": "Lentejas Cocidas",
 		"imagePath": "",
 		"categoryId": 6,
 		"isVegetarian": 0,
@@ -4225,8 +4213,8 @@
 	},
 	{
 		"id": 363,
-		"name": "Alubias Secas",
-		"imagePath": "",
+		"name": "Alubias",
+		"imagePath": "/images/77511aca-a672-4160-9929-7771cb89ba7c.webp",
 		"categoryId": 6,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4238,7 +4226,7 @@
 	{
 		"id": 364,
 		"name": "Desodorante",
-		"imagePath": "",
+		"imagePath": "/images/0080ba43-fb89-499b-80cc-da5e38979164.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4250,7 +4238,7 @@
 	{
 		"id": 365,
 		"name": "Cuchillas de Afeitar",
-		"imagePath": "",
+		"imagePath": "/images/5563c7af-34da-4d91-b07a-c2fc5bfc2800.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4262,7 +4250,7 @@
 	{
 		"id": 366,
 		"name": "Espuma de Afeitar",
-		"imagePath": "",
+		"imagePath": "/images/423ea531-cdcb-4ba7-b7ff-9c74f537b485.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4274,7 +4262,7 @@
 	{
 		"id": 367,
 		"name": "Hilo Dental",
-		"imagePath": "",
+		"imagePath": "/images/bb89a35c-e428-463f-bad5-b40aac75fce3.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4286,7 +4274,7 @@
 	{
 		"id": 368,
 		"name": "Enjuague Bucal",
-		"imagePath": "",
+		"imagePath": "/images/0cb1fa29-54ce-4860-a5f8-1d2cbe2070da.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4298,7 +4286,7 @@
 	{
 		"id": 369,
 		"name": "Bastoncillos de Oídos",
-		"imagePath": "",
+		"imagePath": "/images/48cc6dee-600c-4a79-afff-a32f260e3812.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4310,7 +4298,7 @@
 	{
 		"id": 370,
 		"name": "Tiritas",
-		"imagePath": "",
+		"imagePath": "/images/b7bb8df4-301e-4274-afeb-f5728313cb16.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4322,7 +4310,7 @@
 	{
 		"id": 371,
 		"name": "Algodón",
-		"imagePath": "",
+		"imagePath": "/images/9fb0fbfd-54be-4e7d-9d00-4c4754cd9bcd.webp",
 		"categoryId": 20,
 		"isVegetarian": 0,
 		"isHalal": 0,
@@ -4334,7 +4322,7 @@
 	{
 		"id": 372,
 		"name": "Pan de Pita",
-		"imagePath": "",
+		"imagePath": "/images/8693311c-ce0e-4717-94f4-486c1bf68249.webp",
 		"categoryId": 5,
 		"isVegetarian": 0,
 		"isHalal": 0,
