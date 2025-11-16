@@ -30,5 +30,16 @@
 	{ "id": 31, "ingredientId": 110, "barcode": "8410714107476" },
 	{ "id": 32, "ingredientId": 107, "barcode": "8429130120365" },
 	{ "id": 33, "ingredientId": 195, "barcode": "8480017261762" },
-	{ "id": 35, "ingredientId": 15, "barcode": "8410010000181" }
+	{ "id": 35, "ingredientId": 15, "barcode": "8410010000181" },
+	{ "id": 36, "ingredientId": 132, "barcode": "8480000105769" },
+	{ "id": 37, "ingredientId": 1, "barcode": "8480017292742" },
+	{ "id": 38, "ingredientId": 86, "barcode": "8410505272017" },
+	{ "id": 39, "ingredientId": 95, "barcode": "8436569263174" },
+	{ "id": 40, "ingredientId": 274, "barcode": "8710912029939" },
+	{ "id": 41, "ingredientId": 6, "barcode": "8402001013843" },
+	{ "id": 42, "ingredientId": 133, "barcode": "8423352861402" },
+	{ "id": 43, "ingredientId": 48, "barcode": "8410748402004" },
+	{ "id": 44, "ingredientId": 97, "barcode": "8422414006935" },
+	{ "id": 45, "ingredientId": 373, "barcode": "8402001005688" },
+	{ "id": 46, "ingredientId": 167, "barcode": "8422424100012" }
 ]

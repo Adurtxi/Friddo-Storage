@@ -61,7 +61,7 @@
 	},
 	{
 		"id": 6,
-		"name": "Pan Hamburguesa",
+		"name": "Pan de Hamburguesa",
 		"imagePath": "/images/907c4f0d-1b58-4f5c-a11d-ae75df3b6d4a.webp",
 		"categoryId": 5,
 		"isVegetarian": 0,
@@ -4330,5 +4330,17 @@
 		"genericId": null,
 		"storageRuleId": 1,
 		"stored": 1
+	},
+	{
+		"id": 373,
+		"name": "Pimientos Congelados",
+		"imagePath": "",
+		"categoryId": 11,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"storageRuleId": 1,
+		"stored": 0
 	}
 ]
