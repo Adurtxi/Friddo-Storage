@@ -4462,5 +4462,65 @@
 		"genericId": null,
 		"storageRuleId": 1,
 		"stored": 0
+	},
+	{
+		"id": 384,
+		"name": "Cebolla Frita",
+		"imagePath": "",
+		"categoryId": 7,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"storageRuleId": 1,
+		"stored": 0
+	},
+	{
+		"id": 385,
+		"name": "Mostaza",
+		"imagePath": "",
+		"categoryId": 7,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"storageRuleId": 2,
+		"stored": 0
+	},
+	{
+		"id": 386,
+		"name": "Salsa Burger",
+		"imagePath": "",
+		"categoryId": 7,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"storageRuleId": 2,
+		"stored": 0
+	},
+	{
+		"id": 387,
+		"name": "Crema de Cacao",
+		"imagePath": "",
+		"categoryId": 16,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"storageRuleId": 1,
+		"stored": 0
+	},
+	{
+		"id": 388,
+		"name": "Sal Gruesa",
+		"imagePath": "",
+		"categoryId": 7,
+		"isVegetarian": 0,
+		"isHalal": 0,
+		"isGeneric": 0,
+		"genericId": null,
+		"storageRuleId": 1,
+		"stored": 0
 	}
 ]
