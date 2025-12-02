@@ -1,0 +1,6134 @@
+[
+  {
+    "id": 1,
+    "name": "Pan de Molde",
+    "imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1000,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 2,
+    "name": "Nueces",
+    "imagePath": "/images/d190c2b4-522e-42ab-965f-6a3399b9105b.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1001,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera",
+    "imagePath": "/images/89268ffe-2277-4663-8fb3-f818a214dacd.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1002,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 4,
+    "name": "Plátanos",
+    "imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1003,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 5,
+    "name": "Donuts",
+    "imagePath": "/images/e7eca189-99db-4559-9293-32f7f0c1d731.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1004,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 6,
+    "name": "Pan de Hamburguesa",
+    "imagePath": "/images/907c4f0d-1b58-4f5c-a11d-ae75df3b6d4a.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1005,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 7,
+    "name": "Arroz Bomba",
+    "imagePath": "/images/11b1e6aa-a99d-431d-b807-b10e83f09009.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1006,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 8,
+    "name": "Arroz Largo",
+    "imagePath": "/images/c624f50f-6d6f-4a19-8a3e-ba9ddce0d846.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1006,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 9,
+    "name": "Arroz Redondo",
+    "imagePath": "/images/15855491-ccea-49f3-bde6-19816d44d1e1.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1006,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 10,
+    "name": "Salsa Picante",
+    "imagePath": "/images/245086b2-15e8-4f1d-8544-d06390e9914c.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1007,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 11,
+    "name": "Salsa de Soja",
+    "imagePath": "/images/22d8a0ad-def5-4998-be55-514aa0272394.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1008,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 12,
+    "name": "Ketchup",
+    "imagePath": "/images/0b8ab4f0-1a5c-437f-a66c-b262de6474a8.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1009,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 13,
+    "name": "Salsa Barbacoa",
+    "imagePath": "/images/f633dc25-57e5-4302-888b-ab088dc45380.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1010,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 14,
+    "name": "Aceite Oliva Virgen Extra ",
+    "imagePath": "/images/71f93b11-cf2e-4798-8ed8-4cda8dddd208.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1011,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 15,
+    "name": "Aceite Oliva 0.4",
+    "imagePath": "/images/602ba641-0d75-4cd9-80c7-628fe2eeed1f.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1011,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 16,
+    "name": "Manzana Roja",
+    "imagePath": "/images/bd2c9d32-9aa7-4dc8-b7c3-f36708fd688a.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1012,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 17,
+    "name": "Manzana Verde",
+    "imagePath": "/images/6239496c-c9bc-45b4-9880-2fa7c869ebf0.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1012,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 18,
+    "name": "Manzana Amarilla",
+    "imagePath": "/images/59b33ca3-898d-411c-b914-c492cfae0f33.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1012,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 19,
+    "name": "Uvas Moradas",
+    "imagePath": "/images/a935e0d3-4d6c-4f3d-b193-8f6a937b0fd8.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1013,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 20,
+    "name": "Uvas",
+    "imagePath": "/images/e70c07e1-47a2-40b3-874f-954e1cc8f9cc.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1013,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 21,
+    "name": "Piña",
+    "imagePath": "/images/1f73ae20-1323-4e53-82e2-a167ff50499d.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1014,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 22,
+    "name": "Naranja",
+    "imagePath": "/images/0b90cf8a-f93c-41f9-9818-66a737779a0a.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1015,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 23,
+    "name": "Arandanos",
+    "imagePath": "/images/6aa0b326-2d70-4e29-86e2-ed3267b4a1bc.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1016,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 25,
+    "name": "Moras",
+    "imagePath": "/images/e81ba5fb-2f00-4ccb-aa52-ad0f2a05026a.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1017,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 26,
+    "name": "Kiwi",
+    "imagePath": "/images/d1983279-6848-4ae5-8ac6-565aa73e0fa2.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1018,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 27,
+    "name": "Cerezas",
+    "imagePath": "/images/1a9d2dbe-f26a-4114-8ee0-dc59729fd6a1.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1019,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 28,
+    "name": "Melón",
+    "imagePath": "/images/5f8087b5-d71a-4739-b9d5-6a77d58cdf83.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1020,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 29,
+    "name": "Melón Amarillo",
+    "imagePath": "/images/2c79a815-ed71-491c-a36f-c0796c8bf37b.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1020,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 30,
+    "name": "Sandía",
+    "imagePath": "/images/e716b3e7-385c-4deb-94a6-ef12f3c577ed.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1021,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 31,
+    "name": "Mandarina",
+    "imagePath": "/images/de30f63a-8281-4170-bf40-0b8ddc23ee53.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1022,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 32,
+    "name": "Mango",
+    "imagePath": "/images/ac249147-87c0-4aed-bdec-da6ca78f198f.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1023,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 33,
+    "name": "Pera",
+    "imagePath": "/images/cac67b90-3e72-4eb6-b10a-15c2f22da89f.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1024,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 34,
+    "name": "Magdalenas",
+    "imagePath": "/images/2e5b578d-4133-4b29-955b-123d788db3ce.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1025,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 35,
+    "name": "Canelones",
+    "imagePath": "/images/a95146f0-f7d8-4159-aaaa-8a76bb69c5b5.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1026,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 36,
+    "name": "Lasaña Boloñesa",
+    "imagePath": "/images/363d341a-d9b9-497d-8261-b9c4704c7cc0.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1027,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 37,
+    "name": "Pasta rellena Carne",
+    "imagePath": "/images/74e44522-6592-4224-b213-c29582d0229e.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1028,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 38,
+    "name": "Pasta rellena Espinacas",
+    "imagePath": "/images/3b5146d9-8ca6-443f-90bf-f38151bfb98d.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1028,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 39,
+    "name": "Tomate Rallado",
+    "imagePath": "/images/ac056487-01a2-47fc-8bd7-690863b97baf.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1029,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 40,
+    "name": "Vinagre de Manzana",
+    "imagePath": "/images/5af8fb51-fa3e-47a7-a48c-b480e621a215.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1030,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 41,
+    "name": "Batido Fresa y Platano",
+    "imagePath": "/images/ae45b151-5e76-4d58-8ce2-e08b2af2f8cb.webp",
+    "categoryId": 19,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1031,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 42,
+    "name": "Batido Frutos del Bosque",
+    "imagePath": "/images/d55ad421-ba82-4d1b-ba7d-4482b24f13b8.webp",
+    "categoryId": 19,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1031,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 43,
+    "name": "Berenjena",
+    "imagePath": "/images/e2fe5253-033f-4dd8-9cdf-14433f9fe21b.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1032,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 44,
+    "name": "Jamón Iberico",
+    "imagePath": "/images/64c5ec52-11bf-4a4f-992d-2fc2075ca102.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1033,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 45,
+    "name": "Pechugas de Pollo",
+    "imagePath": "/images/82fad054-17a1-4322-8cf9-e40ae845df3c.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1034,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 46,
+    "name": "Pechugas de Pollo (Fileteadas)",
+    "imagePath": "/images/c090fca0-bad5-433c-ae0b-4ab3b4fee0fd.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1034,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 47,
+    "name": "Alitas de Pollo",
+    "imagePath": "/images/a5838656-2c76-4960-9259-af2d781d1e74.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1035,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 48,
+    "name": "Caldo de Cocido",
+    "imagePath": "/images/a7cbe1ad-9d52-4630-aff0-198c277595a4.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1036,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 49,
+    "name": "Caldo de Verduras",
+    "imagePath": "/images/9543490d-2e57-482d-bd35-4b21ec8bfae8.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1036,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 50,
+    "name": "Caldo de Pollo",
+    "imagePath": "/images/4e60a9b8-f617-44b6-8b04-b24770b19dd4.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1036,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 51,
+    "name": "Frambruesas",
+    "imagePath": "/images/c5465872-e8fc-46ff-8584-9db4495aaf40.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1037,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 52,
+    "name": "Piminetos Troceados",
+    "imagePath": "/images/c002e09c-feba-43f4-a1e7-f2f545dad70a.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1038,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 53,
+    "name": "Pasta de Dientes",
+    "imagePath": "/images/3024225e-2407-4e54-ae41-8a0674329c25.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1039,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 54,
+    "name": "Salmón",
+    "imagePath": "/images/5fc0baaf-4ee1-4df1-9a76-1fa453a3252b.webp",
+    "categoryId": 4,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1040,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 55,
+    "name": "Yogur con Frambruesa",
+    "imagePath": "/images/67365058-e191-4db7-88e3-de668fb65a2d.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1041,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 56,
+    "name": "Yogur con Kiwi",
+    "imagePath": "/images/cbf540a3-68af-4c5d-b6b5-a17f9607a586.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1041,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 57,
+    "name": "Yogur Griego",
+    "imagePath": "/images/5e9c2369-e2bf-48f7-8fea-2a1174c646b7.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1041,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 58,
+    "name": "Yogur con Fresa",
+    "imagePath": "/images/f5ea73c2-7b43-4437-b875-01f2381ab7a8.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1041,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 59,
+    "name": "Yogur Natural",
+    "imagePath": "/images/b60387b3-76d5-4881-be95-3b1706182ab4.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1041,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 60,
+    "name": "Harina de Fuerza",
+    "imagePath": "/images/8f58bae1-385a-4f99-8f55-846f3881d41b.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1042,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 61,
+    "name": "Harina de Repostería",
+    "imagePath": "/images/7fca0e2c-1511-4733-ba57-a53859b9259d.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1042,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 62,
+    "name": "Brochetas de Pavo",
+    "imagePath": "/images/b64281b2-2d6f-4577-aea9-b98d7c8b4c64.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1043,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 63,
+    "name": "Calamares",
+    "imagePath": "/images/179e9aab-c9bd-4d23-93f3-aded6cbe166e.webp",
+    "categoryId": 4,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1044,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 64,
+    "name": "Bebida de Soja",
+    "imagePath": "/images/1828ee20-144c-4ece-8c27-91b98af1ad30.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1045,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 65,
+    "name": "Azucar Moreno",
+    "imagePath": "/images/780c054f-6958-4765-a189-a48143a8f0ac.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1046,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 66,
+    "name": "Gel de Ducha",
+    "imagePath": "/images/2e82a7de-df4c-4d94-b850-01a736d16c45.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1047,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 67,
+    "name": "Jabón de Cocina",
+    "imagePath": "/images/1e22818b-e7ca-4f82-9c74-9644a37a3043.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1048,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 68,
+    "name": "Chuletas de Cerdo",
+    "imagePath": "/images/d1a63ed7-eca6-4be8-be61-74bdc79041d4.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1049,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 69,
+    "name": "Cereales con Chocolate",
+    "imagePath": "/images/15e18047-a99a-401d-9ad5-78a3fe922f1f.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1050,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 70,
+    "name": "Albondigas de Carne",
+    "imagePath": "/images/d6ffa719-f580-4c72-95c7-e9516e0e1d5b.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1051,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 71,
+    "name": "Albondigas de Pollo",
+    "imagePath": "/images/f7aca14b-6d39-45b4-84e1-70062d7fd255.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1051,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 72,
+    "name": "Batido de Chocolate",
+    "imagePath": "/images/6ba9f32e-c083-4ba0-b8f4-77f6dec333bd.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1031,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 73,
+    "name": "Batido de Fresa",
+    "imagePath": "/images/7e6beef5-4fbe-4319-93f2-0ec52a053787.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1031,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 74,
+    "name": "Pimienta Negra",
+    "imagePath": "/images/cf134c4a-bcd0-497a-8c41-700c4fdd09f1.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1052,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 75,
+    "name": "Oregano",
+    "imagePath": "/images/cd525282-dabc-4bdd-8dcb-85c8c1163dfc.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1053,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 76,
+    "name": "Perejil",
+    "imagePath": "/images/49f77555-e7fe-4f0c-a058-eded22ec61e3.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1054,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 77,
+    "name": "Patatas",
+    "imagePath": "/images/b3eb6878-bd57-4ea4-a20d-78f66e26333f.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1055,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 78,
+    "name": "Aceitunas Negras",
+    "imagePath": "/images/c225e523-2238-49ed-ad04-d796bc5f9719.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1056,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 79,
+    "name": "Champú",
+    "imagePath": "/images/2f53ae81-27ea-4880-a051-da25a9a00ffd.webp",
+    "categoryId": 25,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1057,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 80,
+    "name": "Brochetas de Pollo",
+    "imagePath": "/images/a69aa781-371b-42a8-805e-e047c1dfe85e.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1043,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 81,
+    "name": "Brochetas de Pollo con Pimientos",
+    "imagePath": "/images/26f72c1d-4854-48d6-81df-011f5f410646.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1043,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 82,
+    "name": "Chocolate Negro",
+    "imagePath": "/images/16e923d6-81a4-4b46-8f7c-ab9f37986ed0.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1058,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 83,
+    "name": "Naranjas de Zumo",
+    "imagePath": "/images/fb5b216c-451e-4b44-8c8f-29cec610c27f.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1059,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 84,
+    "name": "Naranjas de Mesa",
+    "imagePath": "/images/bbf88d2c-b7dd-426f-a53d-d569ea7e642e.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1059,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 85,
+    "name": "Bonito en Aceite",
+    "imagePath": "/images/65227165-1435-40a9-8fd9-c4a550261b1e.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1060,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 86,
+    "name": "Garbanzos Cocidos",
+    "imagePath": "/images/7105a714-d582-4e4b-a020-1dd9b773463e.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1061,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 87,
+    "name": "Macarrones",
+    "imagePath": "/images/67e0c9f5-9aab-45b3-a18d-97a56de86be0.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1062,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 88,
+    "name": "Flan de Huevo",
+    "imagePath": "/images/6cf90ac8-3237-4953-94b3-5f11b2384d79.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1063,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 89,
+    "name": "Flan de Queso",
+    "imagePath": "/images/00920520-9c9f-4930-ac2f-e93a2b604ee2.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1063,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 90,
+    "name": "Galletas",
+    "imagePath": "/images/f0c0e285-37b8-4826-b309-4611eeac987f.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1064,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 91,
+    "name": "Alubias Cocidas",
+    "imagePath": "/images/3eefbd56-b590-49de-b1b3-68cb63f85307.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1065,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 92,
+    "name": "Espaguetis",
+    "imagePath": "/images/be88e397-627c-4dbe-a034-550d18248689.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1062,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 93,
+    "name": "Gazpacho",
+    "imagePath": "/images/0c750c93-2e01-4279-a4b3-f5c02f395812.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1066,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 94,
+    "name": "Chorizo de Pamplona",
+    "imagePath": "/images/e2b6599d-16e8-4181-93a3-edaadddc7b23.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1067,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 95,
+    "name": "Carne Picada Ternera",
+    "imagePath": "/images/d22ddf61-bc6a-49cb-97f0-55439456dcf9.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1068,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 96,
+    "name": "Puerros",
+    "imagePath": "/images/847a656d-5aec-449f-87a4-a90e8eedc7a4.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1069,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 97,
+    "name": "Chorizo Picante",
+    "imagePath": "/images/430382c1-9371-40c2-a5ae-78b68a21f4f0.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1067,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 98,
+    "name": "Salchicas de Pollo",
+    "imagePath": "/images/afa32303-9cac-4584-8b24-be161f5487d9.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1070,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 99,
+    "name": "Café Soluble",
+    "imagePath": "/images/37d31b56-31d2-4541-bf08-ec5b682bc576.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1071,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 100,
+    "name": "Pechugas de Pavo",
+    "imagePath": "/images/369acd33-7f56-484e-bb58-4ea1be2e5b01.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1072,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 101,
+    "name": "Zumo de Naranja Exprimido",
+    "imagePath": "/images/9792d6fe-835d-4702-a9c6-eeab3a806cf7.webp",
+    "categoryId": 19,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1073,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 102,
+    "name": "Tomate",
+    "imagePath": "/images/5fe7279b-856e-45fd-9779-fb85ac021207.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1074,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 103,
+    "name": "Maíz",
+    "imagePath": "/images/064dd0cc-0972-48db-9958-12381d8718a4.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1075,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 104,
+    "name": "Pepino",
+    "imagePath": "/images/ec549b27-0109-4357-ae03-52743f7bfb09.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1076,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 105,
+    "name": "Calabacín",
+    "imagePath": "/images/a74c85ce-0ae1-4f30-a7d6-a4e65715e38e.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1077,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 106,
+    "name": "Solomillo de Pavo",
+    "imagePath": "/images/c54da462-d035-4f1d-8224-06fe4558f05c.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1078,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 107,
+    "name": "Miel",
+    "imagePath": "/images/b94ceeb0-2925-4e31-b621-507cccfc604e.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1079,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 108,
+    "name": "Mascarilla Capilar",
+    "imagePath": "/images/258a51d3-29e6-4b98-9c19-d4f686ced167.webp",
+    "categoryId": 25,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1080,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 110,
+    "name": "Azucar Blanco",
+    "imagePath": "/images/670c7a15-fe8e-4ce8-a2aa-5c941466a7ef.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1081,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 111,
+    "name": "Salchichas de Cerdo",
+    "imagePath": "/images/1f9c9964-27a0-47a0-a51e-b99861c8a877.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1070,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 112,
+    "name": "Ajos",
+    "imagePath": "/images/6051c19d-0fb0-4527-a111-836dac14a09a.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1082,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 113,
+    "name": "Cebollas",
+    "imagePath": "/images/19943150-2fe1-4f6e-b2ad-98db4f756777.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1083,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 114,
+    "name": "Pimiento Verde",
+    "imagePath": "/images/cc537b6a-2b03-4815-8e55-2602473310c0.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1038,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 115,
+    "name": "Pimiento Rojo",
+    "imagePath": "/images/bac59d4c-3ae8-45b0-9e20-c559d16aa5be.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1038,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 116,
+    "name": "Lechuga",
+    "imagePath": "/images/b3862d3c-8736-40e6-bb2b-e7a2ee5bc83f.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1084,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 117,
+    "name": "Coliflor",
+    "imagePath": "/images/33eb2f4a-613e-4a98-aec6-0bc6084ac340.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1085,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 118,
+    "name": "Guisantes",
+    "imagePath": "/images/e98fb380-7a08-420e-b98c-7b3c9657b4ec.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1086,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 119,
+    "name": "Patatas para Freir",
+    "imagePath": "/images/89a15a4f-31cc-45b8-9730-a9637f426358.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1055,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 120,
+    "name": "Patatas para Cocer",
+    "imagePath": "/images/ca57d42e-d134-42a6-831a-5de36440db31.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1055,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 121,
+    "name": "Muslos de Pollo",
+    "imagePath": "/images/9d379407-7ec4-4cf2-9a4e-3551fbb36070.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1087,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 122,
+    "name": "Hamburguesas de Ternera",
+    "imagePath": "/images/91117c48-78e8-4020-bfc8-442e758deaaf.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1088,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 123,
+    "name": "Atún",
+    "imagePath": "/images/e7bbc5b8-38f6-4124-af80-74f015ec4ff4.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1089,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 124,
+    "name": "Aceitunas Verdes",
+    "imagePath": "/images/6f73f40c-549f-4abb-8e32-bfc8fdef6795.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1056,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 125,
+    "name": "Pimientos Asados",
+    "imagePath": "/images/5712ff0f-42a4-4a61-9bb8-3a938c0144fb.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1090,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 126,
+    "name": "Harina de Pizza",
+    "imagePath": "/images/c4307c3c-bb68-472c-afd1-7566dd7636f1.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1042,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 127,
+    "name": "Piña en Bote",
+    "imagePath": "/images/82ac2216-2512-471c-9e19-0a902ef27b37.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1014,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 128,
+    "name": "Melocotón en Bote",
+    "imagePath": "/images/fe6f8047-2da2-4925-8e48-29fc2c9eee13.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1091,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 129,
+    "name": "Patatas Congeladas",
+    "imagePath": "/images/f7ea72c8-24b3-412d-8d27-b4c514441e0f.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1055,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 130,
+    "name": "Mantequilla con Sal",
+    "imagePath": "/images/4d43a834-8b94-4a66-8d43-e49a19d39061.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1092,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 131,
+    "name": "Margarina",
+    "imagePath": "/images/dec7e0fd-a32b-4e1e-aa1f-60e67effbd85.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1093,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 132,
+    "name": "Leche de Vaca",
+    "imagePath": "/images/e30bcbc9-0170-4cca-9d3c-a7fe60e283b8.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1094,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 133,
+    "name": "Bebida de Avena",
+    "imagePath": "/images/9540bd43-bc9a-46e8-97ae-8afca9ffad17.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1095,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 134,
+    "name": "Chocolate Blanco",
+    "imagePath": "/images/406b747e-c968-4a3f-b963-3f7fe4d26364.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1096,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 135,
+    "name": "Chocolate con Leche",
+    "imagePath": "/images/a23a07e1-acad-4d12-b55d-ba36b1ba55d4.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1097,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 136,
+    "name": "Aceite de Girasol ",
+    "imagePath": "/images/31df23c5-69f9-4b39-bb4e-66642d90f8a2.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1098,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 137,
+    "name": "Pizza Congelada",
+    "imagePath": "/images/8e7011f2-3994-4039-944d-6d8d7c4bf804.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1099,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 138,
+    "name": "Panini",
+    "imagePath": "/images/b3328a1b-1503-4569-bf7d-2ed52aabe7f1.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1100,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 139,
+    "name": "Aguacate",
+    "imagePath": "/images/fe8d8d44-b292-41a3-bc41-4d90ea10c2e0.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1101,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 140,
+    "name": "Rulos de Queso de Cabra",
+    "imagePath": "/images/accfc3ce-bc5c-4b17-993d-61ddf6decbe5.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1102,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 141,
+    "name": "Queso Curado",
+    "imagePath": "/images/f66297b5-3df8-46b7-b9d9-775dfc3b5791.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1103,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 142,
+    "name": "Queso Fresco",
+    "imagePath": "/images/aa4c8a40-4779-4312-8da9-20f59564ea90.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1104,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 143,
+    "name": "Espinacas",
+    "imagePath": "/images/78caa810-db17-4a31-be96-1fea543a5ed5.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 1,
+    "genericId": 1105,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 144,
+    "name": "Espinacas",
+    "imagePath": "/images/224ead5b-1e71-44cb-8e7f-5acdb30fbf53.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1105,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 145,
+    "name": "Lima",
+    "imagePath": "/images/b58ecd3f-88d3-44df-a55f-406a0daf0ff7.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1106,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 146,
+    "name": "Granada",
+    "imagePath": "/images/58178cbe-863c-438f-947a-363a0c9d16d9.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1107,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 147,
+    "name": "Limón",
+    "imagePath": "/images/62057126-43fb-42a4-902f-547d66d1ddf8.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1108,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 148,
+    "name": "Nata para Cocinar",
+    "imagePath": "/images/a96282a1-9871-44ac-b37c-e7a8cb7aced6.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1109,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 149,
+    "name": "Guacamole",
+    "imagePath": "/images/9bf2feac-f0c3-423d-a5e3-773d40468c0d.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1110,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 150,
+    "name": "Huevos",
+    "imagePath": "/images/7f884e55-2d47-4fb6-b2f4-d523a1b0a284.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1111,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 151,
+    "name": "Cayenas",
+    "imagePath": "/images/8e02fc10-0cda-45a2-9f82-47c510933d03.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1112,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 152,
+    "name": "Barra de Pan Integral",
+    "imagePath": "/images/b3f06651-66a7-4bda-9cb9-c0f689ae4501.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1113,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 153,
+    "name": "Barra de Pan",
+    "imagePath": "/images/b1327834-10ef-4afc-bfd8-c0db48967a42.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1113,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 154,
+    "name": "Sal en Escamas",
+    "imagePath": "/images/76e09d29-0db5-409c-b870-bf2782a1e201.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1114,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 155,
+    "name": "Sal Fina",
+    "imagePath": "/images/de4cd53b-2058-402f-a536-f036708db879.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1114,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 156,
+    "name": "Mayonesa",
+    "imagePath": "/images/20fd31ee-b73e-412f-b99a-92e08d29db92.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1115,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 157,
+    "name": "Mermelada de Arándanos",
+    "imagePath": "/images/e6c95a28-af72-40b5-934a-1d8c29fd87b4.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1116,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 158,
+    "name": "Mermelada de Fresa",
+    "imagePath": "/images/72cb5c5b-be23-4c7b-be39-4c2245af4655.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1116,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 159,
+    "name": "Mermelada de Melocotón",
+    "imagePath": "/images/04589ffc-d5a0-4fca-bb3c-71be892f5f79.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1116,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 160,
+    "name": "Mermelada de Ciruela",
+    "imagePath": "/images/0b4efbd3-8ed0-4a10-a6a2-bec5e0a0a002.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1116,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 161,
+    "name": "Mermelada de Tomate",
+    "imagePath": "/images/ee3e9752-3f8c-4aa5-9835-1aea60459106.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1116,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 162,
+    "name": "Fresas",
+    "imagePath": "/images/b171442c-f067-4b84-bdd1-2d2e85dfc5e6.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1117,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 163,
+    "name": "Fresas Congeladas",
+    "imagePath": "/images/95da9594-62a8-4f9e-9bc8-a7087330e872.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1117,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 164,
+    "name": "Arandanos Congelados",
+    "imagePath": "/images/b95d0b1a-5f32-49ef-ac05-76d15c71303e.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1016,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 165,
+    "name": "Salsa de Pesto",
+    "imagePath": "/images/18386bdf-6169-42c8-95b5-b11b3ab12483.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1118,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 166,
+    "name": "Yogur con Piña",
+    "imagePath": "/images/46abf400-8dfa-43f6-9360-8765067b3234.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1041,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 167,
+    "name": "Tortitas de Maíz",
+    "imagePath": "/images/6c337cf0-12e8-42c0-bb17-e44fbbee4ce9.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1119,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 168,
+    "name": "Tortitas de Trigo",
+    "imagePath": "/images/347b627e-9b2e-47b4-8048-0ed48049d5eb.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1119,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 169,
+    "name": "Lomos de Cerdo",
+    "imagePath": "/images/1a48f61b-d76b-4b35-8c20-94d39300a50d.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1120,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 170,
+    "name": "Natillas",
+    "imagePath": "/images/b45f0cd4-65c4-46de-b9cc-6f0ffb5b8cca.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1121,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 171,
+    "name": "Acondicionador",
+    "imagePath": "/images/a33a388f-5c55-4abc-9e18-80d41e519cd7.webp",
+    "categoryId": 25,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1122,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 172,
+    "name": "Papel de Cocina",
+    "imagePath": "/images/ed1fd6b9-5614-496e-b5dc-0acda2999669.webp",
+    "categoryId": 28,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1123,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 173,
+    "name": "Estropajo",
+    "imagePath": "/images/fcdf981b-164c-4ff6-ab53-7d21ca92430a.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1124,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 174,
+    "name": "Papel de Baño",
+    "imagePath": "/images/fd5ac10e-f037-4ce3-8827-ca4aa028423f.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1125,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 175,
+    "name": "Toallitas WC",
+    "imagePath": "/images/b887ad9c-28d9-488e-901e-2e7a64b7be3c.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1126,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 176,
+    "name": "Gel de Manos",
+    "imagePath": "/images/e0be222e-7ee7-403b-b7ec-e67f7e00d3ac.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1127,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 177,
+    "name": "Pulled Pork",
+    "imagePath": "/images/3d8b03da-ecf7-4f12-b60c-fbd2747b0cd8.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1128,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 178,
+    "name": "Alitas Adobadas",
+    "imagePath": "/images/b31f822e-943e-4723-b483-ff7c2e3dda18.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1035,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 179,
+    "name": "Tacos de Jamón",
+    "imagePath": "/images/81bc4153-9098-4d48-9609-620080f3a772.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1129,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 180,
+    "name": "Jamoncitos de Pollo",
+    "imagePath": "/images/e6c7aeb0-bd6b-4fa6-906c-ba6911350664.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1087,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 181,
+    "name": "Hamburguesa Mezcla",
+    "imagePath": "/images/b097be0e-a368-49f8-9a59-12aea8c32567.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1088,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 182,
+    "name": "Hamburguesa Vegetal",
+    "imagePath": "/images/87aca8ea-ca9b-4298-9ff6-a9eeaa558890.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1088,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 183,
+    "name": "Carne Picada Mezcla",
+    "imagePath": "/images/fe909488-cdbb-4556-aa58-9f24351b875c.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1068,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 184,
+    "name": "Carne Picada Cerdo",
+    "imagePath": "/images/df9f5e30-ef26-4d3f-b2c2-cee95ff6b628.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1068,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 185,
+    "name": "Filetes de Ternera",
+    "imagePath": "/images/84d0d641-4f7b-456a-9b75-65622b055e1a.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1130,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 186,
+    "name": "Filetes de Ternera Finos",
+    "imagePath": "/images/fcd5ce1d-0703-4b31-a88b-4524ea309fed.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1130,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 187,
+    "name": "Costillas de Cerdo",
+    "imagePath": "/images/caddc3dc-3a8b-4690-ac21-bed8f83124d3.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1131,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 188,
+    "name": "Jamón Cocido",
+    "imagePath": "/images/61dd21a9-1a81-476a-91a7-b408b9c2be4f.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1132,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 189,
+    "name": "Pechuga de Pavo",
+    "imagePath": "/images/8b1f6470-4807-4a0d-91fa-230ece903ec4.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1072,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 190,
+    "name": "Chorizo Dulce",
+    "imagePath": "/images/0fcbdfcc-067f-47ae-9d60-51d14b3a4c69.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1067,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 191,
+    "name": "Conejo",
+    "imagePath": "/images/180f7ebd-0783-4a11-af22-69f0c8eed485.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1133,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 192,
+    "name": "Carne para Guisar Ternera",
+    "imagePath": "/images/b36dc258-d8eb-4858-9410-44d6f1674199.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1134,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 193,
+    "name": "Carne para Guisar Cerdo",
+    "imagePath": "/images/220bab23-3b13-4c95-9840-3d4e47d5551a.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1134,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 194,
+    "name": "Morcilla",
+    "imagePath": "/images/4cad8768-030b-4a8c-9b15-8ddc6975d51a.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1135,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 195,
+    "name": "Tomate Frito",
+    "imagePath": "/images/0223f46a-c90b-4382-a651-d08d985075cd.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1136,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 196,
+    "name": "Bizcocho de Chocolate",
+    "imagePath": "/images/a9488aa2-ef2e-461b-8fe6-c0d947e70a61.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1137,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 197,
+    "name": "Bizcocho de Limón",
+    "imagePath": "/images/aa6c5323-ee72-43e3-bb2e-266c4a595a47.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1137,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 198,
+    "name": "Fideos",
+    "imagePath": "/images/69d3a3b0-8765-4070-80af-b8e9abd50f32.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1062,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 199,
+    "name": "Guisantes Cocidos",
+    "imagePath": "/images/1f433e7e-da8f-4274-9c3b-b2819ec46b5f.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1086,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 200,
+    "name": "Aceitunas con Hueso",
+    "imagePath": "/images/9ccb9741-f171-47fd-917f-c19c6b0c523d.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1056,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 201,
+    "name": "Curry",
+    "imagePath": "/images/49162172-ce15-460e-a2d2-3e20bfa8a6b7.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1138,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 202,
+    "name": "Pimentón",
+    "imagePath": "/images/80e87af6-dba3-49a3-888c-2b1da31a15ab.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1139,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 203,
+    "name": "Ajo en Polvo",
+    "imagePath": "/images/a5b92d59-bf25-492d-a179-ea661d0d4b76.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1140,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 204,
+    "name": "Cúrcuma",
+    "imagePath": "/images/f00f8fe0-9c73-40e6-ad5e-b4e3a30a7f37.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1141,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 205,
+    "name": "Aceite Oliva Virgen",
+    "imagePath": "/images/133c779b-7494-4d9c-b830-2b3f16fce963.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1011,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 206,
+    "name": "Vinagre de Vino",
+    "imagePath": "/images/7c942151-7499-4da1-81da-75bfa47758d9.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1030,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 207,
+    "name": "Filetes de Pavo",
+    "imagePath": "/images/f4c8eb2c-a4ce-445c-a0b3-e999511a3caa.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1142,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 208,
+    "name": "Lomo Embuchado",
+    "imagePath": "/images/251dbbd1-b7af-45b9-adbe-e8bd191b4944.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1143,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 209,
+    "name": "Jamón Cocido",
+    "imagePath": "/images/4f9ddda2-a481-4d0a-9122-fd9fa250ce43.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1132,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 210,
+    "name": "Pan de Centeno",
+    "imagePath": "/images/26abe1a1-762e-4320-8210-cfd0f1136dee.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1113,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 211,
+    "name": "Arroz Basmati",
+    "imagePath": "/images/c7ceceb5-42a4-455f-9816-448cc0ea46ba.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1006,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 212,
+    "name": "Garbanzos",
+    "imagePath": "/images/add6cfb2-3725-46bc-a92f-5e158e08a5fa.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1061,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 213,
+    "name": "Lentejas",
+    "imagePath": "/images/dd04219d-aa13-40b7-b8f2-239701713cf7.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1144,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 214,
+    "name": "Macarrones Integrales",
+    "imagePath": "/images/956458d8-2a0a-4dde-998b-275bcbf4ea0b.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1062,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 215,
+    "name": "Maíz para Palomitas",
+    "imagePath": "/images/9d28fe31-1c74-4896-a6eb-f1f5c3bf1f10.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1145,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 216,
+    "name": "Mermelada de Frambruesa",
+    "imagePath": "/images/4517e2ab-f1e8-4b7a-b001-635f6265fb1b.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1116,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 217,
+    "name": "Valencianas",
+    "imagePath": "/images/7a521a60-57de-4464-9811-5832df59204b.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1025,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 218,
+    "name": "Sobados",
+    "imagePath": "/images/b0c8fa92-0ba6-443f-be01-7633673b66c4.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1146,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 219,
+    "name": "Cardo Troceado",
+    "imagePath": "/images/b36adfd2-ab83-45ec-b837-40c0f085b8ad.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1147,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 220,
+    "name": "Placas para Lasaña",
+    "imagePath": "/images/a6a945f3-1f8f-42e7-9075-f40f09ad8c9a.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1062,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 221,
+    "name": "Fideos Chinos",
+    "imagePath": "/images/2f3f2e4a-0329-4089-8fcc-a300748eeccb.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1062,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 222,
+    "name": "Nata para Montar",
+    "imagePath": "/images/dc35fe13-8774-45f0-8ddb-581b52a86931.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1148,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 223,
+    "name": "Pistachos sin Cascara",
+    "imagePath": "/images/14bb0438-29ec-4df1-a6ef-3ad79408e05d.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1149,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 224,
+    "name": "Pistachos con Cascara",
+    "imagePath": "/images/e5c82117-dbca-42bf-a0ba-bc3de0329e24.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1149,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 225,
+    "name": "Pepinillos en Vinagre",
+    "imagePath": "/images/35c92490-08ec-4426-aff6-22226814b60b.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1150,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 226,
+    "name": "Nueces sin Cascara",
+    "imagePath": "/images/f5fc7121-6ef7-43a3-9bf2-4a7b8efdd6ec.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1001,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 227,
+    "name": "Nueces con Cascara",
+    "imagePath": "/images/f139310e-42b9-4866-a8a9-68ec93e408e4.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1001,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 228,
+    "name": "Pimientos del Piquillo",
+    "imagePath": "/images/0baa542f-0b7b-4480-a0d0-06ec01e17eb5.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1151,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 229,
+    "name": "Leche de Coco",
+    "imagePath": "/images/1ce57080-a02a-4a9f-b968-e66329da5b4c.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1152,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 230,
+    "name": "Pasas sultanas",
+    "imagePath": "/images/ef331aca-b86e-41d4-a707-3d30b87603ce.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1153,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 231,
+    "name": "Cacao en Polvo",
+    "imagePath": "/images/2218532d-a9a0-44a0-bb3a-483f49b36123.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1154,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 232,
+    "name": "Polvo para Gelatina",
+    "imagePath": "/images/0ad8b27c-339b-4a30-a621-e7b43ddd1252.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1155,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 233,
+    "name": "Sirope de Fresa",
+    "imagePath": "/images/47f22cea-098a-442a-b2cc-5d1e023f231d.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1156,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 234,
+    "name": "Sirope de Chocolate",
+    "imagePath": "/images/3b0e28ef-2d4b-4ba3-9014-fa1a37a12dbc.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1156,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 235,
+    "name": "Bolsas de Basura",
+    "imagePath": "/images/d1abbaf6-1d5d-4b0a-9113-8ac352b73897.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1157,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 236,
+    "name": "Quita grasas",
+    "imagePath": "/images/b5441fd9-bf92-4b1b-87c6-4ef62e6cf184.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1158,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 237,
+    "name": "Galletas con Chocolate",
+    "imagePath": "/images/0d4770c8-1994-47aa-a942-f5d22f870c3a.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1064,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 238,
+    "name": "Galletas de Chocolate",
+    "imagePath": "/images/b7fcd47e-bf65-4f82-8406-e952068445a8.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1064,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 239,
+    "name": "Pastas",
+    "imagePath": "/images/6cb1d3a2-b62f-47ae-8df2-a0375d252353.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1159,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 240,
+    "name": "Limonada",
+    "imagePath": "/images/06505c05-0877-4429-ba3e-4a5573717d5c.webp",
+    "categoryId": 19,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1160,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 241,
+    "name": "Bebida Energética",
+    "imagePath": "/images/0633b55d-8430-450f-8b31-5779183c0de6.webp",
+    "categoryId": 19,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1161,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 242,
+    "name": "Café Frío",
+    "imagePath": "/images/3dd531f6-f063-48f6-8d5a-0da0d99bab35.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1162,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 243,
+    "name": "Refresco Cola",
+    "imagePath": "/images/c9844cbb-5eb9-466a-992b-96ec506275dc.webp",
+    "categoryId": 19,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1163,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 244,
+    "name": "Refresco Limón con Gas",
+    "imagePath": "/images/5153f27e-7e2e-4aaa-a596-ab56781ca954.webp",
+    "categoryId": 19,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1163,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 245,
+    "name": "Patatas Fritas",
+    "imagePath": "/images/5ee49ae3-4960-4771-bac0-2b251c7ac182.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1164,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 246,
+    "name": "Chocolatinas",
+    "imagePath": "/images/16797e9a-ebd6-446f-a94e-02c1128fdd31.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1165,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 247,
+    "name": "Gelatina",
+    "imagePath": "/images/ddf153ef-c2c1-44df-8213-752566338c45.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1155,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 248,
+    "name": "Fuet",
+    "imagePath": "/images/a31001e8-4ad5-46e8-9aea-70dd2baf546a.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1166,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 249,
+    "name": "Salchichón",
+    "imagePath": "/images/e3836146-5d6f-4b1a-941d-d7f363435a25.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1167,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 250,
+    "name": "Merluza",
+    "imagePath": "/images/6f91fdd5-ee1f-4a82-be33-579a38a6026c.webp",
+    "categoryId": 4,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1168,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 251,
+    "name": "Sepia",
+    "imagePath": "/images/be0e4325-e552-4793-aefb-2d614e887d7b.webp",
+    "categoryId": 4,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1169,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 252,
+    "name": "Dorada",
+    "imagePath": "/images/d57832b9-ac23-48fe-b0be-0659c6bcc8ad.webp",
+    "categoryId": 4,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1170,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 253,
+    "name": "Pescadilla",
+    "imagePath": "/images/bdb7002a-ed7d-48bc-b98d-f40b9106e7ca.webp",
+    "categoryId": 4,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1171,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 254,
+    "name": "Queso para Untar",
+    "imagePath": "/images/8569ddc5-4f62-4ed8-9b60-47b1f0c05e5c.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1172,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 255,
+    "name": "Cuscús",
+    "imagePath": "/images/f8897631-7601-4a3d-95f1-e97bb10f7c5e.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1173,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 256,
+    "name": "Canela",
+    "imagePath": "/images/49bec673-be5e-4a7f-b743-3bee6cb5c557.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1174,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 257,
+    "name": "Laurel",
+    "imagePath": "/images/25c4422c-cf48-480b-92f4-60a0991ec6c8.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1175,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 258,
+    "name": "Vinagre de Módena",
+    "imagePath": "/images/7a068e36-107f-419a-90c8-774afe7c2822.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1030,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 259,
+    "name": "Pipas de Calabaza",
+    "imagePath": "/images/501f694b-9054-4ee3-994d-414f4df422c1.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1176,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 260,
+    "name": "Semillas de Sésamo",
+    "imagePath": "/images/bc32dd55-127f-4a5c-bfb2-570e1661556a.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1177,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 261,
+    "name": "Azúcar Glas",
+    "imagePath": "/images/cca88737-3689-4522-9516-01d7812a23e9.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1178,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 262,
+    "name": "Cacahuetes con Miel",
+    "imagePath": "/images/2f730b89-8964-4c23-93a6-6ae65c2db513.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1179,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 263,
+    "name": "Cacahuetes pelados",
+    "imagePath": "/images/5d31e6bf-ea27-42aa-81d1-9e4b77886819.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1179,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 264,
+    "name": "Maíz tostado",
+    "imagePath": "/images/3ca6af44-96a4-4fe5-a750-cd03641de993.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1180,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 266,
+    "name": "Café Frío,",
+    "imagePath": "/images/2cd46cba-c716-45f8-94ea-f4fd1d7b9920.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1162,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 267,
+    "name": "Setas",
+    "imagePath": "/images/ec7ace1c-521a-4449-8760-7ae58f1ee856.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1181,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 268,
+    "name": "Rabas",
+    "imagePath": "/images/b8f5bfa8-f3d8-408c-807a-2705f1780424.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1044,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 269,
+    "name": "Croquetas",
+    "imagePath": "/images/5ada6a17-f448-4a45-bf06-da4b3c790aad.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1182,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 270,
+    "name": "Helado Tarrina",
+    "imagePath": "/images/37e3c2f0-196b-49c9-89e4-e5a0feada9a5.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1183,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 271,
+    "name": "Vinagre de Limpieza",
+    "imagePath": "/images/b66fa37c-db97-4322-9780-425d34b50b3d.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1184,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 272,
+    "name": "Helado",
+    "imagePath": "/images/1c8901c9-5fb6-475a-9c9a-b0055a3d9c57.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1183,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 273,
+    "name": "Masa de Pizza",
+    "imagePath": "/images/f1833bd1-8ccd-45cb-b15b-063ef100e883.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1185,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 274,
+    "name": "Queso de vaca loncheado",
+    "imagePath": "/images/a509ca6f-408f-41bd-a081-80a3d436d07b.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1186,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 275,
+    "name": "Queso de cabra en lonchas",
+    "imagePath": "/images/b476241d-0adb-4b28-a292-f2b598bab182.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1102,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 276,
+    "name": "Queso de oveja en lonchas",
+    "imagePath": "/images/fc20805f-e20c-4054-b246-e971b6642e5c.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1186,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 277,
+    "name": "Tortilla de Patata con Cebolla",
+    "imagePath": "/images/fafebca6-129e-4727-a18f-c2039278b4f9.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1187,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 278,
+    "name": "Tortilla de Patata sin Cebolla",
+    "imagePath": "/images/8d1e3daa-1227-47d0-91e8-068dc61cdd6e.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1187,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 279,
+    "name": "Gazpacho Pasteurizado",
+    "imagePath": "/images/faad636d-451a-4ad8-870b-b61ce93b7458.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1066,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 280,
+    "name": "Queso rallado Pizza",
+    "imagePath": "/images/8f8c324a-afbc-4fd4-97db-06f7c3e2486b.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1188,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 281,
+    "name": "Queso rallado 4 quesos",
+    "imagePath": "/images/a49e6438-8ee5-4bb0-9c5c-0ae83bad4595.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1188,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 282,
+    "name": "Yogur Proteínas",
+    "imagePath": "/images/91f8d779-ef7c-4ac5-ad06-17f5ea1aa035.webp",
+    "categoryId": 7,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1041,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 283,
+    "name": "Salmorejo Pasteurizado",
+    "imagePath": "/images/f2b3a711-2ba7-4e78-b424-2b6b5a822c21.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1189,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 284,
+    "name": "Lasaña de Espinacas",
+    "imagePath": "/images/ae231b55-8eef-4de1-8532-ee3ea6f46e92.webp",
+    "categoryId": 16,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1027,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 285,
+    "name": "Banana",
+    "imagePath": "/images/09083f51-798f-4e64-be9d-a5d447362b35.webp",
+    "categoryId": 1,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1190,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 286,
+    "name": "Bizcocho de Yogur",
+    "imagePath": "/images/7b3fbc46-324f-4797-9f51-d9c0f197643e.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1137,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 287,
+    "name": "Tomate Frito estilo Casero",
+    "imagePath": "/images/006706ae-e481-46d5-99b1-872a155fa111.webp",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1136,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 288,
+    "name": "Chocolate Negro Fundir",
+    "imagePath": "/images/ff738c63-82ad-4738-a549-53e4cd6ae2b8.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1058,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 289,
+    "name": "Nachos",
+    "imagePath": "/images/d0bea7fe-33ae-4e87-bc21-49c6c0ee7227.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1191,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 290,
+    "name": "Toallitas Faciales",
+    "imagePath": "/images/e6464516-34df-4313-8a7c-0570e26aca53.webp",
+    "categoryId": 26,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1192,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 291,
+    "name": "Gominolas",
+    "imagePath": "/images/46c519c9-da60-4ea3-b9c5-b83dd46814e9.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1193,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 292,
+    "name": "Regalices Nata y Fresa",
+    "imagePath": "/images/676ae940-e9ec-4b87-a836-3f6951e82b2b.webp",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1194,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 293,
+    "name": "Tomate Cherry",
+    "imagePath": "/images/7b78ad4b-ff80-4149-b56b-3636d83026fb.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1195,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 294,
+    "name": "Zanahorias",
+    "imagePath": "/images/76cf6fc5-9f85-4b04-8f42-32f70a1105f4.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1196,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 295,
+    "name": "Brócoli",
+    "imagePath": "/images/863956e1-d2d6-4d62-82fc-3ed37e93c2ea.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1197,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 296,
+    "name": "Champiñones",
+    "imagePath": "/images/561b6252-9c67-478f-8f42-d6bac6c42c71.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1198,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 297,
+    "name": "Judías Verdes",
+    "imagePath": "/images/c683455f-e206-4993-8eaa-62f6ada660e9.webp",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1199,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 298,
+    "name": "Espárragos",
+    "imagePath": "/images/b1e7da57-1cd4-425d-a264-fe59244fb9ad.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1200,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 299,
+    "name": "Albahaca",
+    "imagePath": "/images/d65c12c5-ab3a-425b-b051-fa1b9e0b8571.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1201,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 300,
+    "name": "Menta",
+    "imagePath": "/images/ab71531a-7c38-40b4-a7e1-4080632e504e.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1202,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 301,
+    "name": "Romero",
+    "imagePath": "/images/f55f683d-1b00-455c-9559-276140054c33.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1203,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 302,
+    "name": "Tomillo",
+    "imagePath": "/images/a225f1f8-90e6-4819-8114-125b40de881e.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1204,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 303,
+    "name": "Chuletas de Cordero",
+    "imagePath": "/images/6d7d0b13-d32c-4fe1-95fc-5abab98c473f.webp",
+    "categoryId": 3,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1205,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 304,
+    "name": "Gambas",
+    "imagePath": "/images/b2c165e3-6d3a-4172-b966-71c1ddf42499.webp",
+    "categoryId": 5,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1206,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 305,
+    "name": "Langostinos",
+    "imagePath": "/images/6203759e-7b1d-4716-a3a9-cf7ecfa3c372.webp",
+    "categoryId": 5,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1207,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 306,
+    "name": "Mejillones",
+    "imagePath": "/images/a2ae4419-ddfc-41e6-920a-df2c2f97aba2.webp",
+    "categoryId": 5,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1208,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 307,
+    "name": "Almejas",
+    "imagePath": "/images/8cf20b8b-0d47-49bb-bd67-d6855d5da965.webp",
+    "categoryId": 5,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1209,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 308,
+    "name": "Pulpo",
+    "imagePath": "/images/d245e28e-8fe3-4ca6-af66-0ba1bfb9b087.webp",
+    "categoryId": 5,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1210,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 309,
+    "name": "Mozzarella",
+    "imagePath": "/images/46bf7983-027c-4be7-8a5c-db8faaae805d.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1211,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 310,
+    "name": "Queso Parmesano",
+    "imagePath": "/images/f79fea13-93ac-4ee5-bddf-6c5d2f05f823.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1212,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 311,
+    "name": "Queso Azul",
+    "imagePath": "/images/89974f81-7822-4268-b9cf-5855569466ec.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1213,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 312,
+    "name": "Queso Brie",
+    "imagePath": "/images/bcd48556-3e1b-4b34-987a-c50addc0dcd5.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1214,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 313,
+    "name": "Queso Camembert",
+    "imagePath": "/images/570f5ab9-ff37-4650-bd3c-3d35d9e911c9.webp",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1215,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 314,
+    "name": "Masa de Hojaldre",
+    "imagePath": "/images/bebec20e-b2f3-4afd-b7ac-c997bfe14c92.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1216,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 315,
+    "name": "Masa Quebrada",
+    "imagePath": "/images/7e253e91-c652-4484-8e7d-4a099a621102.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1217,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 316,
+    "name": "Masa de Empanada",
+    "imagePath": "/images/a162e668-f0c6-4689-8fe9-97514df3ddaf.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1218,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 317,
+    "name": "Copos de Avena",
+    "imagePath": "/images/b5e8a878-805f-4073-8734-55c1ca8c9858.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1219,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 318,
+    "name": "Muesli",
+    "imagePath": "/images/54713ac2-fc7f-4272-8af3-613850ab8e47.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1220,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 319,
+    "name": "Copos de Maíz",
+    "imagePath": "/images/8d126e8d-146e-4b6b-8b1e-54054d73d120.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1050,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 320,
+    "name": "Levadura",
+    "imagePath": "/images/565404a0-9ccc-4d81-bde5-0abffbd427a0.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1221,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 321,
+    "name": "Bicarbonato de Sodio",
+    "imagePath": "/images/0a444c9a-645a-418f-a936-4e37b357c410.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1222,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 322,
+    "name": "Esencia de Vainilla",
+    "imagePath": "/images/16de5e79-1a12-4e92-8d34-4cb94a99e5f0.webp",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1223,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 323,
+    "name": "Almendras",
+    "imagePath": "/images/b52d2b1c-5fe2-45f4-847c-8c1e2be9c9df.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1224,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 324,
+    "name": "Anacardos",
+    "imagePath": "/images/3cd76594-fd12-4fb0-9d74-aa9db5e70685.webp",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1225,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 325,
+    "name": "Café Molido",
+    "imagePath": "/images/9def96f9-63dd-4706-8523-9d3ce5904350.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1071,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 326,
+    "name": "Café en Grano",
+    "imagePath": "/images/11ad1c23-128e-4fe7-842c-7d46f676490e.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1071,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 327,
+    "name": "Agua",
+    "imagePath": "/images/68b1d860-ee52-4488-a864-eaa451ead2db.webp",
+    "categoryId": 18,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1226,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 328,
+    "name": "Agua con Gas",
+    "imagePath": "/images/d4a9fdbc-479a-41f8-b20b-226a86b14af0.webp",
+    "categoryId": 18,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1227,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 329,
+    "name": "Vino Tinto",
+    "imagePath": "/images/dac1fe3b-f2fe-4300-9716-a061405fe098.webp",
+    "categoryId": 21,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1228,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 330,
+    "name": "Vino Blanco",
+    "imagePath": "/images/e7fd3213-fe59-4501-b51a-e3c6a5ee1b35.webp",
+    "categoryId": 21,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1229,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 331,
+    "name": "Vino Rosado",
+    "imagePath": "/images/433737eb-ba24-4cd1-874a-cc0af963d82d.webp",
+    "categoryId": 21,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1230,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 332,
+    "name": "Cerveza",
+    "imagePath": "/images/25a85aae-1f9d-4e3f-a28d-f5122833b195.webp",
+    "categoryId": 22,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1231,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 333,
+    "name": "Ron",
+    "imagePath": "/images/a8cc934a-fe28-40f5-9092-14a3387f7622.webp",
+    "categoryId": 23,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1232,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 334,
+    "name": "Ginebra",
+    "imagePath": "",
+    "categoryId": 23,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1233,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 335,
+    "name": "Whisky",
+    "imagePath": "/images/59eb2339-e1dd-4809-b977-8608440ce72c.webp",
+    "categoryId": 23,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1234,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 336,
+    "name": "Té Verde",
+    "imagePath": "/images/ff8e4fd1-e9ab-4352-bc3b-f400a21a2a05.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1235,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 337,
+    "name": "Manzanilla",
+    "imagePath": "/images/a6a6151a-116c-4b35-96f6-14a104a48f03.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1236,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 338,
+    "name": "Tila",
+    "imagePath": "/images/a4507178-962e-4a5c-8d82-9efcd505c8c3.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1237,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 339,
+    "name": "Poleo Menta",
+    "imagePath": "/images/d6e3b4a3-62ed-400b-ac1e-c8f120fb6a62.webp",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1238,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 340,
+    "name": "Detergente Lavadora",
+    "imagePath": "/images/84881a2d-f50a-412b-a97f-c64276457742.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1239,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 341,
+    "name": "Suavizante Ropa",
+    "imagePath": "/images/e8f841a3-18fa-440f-a67b-f806d1af0651.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1240,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 342,
+    "name": "Lejía",
+    "imagePath": "/images/0885d184-d1ef-4ef8-90ab-ce8381045b02.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1241,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 343,
+    "name": "Limpia-hogar Multiusos",
+    "imagePath": "/images/13e0dfea-4cd6-43fd-8103-0b81bce8a1d1.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1242,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 344,
+    "name": "Limpiacristales",
+    "imagePath": "/images/fa50377d-d347-48a7-9dc5-5a258c033606.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1243,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 345,
+    "name": "Pastillas Lavavajillas",
+    "imagePath": "/images/04bd0deb-973c-4443-88e2-a647af5ac9e9.webp",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1244,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 346,
+    "name": "Fregasuelos",
+    "imagePath": "",
+    "categoryId": 27,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1245,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 354,
+    "name": "Judías Verdes Congeladas",
+    "imagePath": "/images/ec777431-0b07-480b-8543-1f10fbd9920f.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1199,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 355,
+    "name": "Menestra de Verduras Congelada",
+    "imagePath": "/images/1c0c896b-d846-416b-9845-04e32296976b.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1246,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 356,
+    "name": "Varitas de Merluza Congeladas",
+    "imagePath": "/images/8756cefc-19bb-4469-a97c-74366faf8d01.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1168,
+    "storageRuleId": 3,
+    "stored": 1
+  },
+  {
+    "id": 357,
+    "name": "Pescado Rebozado",
+    "imagePath": "/images/9553bca1-ab2d-45a5-ad2b-733498ca8e35.webp",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1247,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 358,
+    "name": "Sardinas en Aceite",
+    "imagePath": "/images/a467bd3c-3d5c-4f0d-b756-357eb70bac32.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1248,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 359,
+    "name": "Berberechos",
+    "imagePath": "/images/e838c366-acd1-4c87-9f90-66116d637ddc.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1249,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 360,
+    "name": "Mejillones en Escabeche",
+    "imagePath": "/images/c62bf26b-3bc4-42d5-9101-9ad520510fec.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1208,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 361,
+    "name": "Lentejas Cocidas",
+    "imagePath": "/images/0794ae72-4e56-4596-bd59-d994690d6218.webp",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1144,
+    "storageRuleId": 2,
+    "stored": 1
+  },
+  {
+    "id": 363,
+    "name": "Alubias",
+    "imagePath": "/images/77511aca-a672-4160-9929-7771cb89ba7c.webp",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1065,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 364,
+    "name": "Desodorante",
+    "imagePath": "/images/0080ba43-fb89-499b-80cc-da5e38979164.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1250,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 365,
+    "name": "Cuchillas de Afeitar",
+    "imagePath": "/images/5563c7af-34da-4d91-b07a-c2fc5bfc2800.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1251,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 366,
+    "name": "Espuma de Afeitar",
+    "imagePath": "/images/423ea531-cdcb-4ba7-b7ff-9c74f537b485.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1252,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 367,
+    "name": "Hilo Dental",
+    "imagePath": "/images/bb89a35c-e428-463f-bad5-b40aac75fce3.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1253,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 368,
+    "name": "Enjuague Bucal",
+    "imagePath": "/images/0cb1fa29-54ce-4860-a5f8-1d2cbe2070da.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1254,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 369,
+    "name": "Bastoncillos de Oídos",
+    "imagePath": "/images/48cc6dee-600c-4a79-afff-a32f260e3812.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1255,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 370,
+    "name": "Tiritas",
+    "imagePath": "/images/b7bb8df4-301e-4274-afeb-f5728313cb16.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1256,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 371,
+    "name": "Algodón",
+    "imagePath": "/images/9fb0fbfd-54be-4e7d-9d00-4c4754cd9bcd.webp",
+    "categoryId": 24,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1257,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 372,
+    "name": "Pan de Pita",
+    "imagePath": "/images/8693311c-ce0e-4717-94f4-486c1bf68249.webp",
+    "categoryId": 8,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1258,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 373,
+    "name": "Pimientos Congelados",
+    "imagePath": "",
+    "categoryId": 15,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1038,
+    "storageRuleId": 1,
+    "stored": 1
+  },
+  {
+    "id": 374,
+    "name": "Chocolate en Polvo",
+    "imagePath": "",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1259,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 375,
+    "name": "Chocolate a la Taza",
+    "imagePath": "",
+    "categoryId": 20,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1260,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 376,
+    "name": "Alubias Rojas Cocidas",
+    "imagePath": "",
+    "categoryId": 12,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1065,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 377,
+    "name": "Castaña",
+    "imagePath": "",
+    "categoryId": 13,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1261,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 378,
+    "name": "Leche condensada",
+    "imagePath": "",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1262,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 379,
+    "name": "Lechuga Lavada",
+    "imagePath": "",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1084,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 380,
+    "name": "Queso Grana Padano",
+    "imagePath": "",
+    "categoryId": 6,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1263,
+    "storageRuleId": 3,
+    "stored": 0
+  },
+  {
+    "id": 381,
+    "name": "Chocolate 70%",
+    "imagePath": "",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1058,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 382,
+    "name": "Tomate Rosa",
+    "imagePath": "",
+    "categoryId": 2,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1074,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 383,
+    "name": "Macarrón Espirales",
+    "imagePath": "",
+    "categoryId": 9,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1062,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 384,
+    "name": "Cebolla Frita",
+    "imagePath": "",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1264,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 385,
+    "name": "Mostaza",
+    "imagePath": "",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1265,
+    "storageRuleId": 2,
+    "stored": 0
+  },
+  {
+    "id": 386,
+    "name": "Salsa Burger",
+    "imagePath": "",
+    "categoryId": 10,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1266,
+    "storageRuleId": 2,
+    "stored": 0
+  },
+  {
+    "id": 387,
+    "name": "Crema de Cacao",
+    "imagePath": "",
+    "categoryId": 14,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1267,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 388,
+    "name": "Sal Gruesa",
+    "imagePath": "",
+    "categoryId": 11,
+    "isVegetarian": 0,
+    "isHalal": 0,
+    "isGeneric": 0,
+    "genericId": 1114,
+    "storageRuleId": 1,
+    "stored": 0
+  },
+  {
+    "id": 1000,
+    "name": "Pan De Molde",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pan De Molde"
+  },
+  {
+    "id": 1001,
+    "name": "Nueces",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Nueces"
+  },
+  {
+    "id": 1002,
+    "name": "Aloe Vera",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Aloe Vera"
+  },
+  {
+    "id": 1003,
+    "name": "Plátano",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Plátano"
+  },
+  {
+    "id": 1004,
+    "name": "Donuts",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Donuts"
+  },
+  {
+    "id": 1005,
+    "name": "Pan De Hamburguesa",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pan De Hamburguesa"
+  },
+  {
+    "id": 1006,
+    "name": "Arroz",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Arroz"
+  },
+  {
+    "id": 1007,
+    "name": "Salsa Picante",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salsa Picante"
+  },
+  {
+    "id": 1008,
+    "name": "Salsa De Soja",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salsa De Soja"
+  },
+  {
+    "id": 1009,
+    "name": "Ketchup",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Ketchup"
+  },
+  {
+    "id": 1010,
+    "name": "Salsa Barbacoa",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salsa Barbacoa"
+  },
+  {
+    "id": 1011,
+    "name": "Aceite De Oliva",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Aceite De Oliva"
+  },
+  {
+    "id": 1012,
+    "name": "Manzana",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Manzana"
+  },
+  {
+    "id": 1013,
+    "name": "Uvas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Uvas"
+  },
+  {
+    "id": 1014,
+    "name": "Piña",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Piña"
+  },
+  {
+    "id": 1015,
+    "name": "Naranja",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Naranja"
+  },
+  {
+    "id": 1016,
+    "name": "Arándanos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Arándanos"
+  },
+  {
+    "id": 1017,
+    "name": "Moras",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Moras"
+  },
+  {
+    "id": 1018,
+    "name": "Kiwi",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Kiwi"
+  },
+  {
+    "id": 1019,
+    "name": "Cerezas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cerezas"
+  },
+  {
+    "id": 1020,
+    "name": "Melón",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Melón"
+  },
+  {
+    "id": 1021,
+    "name": "Sandía",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Sandía"
+  },
+  {
+    "id": 1022,
+    "name": "Mandarina",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mandarina"
+  },
+  {
+    "id": 1023,
+    "name": "Mango",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mango"
+  },
+  {
+    "id": 1024,
+    "name": "Pera",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pera"
+  },
+  {
+    "id": 1025,
+    "name": "Magdalenas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Magdalenas"
+  },
+  {
+    "id": 1026,
+    "name": "Canelones",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Canelones"
+  },
+  {
+    "id": 1027,
+    "name": "Lasaña",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lasaña"
+  },
+  {
+    "id": 1028,
+    "name": "Pasta Rellena",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pasta Rellena"
+  },
+  {
+    "id": 1029,
+    "name": "Tomate Rallado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tomate Rallado"
+  },
+  {
+    "id": 1030,
+    "name": "Vinagre",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Vinagre"
+  },
+  {
+    "id": 1031,
+    "name": "Batido",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Batido"
+  },
+  {
+    "id": 1032,
+    "name": "Berenjena",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Berenjena"
+  },
+  {
+    "id": 1033,
+    "name": "Jamón Ibérico",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Jamón Ibérico"
+  },
+  {
+    "id": 1034,
+    "name": "Pechuga De Pollo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pechuga De Pollo"
+  },
+  {
+    "id": 1035,
+    "name": "Alitas De Pollo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Alitas De Pollo"
+  },
+  {
+    "id": 1036,
+    "name": "Caldo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Caldo"
+  },
+  {
+    "id": 1037,
+    "name": "Frambuesas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Frambuesas"
+  },
+  {
+    "id": 1038,
+    "name": "Pimiento",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pimiento"
+  },
+  {
+    "id": 1039,
+    "name": "Pasta De Dientes",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pasta De Dientes"
+  },
+  {
+    "id": 1040,
+    "name": "Salmón",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salmón"
+  },
+  {
+    "id": 1041,
+    "name": "Yogur",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Yogur"
+  },
+  {
+    "id": 1042,
+    "name": "Harina",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Harina"
+  },
+  {
+    "id": 1043,
+    "name": "Brochetas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Brochetas"
+  },
+  {
+    "id": 1044,
+    "name": "Calamares",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Calamares"
+  },
+  {
+    "id": 1045,
+    "name": "Bebida De Soja",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bebida De Soja"
+  },
+  {
+    "id": 1046,
+    "name": "Azúcar Moreno",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Azúcar Moreno"
+  },
+  {
+    "id": 1047,
+    "name": "Gel De Ducha",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Gel De Ducha"
+  },
+  {
+    "id": 1048,
+    "name": "Jabón De Cocina",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Jabón De Cocina"
+  },
+  {
+    "id": 1049,
+    "name": "Chuletas De Cerdo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chuletas De Cerdo"
+  },
+  {
+    "id": 1050,
+    "name": "Cereales",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cereales"
+  },
+  {
+    "id": 1051,
+    "name": "Albóndigas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Albóndigas"
+  },
+  {
+    "id": 1052,
+    "name": "Pimienta",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pimienta"
+  },
+  {
+    "id": 1053,
+    "name": "Orégano",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Orégano"
+  },
+  {
+    "id": 1054,
+    "name": "Perejil",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Perejil"
+  },
+  {
+    "id": 1055,
+    "name": "Patatas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Patatas"
+  },
+  {
+    "id": 1056,
+    "name": "Aceitunas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Aceitunas"
+  },
+  {
+    "id": 1057,
+    "name": "Champú",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Champú"
+  },
+  {
+    "id": 1058,
+    "name": "Chocolate Negro",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chocolate Negro"
+  },
+  {
+    "id": 1059,
+    "name": "Naranjas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Naranjas"
+  },
+  {
+    "id": 1060,
+    "name": "Bonito",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bonito"
+  },
+  {
+    "id": 1061,
+    "name": "Garbanzos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Garbanzos"
+  },
+  {
+    "id": 1062,
+    "name": "Pasta",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pasta"
+  },
+  {
+    "id": 1063,
+    "name": "Flan",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Flan"
+  },
+  {
+    "id": 1064,
+    "name": "Galletas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Galletas"
+  },
+  {
+    "id": 1065,
+    "name": "Alubias",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Alubias"
+  },
+  {
+    "id": 1066,
+    "name": "Gazpacho",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Gazpacho"
+  },
+  {
+    "id": 1067,
+    "name": "Chorizo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chorizo"
+  },
+  {
+    "id": 1068,
+    "name": "Carne Picada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Carne Picada"
+  },
+  {
+    "id": 1069,
+    "name": "Puerros",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Puerros"
+  },
+  {
+    "id": 1070,
+    "name": "Salchichas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salchichas"
+  },
+  {
+    "id": 1071,
+    "name": "Café",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Café"
+  },
+  {
+    "id": 1072,
+    "name": "Pechuga De Pavo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pechuga De Pavo"
+  },
+  {
+    "id": 1073,
+    "name": "Zumo De Naranja",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Zumo De Naranja"
+  },
+  {
+    "id": 1074,
+    "name": "Tomate",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tomate"
+  },
+  {
+    "id": 1075,
+    "name": "Maíz Dulce",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Maíz Dulce"
+  },
+  {
+    "id": 1076,
+    "name": "Pepino",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pepino"
+  },
+  {
+    "id": 1077,
+    "name": "Calabacín",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Calabacín"
+  },
+  {
+    "id": 1078,
+    "name": "Solomillo De Pavo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Solomillo De Pavo"
+  },
+  {
+    "id": 1079,
+    "name": "Miel",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Miel"
+  },
+  {
+    "id": 1080,
+    "name": "Mascarilla Capilar",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mascarilla Capilar"
+  },
+  {
+    "id": 1081,
+    "name": "Azúcar Blanco",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Azúcar Blanco"
+  },
+  {
+    "id": 1082,
+    "name": "Ajos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Ajos"
+  },
+  {
+    "id": 1083,
+    "name": "Cebollas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cebollas"
+  },
+  {
+    "id": 1084,
+    "name": "Lechuga",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lechuga"
+  },
+  {
+    "id": 1085,
+    "name": "Coliflor",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Coliflor"
+  },
+  {
+    "id": 1086,
+    "name": "Guisantes",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Guisantes"
+  },
+  {
+    "id": 1087,
+    "name": "Muslos De Pollo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Muslos De Pollo"
+  },
+  {
+    "id": 1088,
+    "name": "Hamburguesa",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Hamburguesa"
+  },
+  {
+    "id": 1089,
+    "name": "Atún",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Atún"
+  },
+  {
+    "id": 1090,
+    "name": "Pimientos Asados",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pimientos Asados"
+  },
+  {
+    "id": 1091,
+    "name": "Melocotón En Bote",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Melocotón En Bote"
+  },
+  {
+    "id": 1092,
+    "name": "Mantequilla",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mantequilla"
+  },
+  {
+    "id": 1093,
+    "name": "Margarina",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Margarina"
+  },
+  {
+    "id": 1094,
+    "name": "Leche",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Leche"
+  },
+  {
+    "id": 1095,
+    "name": "Bebida De Avena",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bebida De Avena"
+  },
+  {
+    "id": 1096,
+    "name": "Chocolate Blanco",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chocolate Blanco"
+  },
+  {
+    "id": 1097,
+    "name": "Chocolate Con Leche",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chocolate Con Leche"
+  },
+  {
+    "id": 1098,
+    "name": "Aceite De Girasol",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Aceite De Girasol"
+  },
+  {
+    "id": 1099,
+    "name": "Pizza",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pizza"
+  },
+  {
+    "id": 1100,
+    "name": "Panini",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Panini"
+  },
+  {
+    "id": 1101,
+    "name": "Aguacate",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Aguacate"
+  },
+  {
+    "id": 1102,
+    "name": "Queso De Cabra",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso De Cabra"
+  },
+  {
+    "id": 1103,
+    "name": "Queso Curado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Curado"
+  },
+  {
+    "id": 1104,
+    "name": "Queso Fresco",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Fresco"
+  },
+  {
+    "id": 1105,
+    "name": "Espinacas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Espinacas"
+  },
+  {
+    "id": 1106,
+    "name": "Lima",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lima"
+  },
+  {
+    "id": 1107,
+    "name": "Granada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Granada"
+  },
+  {
+    "id": 1108,
+    "name": "Limón",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Limón"
+  },
+  {
+    "id": 1109,
+    "name": "Nata Cocina",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Nata Cocina"
+  },
+  {
+    "id": 1110,
+    "name": "Guacamole",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Guacamole"
+  },
+  {
+    "id": 1111,
+    "name": "Huevos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Huevos"
+  },
+  {
+    "id": 1112,
+    "name": "Cayenas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cayenas"
+  },
+  {
+    "id": 1113,
+    "name": "Pan",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pan"
+  },
+  {
+    "id": 1114,
+    "name": "Sal",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Sal"
+  },
+  {
+    "id": 1115,
+    "name": "Mayonesa",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mayonesa"
+  },
+  {
+    "id": 1116,
+    "name": "Mermelada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mermelada"
+  },
+  {
+    "id": 1117,
+    "name": "Fresas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Fresas"
+  },
+  {
+    "id": 1118,
+    "name": "Salsa Pesto",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salsa Pesto"
+  },
+  {
+    "id": 1119,
+    "name": "Tortitas Mexicanas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tortitas Mexicanas"
+  },
+  {
+    "id": 1120,
+    "name": "Lomo De Cerdo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lomo De Cerdo"
+  },
+  {
+    "id": 1121,
+    "name": "Natillas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Natillas"
+  },
+  {
+    "id": 1122,
+    "name": "Acondicionador",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Acondicionador"
+  },
+  {
+    "id": 1123,
+    "name": "Papel De Cocina",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Papel De Cocina"
+  },
+  {
+    "id": 1124,
+    "name": "Estropajo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Estropajo"
+  },
+  {
+    "id": 1125,
+    "name": "Papel Higiénico",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Papel Higiénico"
+  },
+  {
+    "id": 1126,
+    "name": "Toallitas WC",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Toallitas WC"
+  },
+  {
+    "id": 1127,
+    "name": "Gel De Manos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Gel De Manos"
+  },
+  {
+    "id": 1128,
+    "name": "Pulled Pork",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pulled Pork"
+  },
+  {
+    "id": 1129,
+    "name": "Jamón Serrano",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Jamón Serrano"
+  },
+  {
+    "id": 1130,
+    "name": "Filetes De Ternera",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Filetes De Ternera"
+  },
+  {
+    "id": 1131,
+    "name": "Costillas De Cerdo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Costillas De Cerdo"
+  },
+  {
+    "id": 1132,
+    "name": "Jamón Cocido",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Jamón Cocido"
+  },
+  {
+    "id": 1133,
+    "name": "Conejo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Conejo"
+  },
+  {
+    "id": 1134,
+    "name": "Carne Para Guisar",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Carne Para Guisar"
+  },
+  {
+    "id": 1135,
+    "name": "Morcilla",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Morcilla"
+  },
+  {
+    "id": 1136,
+    "name": "Tomate Frito",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tomate Frito"
+  },
+  {
+    "id": 1137,
+    "name": "Bizcocho",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bizcocho"
+  },
+  {
+    "id": 1138,
+    "name": "Curry",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Curry"
+  },
+  {
+    "id": 1139,
+    "name": "Pimentón",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pimentón"
+  },
+  {
+    "id": 1140,
+    "name": "Ajo En Polvo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Ajo En Polvo"
+  },
+  {
+    "id": 1141,
+    "name": "Cúrcuma",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cúrcuma"
+  },
+  {
+    "id": 1142,
+    "name": "Filetes De Pavo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Filetes De Pavo"
+  },
+  {
+    "id": 1143,
+    "name": "Lomo Embuchado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lomo Embuchado"
+  },
+  {
+    "id": 1144,
+    "name": "Lentejas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lentejas"
+  },
+  {
+    "id": 1145,
+    "name": "Maíz Palomitas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Maíz Palomitas"
+  },
+  {
+    "id": 1146,
+    "name": "Sobaos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Sobaos"
+  },
+  {
+    "id": 1147,
+    "name": "Cardo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cardo"
+  },
+  {
+    "id": 1148,
+    "name": "Nata Montar",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Nata Montar"
+  },
+  {
+    "id": 1149,
+    "name": "Pistachos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pistachos"
+  },
+  {
+    "id": 1150,
+    "name": "Pepinillos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pepinillos"
+  },
+  {
+    "id": 1151,
+    "name": "Pimientos Del Piquillo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pimientos Del Piquillo"
+  },
+  {
+    "id": 1152,
+    "name": "Leche De Coco",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Leche De Coco"
+  },
+  {
+    "id": 1153,
+    "name": "Pasas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pasas"
+  },
+  {
+    "id": 1154,
+    "name": "Cacao En Polvo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cacao En Polvo"
+  },
+  {
+    "id": 1155,
+    "name": "Gelatina",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Gelatina"
+  },
+  {
+    "id": 1156,
+    "name": "Sirope",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Sirope"
+  },
+  {
+    "id": 1157,
+    "name": "Bolsas De Basura",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bolsas De Basura"
+  },
+  {
+    "id": 1158,
+    "name": "Quitagrasas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Quitagrasas"
+  },
+  {
+    "id": 1159,
+    "name": "Pastas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pastas"
+  },
+  {
+    "id": 1160,
+    "name": "Limonada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Limonada"
+  },
+  {
+    "id": 1161,
+    "name": "Bebida Energética",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bebida Energética"
+  },
+  {
+    "id": 1162,
+    "name": "Café Frío",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Café Frío"
+  },
+  {
+    "id": 1163,
+    "name": "Refresco",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Refresco"
+  },
+  {
+    "id": 1164,
+    "name": "Patatas Fritas Bolsa",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Patatas Fritas Bolsa"
+  },
+  {
+    "id": 1165,
+    "name": "Chocolatinas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chocolatinas"
+  },
+  {
+    "id": 1166,
+    "name": "Fuet",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Fuet"
+  },
+  {
+    "id": 1167,
+    "name": "Salchichón",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salchichón"
+  },
+  {
+    "id": 1168,
+    "name": "Merluza",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Merluza"
+  },
+  {
+    "id": 1169,
+    "name": "Sepia",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Sepia"
+  },
+  {
+    "id": 1170,
+    "name": "Dorada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Dorada"
+  },
+  {
+    "id": 1171,
+    "name": "Pescadilla",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pescadilla"
+  },
+  {
+    "id": 1172,
+    "name": "Queso Untar",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Untar"
+  },
+  {
+    "id": 1173,
+    "name": "Cuscús",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cuscús"
+  },
+  {
+    "id": 1174,
+    "name": "Canela",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Canela"
+  },
+  {
+    "id": 1175,
+    "name": "Laurel",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Laurel"
+  },
+  {
+    "id": 1176,
+    "name": "Pipas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pipas"
+  },
+  {
+    "id": 1177,
+    "name": "Semillas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Semillas"
+  },
+  {
+    "id": 1178,
+    "name": "Azúcar Glass",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Azúcar Glass"
+  },
+  {
+    "id": 1179,
+    "name": "Cacahuetes",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cacahuetes"
+  },
+  {
+    "id": 1180,
+    "name": "Maíz Tostado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Maíz Tostado"
+  },
+  {
+    "id": 1181,
+    "name": "Setas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Setas"
+  },
+  {
+    "id": 1182,
+    "name": "Croquetas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Croquetas"
+  },
+  {
+    "id": 1183,
+    "name": "Helado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Helado"
+  },
+  {
+    "id": 1184,
+    "name": "Vinagre De Limpieza",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Vinagre De Limpieza"
+  },
+  {
+    "id": 1185,
+    "name": "Masa Pizza",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Masa Pizza"
+  },
+  {
+    "id": 1186,
+    "name": "Queso En Lonchas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso En Lonchas"
+  },
+  {
+    "id": 1187,
+    "name": "Tortilla De Patata",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tortilla De Patata"
+  },
+  {
+    "id": 1188,
+    "name": "Queso Rallado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Rallado"
+  },
+  {
+    "id": 1189,
+    "name": "Salmorejo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salmorejo"
+  },
+  {
+    "id": 1190,
+    "name": "Banana",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Banana"
+  },
+  {
+    "id": 1191,
+    "name": "Nachos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Nachos"
+  },
+  {
+    "id": 1192,
+    "name": "Toallitas Faciales",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Toallitas Faciales"
+  },
+  {
+    "id": 1193,
+    "name": "Gominolas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Gominolas"
+  },
+  {
+    "id": 1194,
+    "name": "Regalices",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Regalices"
+  },
+  {
+    "id": 1195,
+    "name": "Tomate Cherry",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tomate Cherry"
+  },
+  {
+    "id": 1196,
+    "name": "Zanahorias",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Zanahorias"
+  },
+  {
+    "id": 1197,
+    "name": "Brócoli",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Brócoli"
+  },
+  {
+    "id": 1198,
+    "name": "Champiñones",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Champiñones"
+  },
+  {
+    "id": 1199,
+    "name": "Judías Verdes",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Judías Verdes"
+  },
+  {
+    "id": 1200,
+    "name": "Espárragos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Espárragos"
+  },
+  {
+    "id": 1201,
+    "name": "Albahaca",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Albahaca"
+  },
+  {
+    "id": 1202,
+    "name": "Menta",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Menta"
+  },
+  {
+    "id": 1203,
+    "name": "Romero",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Romero"
+  },
+  {
+    "id": 1204,
+    "name": "Tomillo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tomillo"
+  },
+  {
+    "id": 1205,
+    "name": "Chuletas De Cordero",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chuletas De Cordero"
+  },
+  {
+    "id": 1206,
+    "name": "Gambas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Gambas"
+  },
+  {
+    "id": 1207,
+    "name": "Langostinos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Langostinos"
+  },
+  {
+    "id": 1208,
+    "name": "Mejillones",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mejillones"
+  },
+  {
+    "id": 1209,
+    "name": "Almejas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Almejas"
+  },
+  {
+    "id": 1210,
+    "name": "Pulpo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pulpo"
+  },
+  {
+    "id": 1211,
+    "name": "Mozzarella",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mozzarella"
+  },
+  {
+    "id": 1212,
+    "name": "Queso Parmesano",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Parmesano"
+  },
+  {
+    "id": 1213,
+    "name": "Queso Azul",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Azul"
+  },
+  {
+    "id": 1214,
+    "name": "Queso Brie",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Brie"
+  },
+  {
+    "id": 1215,
+    "name": "Queso Camembert",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Camembert"
+  },
+  {
+    "id": 1216,
+    "name": "Masa Hojaldre",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Masa Hojaldre"
+  },
+  {
+    "id": 1217,
+    "name": "Masa Quebrada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Masa Quebrada"
+  },
+  {
+    "id": 1218,
+    "name": "Masa Empanada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Masa Empanada"
+  },
+  {
+    "id": 1219,
+    "name": "Copos De Avena",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Copos De Avena"
+  },
+  {
+    "id": 1220,
+    "name": "Muesli",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Muesli"
+  },
+  {
+    "id": 1221,
+    "name": "Levadura",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Levadura"
+  },
+  {
+    "id": 1222,
+    "name": "Bicarbonato",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bicarbonato"
+  },
+  {
+    "id": 1223,
+    "name": "Vainilla",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Vainilla"
+  },
+  {
+    "id": 1224,
+    "name": "Almendras",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Almendras"
+  },
+  {
+    "id": 1225,
+    "name": "Anacardos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Anacardos"
+  },
+  {
+    "id": 1226,
+    "name": "Agua",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Agua"
+  },
+  {
+    "id": 1227,
+    "name": "Agua Con Gas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Agua Con Gas"
+  },
+  {
+    "id": 1228,
+    "name": "Vino Tinto",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Vino Tinto"
+  },
+  {
+    "id": 1229,
+    "name": "Vino Blanco",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Vino Blanco"
+  },
+  {
+    "id": 1230,
+    "name": "Vino Rosado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Vino Rosado"
+  },
+  {
+    "id": 1231,
+    "name": "Cerveza",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cerveza"
+  },
+  {
+    "id": 1232,
+    "name": "Ron",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Ron"
+  },
+  {
+    "id": 1233,
+    "name": "Ginebra",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Ginebra"
+  },
+  {
+    "id": 1234,
+    "name": "Whisky",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Whisky"
+  },
+  {
+    "id": 1235,
+    "name": "Té",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Té"
+  },
+  {
+    "id": 1236,
+    "name": "Manzanilla",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Manzanilla"
+  },
+  {
+    "id": 1237,
+    "name": "Tila",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tila"
+  },
+  {
+    "id": 1238,
+    "name": "Poleo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Poleo"
+  },
+  {
+    "id": 1239,
+    "name": "Detergente",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Detergente"
+  },
+  {
+    "id": 1240,
+    "name": "Suavizante",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Suavizante"
+  },
+  {
+    "id": 1241,
+    "name": "Lejía",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lejía"
+  },
+  {
+    "id": 1242,
+    "name": "Limpia Hogar",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Limpia Hogar"
+  },
+  {
+    "id": 1243,
+    "name": "Limpiacristales",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Limpiacristales"
+  },
+  {
+    "id": 1244,
+    "name": "Lavavajillas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Lavavajillas"
+  },
+  {
+    "id": 1245,
+    "name": "Fregasuelos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Fregasuelos"
+  },
+  {
+    "id": 1246,
+    "name": "Menestra",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Menestra"
+  },
+  {
+    "id": 1247,
+    "name": "Pescado Rebozado",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pescado Rebozado"
+  },
+  {
+    "id": 1248,
+    "name": "Sardinas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Sardinas"
+  },
+  {
+    "id": 1249,
+    "name": "Berberechos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Berberechos"
+  },
+  {
+    "id": 1250,
+    "name": "Desodorante",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Desodorante"
+  },
+  {
+    "id": 1251,
+    "name": "Cuchillas Afeitar",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cuchillas Afeitar"
+  },
+  {
+    "id": 1252,
+    "name": "Espuma Afeitar",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Espuma Afeitar"
+  },
+  {
+    "id": 1253,
+    "name": "Hilo Dental",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Hilo Dental"
+  },
+  {
+    "id": 1254,
+    "name": "Enjuague Bucal",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Enjuague Bucal"
+  },
+  {
+    "id": 1255,
+    "name": "Bastoncillos",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Bastoncillos"
+  },
+  {
+    "id": 1256,
+    "name": "Tiritas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Tiritas"
+  },
+  {
+    "id": 1257,
+    "name": "Algodón",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Algodón"
+  },
+  {
+    "id": 1258,
+    "name": "Pan Pita",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Pan Pita"
+  },
+  {
+    "id": 1259,
+    "name": "Chocolate Polvo",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chocolate Polvo"
+  },
+  {
+    "id": 1260,
+    "name": "Chocolate Taza",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Chocolate Taza"
+  },
+  {
+    "id": 1261,
+    "name": "Castañas",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Castañas"
+  },
+  {
+    "id": 1262,
+    "name": "Leche Condensada",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Leche Condensada"
+  },
+  {
+    "id": 1263,
+    "name": "Queso Grana Padano",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Queso Grana Padano"
+  },
+  {
+    "id": 1264,
+    "name": "Cebolla Frita",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Cebolla Frita"
+  },
+  {
+    "id": 1265,
+    "name": "Mostaza",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Mostaza"
+  },
+  {
+    "id": 1266,
+    "name": "Salsa Burger",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Salsa Burger"
+  },
+  {
+    "id": 1267,
+    "name": "Crema De Cacao",
+    "isGeneric": 1,
+    "description": "Ingrediente genérico para Crema De Cacao"
+  }
+]
