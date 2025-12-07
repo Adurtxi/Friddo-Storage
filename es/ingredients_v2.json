@@ -2979,7 +2979,7 @@
   {
     "id": 1233,
     "name": "Ginebra",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 23,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -3135,7 +3135,7 @@
   {
     "id": 1245,
     "name": "Fregasuelos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 27,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -3317,7 +3317,7 @@
   {
     "id": 1259,
     "name": "Chocolate en Polvo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 20,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -3330,7 +3330,7 @@
   {
     "id": 1260,
     "name": "Chocolate a la Taza",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 20,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -3343,7 +3343,7 @@
   {
     "id": 1261,
     "name": "Castañas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -3356,7 +3356,7 @@
   {
     "id": 1262,
     "name": "Leche Condensada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -3369,7 +3369,7 @@
   {
     "id": 1263,
     "name": "Queso Grana Padano",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -3382,7 +3382,7 @@
   {
     "id": 1264,
     "name": "Cebolla Frita",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 10,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -3395,7 +3395,7 @@
   {
     "id": 1265,
     "name": "Mostaza",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 10,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -3408,7 +3408,7 @@
   {
     "id": 1266,
     "name": "Salsa Burger",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 10,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -3421,7 +3421,7 @@
   {
     "id": 1267,
     "name": "Crema De Cacao",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -3447,7 +3447,7 @@
   {
     "id": 1287,
     "name": "Espaguetis",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -7996,7 +7996,7 @@
   {
     "id": 334,
     "name": "Ginebra",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 23,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8164,7 +8164,7 @@
   {
     "id": 346,
     "name": "Fregasuelos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 27,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8416,7 +8416,7 @@
   {
     "id": 374,
     "name": "Chocolate en Polvo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 20,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8430,7 +8430,7 @@
   {
     "id": 375,
     "name": "Chocolate a la Taza",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 20,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8444,7 +8444,7 @@
   {
     "id": 376,
     "name": "Alubias Rojas Cocidas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8458,7 +8458,7 @@
   {
     "id": 377,
     "name": "Castaña",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8472,7 +8472,7 @@
   {
     "id": 378,
     "name": "Leche condensada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8486,7 +8486,7 @@
   {
     "id": 379,
     "name": "Lechuga Lavada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8500,7 +8500,7 @@
   {
     "id": 380,
     "name": "Queso Grana Padano",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8514,7 +8514,7 @@
   {
     "id": 381,
     "name": "Chocolate 70%",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8528,7 +8528,7 @@
   {
     "id": 382,
     "name": "Tomate Rosa",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8542,7 +8542,7 @@
   {
     "id": 383,
     "name": "Macarrón Espirales",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8556,7 +8556,7 @@
   {
     "id": 384,
     "name": "Cebolla Frita",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 10,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8570,7 +8570,7 @@
   {
     "id": 385,
     "name": "Mostaza",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 10,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8584,7 +8584,7 @@
   {
     "id": 386,
     "name": "Salsa Burger",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 10,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8598,7 +8598,7 @@
   {
     "id": 387,
     "name": "Crema de Cacao",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8612,7 +8612,7 @@
   {
     "id": 388,
     "name": "Sal Gruesa",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 11,
     "isVegetarian": 0,
     "isHalal": 0,
@@ -8769,7 +8769,7 @@
   {
     "id": 406,
     "name": "Donuts de Chocolate",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8782,7 +8782,7 @@
   {
     "id": 407,
     "name": "Donuts Rellenos de Chocolate",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8795,7 +8795,7 @@
   {
     "id": 408,
     "name": "Donuts Rellenos de Crema",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8808,7 +8808,7 @@
   {
     "id": 409,
     "name": "Pan de hamburguesa con sésamo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8821,7 +8821,7 @@
   {
     "id": 410,
     "name": "Pan de hamburguesa tipo Brioche",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8834,7 +8834,7 @@
   {
     "id": 411,
     "name": "Pan de hamburguesa XL",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8847,7 +8847,7 @@
   {
     "id": 412,
     "name": "Pan de hamburguesa integral",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8860,7 +8860,7 @@
   {
     "id": 413,
     "name": "Pan de hamburguesa sin gluten",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8873,7 +8873,7 @@
   {
     "id": 414,
     "name": "Arroz Integral",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8886,7 +8886,7 @@
   {
     "id": 415,
     "name": "Arroz Vaporizado",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8899,7 +8899,7 @@
   {
     "id": 416,
     "name": "Arroz Jazmín",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8912,7 +8912,7 @@
   {
     "id": 417,
     "name": "Arroz para Sushi",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8925,7 +8925,7 @@
   {
     "id": 418,
     "name": "Arroz Arborio (Risotto)",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -8964,7 +8964,7 @@
   {
     "id": 421,
     "name": "Ravioli 4 Quesos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -8977,7 +8977,7 @@
   {
     "id": 422,
     "name": "Tortellini Jamón y Queso",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -8990,7 +8990,7 @@
   {
     "id": 423,
     "name": "Ravioli de Setas y Boletus",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9003,7 +9003,7 @@
   {
     "id": 424,
     "name": "Ravioli de Salmón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9016,7 +9016,7 @@
   {
     "id": 425,
     "name": "Dados de pechuga de pollo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9029,7 +9029,7 @@
   {
     "id": 426,
     "name": "Pechuga de pollo de corral",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9042,7 +9042,7 @@
   {
     "id": 427,
     "name": "Tiras de pechuga de pollo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9055,7 +9055,7 @@
   {
     "id": 428,
     "name": "Pechuga de pollo adobada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9068,7 +9068,7 @@
   {
     "id": 429,
     "name": "Pechuga de pollo corte fino",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9081,7 +9081,7 @@
   {
     "id": 430,
     "name": "Caldo de Pescado",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 16,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9094,7 +9094,7 @@
   {
     "id": 431,
     "name": "Caldo de Carne",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 16,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9107,7 +9107,7 @@
   {
     "id": 432,
     "name": "Caldo de Marisco",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 16,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9120,7 +9120,7 @@
   {
     "id": 433,
     "name": "Caldo de Jamón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 16,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9133,7 +9133,7 @@
   {
     "id": 434,
     "name": "Caldo para Paella",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 16,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9146,7 +9146,7 @@
   {
     "id": 435,
     "name": "Salmón Ahumado",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 4,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9159,7 +9159,7 @@
   {
     "id": 436,
     "name": "Lomos de Salmón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 4,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9172,7 +9172,7 @@
   {
     "id": 437,
     "name": "Salmón en Conserva",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9185,7 +9185,7 @@
   {
     "id": 438,
     "name": "Rodajas de Salmón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 4,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9198,7 +9198,7 @@
   {
     "id": 439,
     "name": "Salmón Marinado",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 4,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9211,7 +9211,7 @@
   {
     "id": 440,
     "name": "Yogur de Limón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9224,7 +9224,7 @@
   {
     "id": 441,
     "name": "Yogur Desnatado",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9237,7 +9237,7 @@
   {
     "id": 442,
     "name": "Yogur con Cereales",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9250,7 +9250,7 @@
   {
     "id": 443,
     "name": "Yogur Bebible",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9263,7 +9263,7 @@
   {
     "id": 444,
     "name": "Yogur sabor Coco",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9276,7 +9276,7 @@
   {
     "id": 445,
     "name": "Harina de Trigo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9289,7 +9289,7 @@
   {
     "id": 446,
     "name": "Harina Integral",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9302,7 +9302,7 @@
   {
     "id": 447,
     "name": "Harina de Maíz",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9315,7 +9315,7 @@
   {
     "id": 448,
     "name": "Harina con Levadura (Bizcochona)",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9328,7 +9328,7 @@
   {
     "id": 449,
     "name": "Harina para Tempura",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9341,7 +9341,7 @@
   {
     "id": 450,
     "name": "Espaguetis Integrales",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9354,7 +9354,7 @@
   {
     "id": 451,
     "name": "Espaguetis al Huevo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9367,7 +9367,7 @@
   {
     "id": 452,
     "name": "Espaguetis Tricolor",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -9380,7 +9380,7 @@
   {
     "id": 453,
     "name": "Setas Shiitake",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9393,7 +9393,7 @@
   {
     "id": 454,
     "name": "Setas de Cardo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9406,7 +9406,7 @@
   {
     "id": 455,
     "name": "Boletus",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9419,7 +9419,7 @@
   {
     "id": 456,
     "name": "Surtido de Setas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9445,7 +9445,7 @@
   {
     "id": 458,
     "name": "Leche Semidesnatada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -9458,7 +9458,7 @@
   {
     "id": 459,
     "name": "Leche Desnatada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -9471,7 +9471,7 @@
   {
     "id": 460,
     "name": "Leche Sin Lactosa",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -9484,7 +9484,7 @@
   {
     "id": 461,
     "name": "Leche Fresca",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -9497,7 +9497,7 @@
   {
     "id": 462,
     "name": "Huevos Camperos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9510,7 +9510,7 @@
   {
     "id": 463,
     "name": "Huevos Ecológicos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9523,7 +9523,7 @@
   {
     "id": 464,
     "name": "Huevos de Codorniz",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9536,7 +9536,7 @@
   {
     "id": 465,
     "name": "Huevos Talla XL",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9549,7 +9549,7 @@
   {
     "id": 466,
     "name": "Claras de huevo líquidas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 7,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9565,7 +9565,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 467,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9574,7 +9574,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 468,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9584,7 +9584,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 470,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9594,7 +9594,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 471,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9604,7 +9604,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 472,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9614,7 +9614,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 473,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9624,7 +9624,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 474,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9634,7 +9634,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 475,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9644,7 +9644,7 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 476,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
@@ -9654,13 +9654,13 @@
     "storageRuleId": 1,
     "requiresReview": true,
     "id": 477,
-    "imagePath": "",
+    "imagePath": null,
     "stored": 1
   },
   {
     "id": 478,
     "name": "Galletas María",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9673,7 +9673,7 @@
   {
     "id": 479,
     "name": "Galletas Integrales",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9686,7 +9686,7 @@
   {
     "id": 480,
     "name": "Galletas de Avena",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9699,7 +9699,7 @@
   {
     "id": 481,
     "name": "Galletas Rellenas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9712,7 +9712,7 @@
   {
     "id": 482,
     "name": "Galletas de Mantequilla",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9725,7 +9725,7 @@
   {
     "id": 483,
     "name": "Galletas Saladas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9738,7 +9738,7 @@
   {
     "id": 484,
     "name": "Galletas Sin Azúcar",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 17,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9751,7 +9751,7 @@
   {
     "id": 485,
     "name": "Barquillos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9764,7 +9764,7 @@
   {
     "id": 486,
     "name": "Galletas de Jengibre",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9777,7 +9777,7 @@
   {
     "id": 487,
     "name": "Galletas Tipo Sandwich",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9790,7 +9790,7 @@
   {
     "id": 488,
     "name": "Galletas Digestivas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9816,7 +9816,7 @@
   {
     "id": 490,
     "name": "Alubias Pintas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9829,7 +9829,7 @@
   {
     "id": 491,
     "name": "Alubias Negras",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9855,7 +9855,7 @@
   {
     "id": 493,
     "name": "Alubias Pintas Cocidas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9868,7 +9868,7 @@
   {
     "id": 494,
     "name": "Alubias Negras Cocidas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9881,7 +9881,7 @@
   {
     "id": 495,
     "name": "Judiones",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9894,7 +9894,7 @@
   {
     "id": 496,
     "name": "Judiones Cocidos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -9907,7 +9907,7 @@
   {
     "id": 497,
     "name": "Alubias Verdinas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -9920,7 +9920,7 @@
   {
     "id": 498,
     "name": "Salchichas de Pavo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9933,7 +9933,7 @@
   {
     "id": 499,
     "name": "Salchichas Frankfurt",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9946,7 +9946,7 @@
   {
     "id": 500,
     "name": "Salchichas con Queso",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9959,7 +9959,7 @@
   {
     "id": 501,
     "name": "Salchichas Bratwurst",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9972,7 +9972,7 @@
   {
     "id": 502,
     "name": "Salchichas Frescas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -9985,7 +9985,7 @@
   {
     "id": 503,
     "name": "Salchichas Veganas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 17,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -9998,7 +9998,7 @@
   {
     "id": 504,
     "name": "Salchichas Bockwurst",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -10011,7 +10011,7 @@
   {
     "id": 505,
     "name": "Salchichas Mini",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10024,7 +10024,7 @@
   {
     "id": 506,
     "name": "Salchichas Picantes",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10037,7 +10037,7 @@
   {
     "id": 507,
     "name": "Salchichas Ahumadas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10050,7 +10050,7 @@
   {
     "id": 508,
     "name": "Salchichas de Tofu",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 17,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10063,7 +10063,7 @@
   {
     "id": 509,
     "name": "Zumo de Piña",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10076,7 +10076,7 @@
   {
     "id": 510,
     "name": "Zumo de Melocotón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10089,7 +10089,7 @@
   {
     "id": 511,
     "name": "Zumo de Manzana",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10102,7 +10102,7 @@
   {
     "id": 512,
     "name": "Zumo Multifrutas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10115,7 +10115,7 @@
   {
     "id": 513,
     "name": "Zumo de Tomate",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10128,7 +10128,7 @@
   {
     "id": 514,
     "name": "Zumo de Uva",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10141,7 +10141,7 @@
   {
     "id": 515,
     "name": "Zumo de Pomelo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10154,7 +10154,7 @@
   {
     "id": 516,
     "name": "Zumo de Arándanos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10167,7 +10167,7 @@
   {
     "id": 518,
     "name": "Zumo de Granada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 19,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10195,7 +10195,7 @@
   {
     "id": 520,
     "name": "Tomate Pera",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10208,7 +10208,7 @@
   {
     "id": 521,
     "name": "Panela",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10221,7 +10221,7 @@
   {
     "id": 522,
     "name": "Terrones de Azúcar",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10234,7 +10234,7 @@
   {
     "id": 523,
     "name": "Sacarina",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 17,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10247,7 +10247,7 @@
   {
     "id": 524,
     "name": "Lechuga Iceberg",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10260,7 +10260,7 @@
   {
     "id": 525,
     "name": "Lechuga Romana",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10273,7 +10273,7 @@
   {
     "id": 526,
     "name": "Cogollos de Lechuga",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10286,7 +10286,7 @@
   {
     "id": 527,
     "name": "Lechuga Hoja de Roble",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10299,7 +10299,7 @@
   {
     "id": 528,
     "name": "Rúcula",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10312,7 +10312,7 @@
   {
     "id": 529,
     "name": "Canónigos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10325,7 +10325,7 @@
   {
     "id": 530,
     "name": "Escarola",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10338,7 +10338,7 @@
   {
     "id": 531,
     "name": "Lechuga Batavia",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10351,7 +10351,7 @@
   {
     "id": 532,
     "name": "Lechuga Trocadero",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10364,7 +10364,7 @@
   {
     "id": 533,
     "name": "Mezcla de Ensalada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10377,7 +10377,7 @@
   {
     "id": 534,
     "name": "Endivias",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10390,7 +10390,7 @@
   {
     "id": 535,
     "name": "Lechuga Lollo Rosso",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10403,7 +10403,7 @@
   {
     "id": 536,
     "name": "Hamburguesas de Pollo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10416,7 +10416,7 @@
   {
     "id": 537,
     "name": "Hamburguesas de Pavo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10429,7 +10429,7 @@
   {
     "id": 538,
     "name": "Hamburguesas de Buey",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10442,7 +10442,7 @@
   {
     "id": 539,
     "name": "Hamburguesas Angus",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10455,7 +10455,7 @@
   {
     "id": 540,
     "name": "Hamburguesas de Cerdo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10468,7 +10468,7 @@
   {
     "id": 541,
     "name": "Hamburguesas Ibérica",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10481,7 +10481,7 @@
   {
     "id": 544,
     "name": "Hamburguesas de Pollo Crujiente",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10494,7 +10494,7 @@
   {
     "id": 545,
     "name": "Hamburguesas de Soja",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 17,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10507,7 +10507,7 @@
   {
     "id": 546,
     "name": "Hamburguesas de Tofu",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 17,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10520,7 +10520,7 @@
   {
     "id": 547,
     "name": "Hamburguesas con Queso",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 3,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10533,7 +10533,7 @@
   {
     "id": 548,
     "name": "Atún en Aceite de Oliva",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -10546,7 +10546,7 @@
   {
     "id": 549,
     "name": "Atún en Aceite de Girasol",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -10559,7 +10559,7 @@
   {
     "id": 550,
     "name": "Atún al Natural",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -10587,7 +10587,7 @@
   {
     "id": 552,
     "name": "Tortitas de Harina Integral",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10600,7 +10600,7 @@
   {
     "id": 553,
     "name": "Tortitas de Arroz",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10613,7 +10613,7 @@
   {
     "id": 554,
     "name": "Tortitas de Chia",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10626,7 +10626,7 @@
   {
     "id": 555,
     "name": "Tortitas para Tacos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 9,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10654,7 +10654,7 @@
   {
     "id": 557,
     "name": "Patatas Fritas Sabor Jamón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -10667,7 +10667,7 @@
   {
     "id": 558,
     "name": "Patatas Fritas Onduladas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10680,7 +10680,7 @@
   {
     "id": 559,
     "name": "Patatas Fritas Sabor Queso",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10693,7 +10693,7 @@
   {
     "id": 560,
     "name": "Croquetas de Jamón",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 15,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10706,7 +10706,7 @@
   {
     "id": 561,
     "name": "Croquetas de Pollo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 15,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10719,7 +10719,7 @@
   {
     "id": 562,
     "name": "Croquetas de Queso Azul",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 15,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10732,7 +10732,7 @@
   {
     "id": 563,
     "name": "Croquetas de Setas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 15,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10745,7 +10745,7 @@
   {
     "id": 564,
     "name": "Croquetas de Bacalao",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 15,
     "storageRuleId": 3,
     "isVegetarian": 0,
@@ -10758,7 +10758,7 @@
   {
     "id": 566,
     "name": "Masa de Pizza con Borde Relleno",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -10771,7 +10771,7 @@
   {
     "id": 567,
     "name": "Masa de Pizza Integral",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10784,7 +10784,7 @@
   {
     "id": 569,
     "name": "Base de Pizza Fresca",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10797,7 +10797,7 @@
   {
     "id": 570,
     "name": "Masa de Pizza Congelada",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 15,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -10810,7 +10810,7 @@
   {
     "id": 572,
     "name": "Queso mezcla en lonchas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10823,7 +10823,7 @@
   {
     "id": 573,
     "name": "Queso Edam en lonchas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10836,7 +10836,7 @@
   {
     "id": 574,
     "name": "Queso Cheddar en lonchas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10849,7 +10849,7 @@
   {
     "id": 575,
     "name": "Queso Emmental en lonchas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 6,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10862,7 +10862,7 @@
   {
     "id": 576,
     "name": "Tortilla de Patata con Chorizo",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 16,
     "storageRuleId": 2,
     "isVegetarian": 0,
@@ -10875,7 +10875,7 @@
   {
     "id": 577,
     "name": "Tortilla de Patata con Pimientos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 16,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -10903,7 +10903,7 @@
   {
     "id": 579,
     "name": "Nachos Sabor Queso",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10916,7 +10916,7 @@
   {
     "id": 580,
     "name": "Nachos Sabor Chili",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -10929,7 +10929,7 @@
   {
     "id": 581,
     "name": "Nachos de Maíz Azul",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 13,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -10942,7 +10942,7 @@
   {
     "id": 582,
     "name": "Gominolas ácidas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -10955,7 +10955,7 @@
   {
     "id": 583,
     "name": "Gominolas de ositos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -10968,7 +10968,7 @@
   {
     "id": 584,
     "name": "Gominolas con forma de frutas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -10981,7 +10981,7 @@
   {
     "id": 585,
     "name": "Gominolas rellenas",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 0,
@@ -10994,7 +10994,7 @@
   {
     "id": 586,
     "name": "Regalices Rojos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -11007,7 +11007,7 @@
   {
     "id": 587,
     "name": "Regalices Negros",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -11020,7 +11020,7 @@
   {
     "id": 588,
     "name": "Regalices Sabor Pica",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 14,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -11033,7 +11033,7 @@
   {
     "id": 589,
     "name": "Espárragos Verdes",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 2,
     "storageRuleId": 2,
     "isVegetarian": 1,
@@ -11046,7 +11046,7 @@
   {
     "id": 591,
     "name": "Espárragos Verdes Congelados",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 15,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -11059,7 +11059,7 @@
   {
     "id": 592,
     "name": "Yemas de Espárragos",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 12,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -11072,7 +11072,7 @@
   {
     "id": 593,
     "name": "Levadura de panadería fresca",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 3,
     "isVegetarian": 1,
@@ -11085,7 +11085,7 @@
   {
     "id": 594,
     "name": "Levadura de panadería seca",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 8,
     "storageRuleId": 1,
     "isVegetarian": 1,
@@ -11098,7 +11098,7 @@
   {
     "id": 595,
     "name": "Cerveza sin alcohol",
-    "imagePath": "",
+    "imagePath": null,
     "categoryId": 22,
     "storageRuleId": 2,
     "isVegetarian": 1,
