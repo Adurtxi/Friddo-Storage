@@ -1,542 +1,211 @@
 [
 	{
 		"id": 1,
-		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 87,
+		"foodId": 1,
+		"foodUUID": "2bf766f7-e744-406b-b4ac-1f2cf69ac874",
 		"description": "",
 		"amount": 1,
 		"isPrincipal": 0,
 		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
+		"order": 0,
+		"options": [
+			{
+				"id": 1,
+				"foodIngredientId": 1,
+				"ingredientId": 1277,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 2,
-		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 287,
+		"foodId": 1,
+		"foodUUID": "2bf766f7-e744-406b-b4ac-1f2cf69ac874",
 		"description": "",
 		"amount": 1,
 		"isPrincipal": 0,
 		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 1
+		"order": 1,
+		"options": [
+			{
+				"id": 2,
+				"foodIngredientId": 2,
+				"ingredientId": 1136,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 3,
-		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 95,
+		"foodId": 1,
+		"foodUUID": "2bf766f7-e744-406b-b4ac-1f2cf69ac874",
 		"description": "",
 		"amount": 1,
 		"isPrincipal": 0,
 		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 2
+		"order": 2,
+		"options": [
+			{
+				"id": 3,
+				"foodIngredientId": 3,
+				"ingredientId": 1068,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 4,
-		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 115,
+		"foodId": 1,
+		"foodUUID": "2bf766f7-e744-406b-b4ac-1f2cf69ac874",
 		"description": "",
 		"amount": 1,
-		"isPrincipal": 1,
+		"isPrincipal": 0,
 		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
+		"order": 3,
+		"options": [
+			{
+				"id": 4,
+				"foodIngredientId": 4,
+				"ingredientId": 1083,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 5,
-		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 114,
+		"foodId": 1,
+		"foodUUID": "2bf766f7-e744-406b-b4ac-1f2cf69ac874",
 		"description": "",
 		"amount": 1,
-		"isPrincipal": 1,
+		"isPrincipal": 0,
 		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
+		"order": 4,
+		"options": [
+			{
+				"id": 5,
+				"foodIngredientId": 5,
+				"ingredientId": 1038,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 6,
 		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 113,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 7,
-		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 155,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 2
-	},
-	{
-		"id": 8,
-		"foodId": 3,
-		"foodUUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
-		"ingredientId": 87,
+		"foodUUID": "711d04a0-3f7d-4170-b69c-40a24a8dd188",
 		"description": "",
 		"amount": 1,
 		"isPrincipal": 0,
 		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 9,
-		"foodId": 3,
-		"foodUUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
-		"ingredientId": 287,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 1
+		"order": 0,
+		"options": [
+			{
+				"id": 6,
+				"foodIngredientId": 6,
+				"ingredientId": 1277,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 11,
-		"foodId": 3,
-		"foodUUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
-		"ingredientId": 115,
+		"foodId": 2,
+		"foodUUID": "711d04a0-3f7d-4170-b69c-40a24a8dd188",
 		"description": "",
 		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
+		"isPrincipal": 0,
+		"isNecessary": 1,
+		"order": 1,
+		"options": [
+			{
+				"id": 11,
+				"foodIngredientId": 11,
+				"ingredientId": 1195,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 12,
-		"foodId": 3,
-		"foodUUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
-		"ingredientId": 114,
+		"foodId": 2,
+		"foodUUID": "711d04a0-3f7d-4170-b69c-40a24a8dd188",
 		"description": "",
 		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
+		"isPrincipal": 0,
+		"isNecessary": 1,
+		"order": 2,
+		"options": [
+			{
+				"id": 12,
+				"foodIngredientId": 12,
+				"ingredientId": 1118,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
+	},
+	{
+		"id": 13,
+		"foodId": 4,
+		"foodUUID": "ebb4a91e-18c0-4a4e-ab11-eda8a2ec6c02",
+		"description": "",
+		"amount": 1,
+		"isPrincipal": 0,
+		"isNecessary": 1,
+		"order": 0,
+		"options": [
+			{
+				"id": 13,
+				"foodIngredientId": 13,
+				"ingredientId": 1084,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 14,
-		"foodId": 3,
-		"foodUUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
-		"ingredientId": 155,
+		"foodId": 4,
+		"foodUUID": "ebb4a91e-18c0-4a4e-ab11-eda8a2ec6c02",
 		"description": "",
 		"amount": 1,
 		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
+		"isNecessary": 1,
+		"order": 1,
+		"options": [
+			{
+				"id": 14,
+				"foodIngredientId": 14,
+				"ingredientId": 1074,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	},
 	{
 		"id": 15,
-		"foodId": 3,
-		"foodUUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
-		"ingredientId": 123,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 2
-	},
-	{
-		"id": 16,
 		"foodId": 4,
-		"foodUUID": "9e3fa970-08f3-45f9-8881-599164adefa1",
-		"ingredientId": 87,
+		"foodUUID": "ebb4a91e-18c0-4a4e-ab11-eda8a2ec6c02",
 		"description": "",
 		"amount": 1,
 		"isPrincipal": 0,
 		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 20,
-		"foodId": 4,
-		"foodUUID": "9e3fa970-08f3-45f9-8881-599164adefa1",
-		"ingredientId": 155,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 22,
-		"foodId": 4,
-		"foodUUID": "9e3fa970-08f3-45f9-8881-599164adefa1",
-		"ingredientId": 165,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 23,
-		"foodId": 4,
-		"foodUUID": "9e3fa970-08f3-45f9-8881-599164adefa1",
-		"ingredientId": 293,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 24,
-		"foodId": 2,
-		"foodUUID": "3e5a0865-dae4-4c71-8e50-2b9da331e014",
-		"ingredientId": 281,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 25,
-		"foodId": 3,
-		"foodUUID": "d6c0902a-c39f-451c-a532-de6ac4116d5b",
-		"ingredientId": 281,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 26,
-		"foodId": 6,
-		"foodUUID": "8716b80f-45de-4807-8f8f-9119dd0f10f9",
-		"ingredientId": 102,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 27,
-		"foodId": 6,
-		"foodUUID": "8716b80f-45de-4807-8f8f-9119dd0f10f9",
-		"ingredientId": 113,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 28,
-		"foodId": 6,
-		"foodUUID": "8716b80f-45de-4807-8f8f-9119dd0f10f9",
-		"ingredientId": 205,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 29,
-		"foodId": 6,
-		"foodUUID": "8716b80f-45de-4807-8f8f-9119dd0f10f9",
-		"ingredientId": 206,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 30,
-		"foodId": 7,
-		"foodUUID": "ba3bf235-192e-40b9-84a4-fb20c1b32f83",
-		"ingredientId": 102,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 31,
-		"foodId": 7,
-		"foodUUID": "ba3bf235-192e-40b9-84a4-fb20c1b32f83",
-		"ingredientId": 113,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 2
-	},
-	{
-		"id": 32,
-		"foodId": 7,
-		"foodUUID": "ba3bf235-192e-40b9-84a4-fb20c1b32f83",
-		"ingredientId": 205,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 3
-	},
-	{
-		"id": 33,
-		"foodId": 7,
-		"foodUUID": "ba3bf235-192e-40b9-84a4-fb20c1b32f83",
-		"ingredientId": 206,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 4
-	},
-	{
-		"id": 34,
-		"foodId": 7,
-		"foodUUID": "ba3bf235-192e-40b9-84a4-fb20c1b32f83",
-		"ingredientId": 139,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 35,
-		"foodId": 7,
-		"foodUUID": "ba3bf235-192e-40b9-84a4-fb20c1b32f83",
-		"ingredientId": 258,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 4
-	},
-	{
-		"id": 36,
-		"foodId": 6,
-		"foodUUID": "8716b80f-45de-4807-8f8f-9119dd0f10f9",
-		"ingredientId": 258,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 37,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 102,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 38,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 113,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 39,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 205,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 4
-	},
-	{
-		"id": 40,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 206,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 42,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 258,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 44,
-		"foodId": 9,
-		"foodUUID": "bb3fc804-4cc6-4689-a08f-b5175fde051b",
-		"ingredientId": 102,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 45,
-		"foodId": 9,
-		"foodUUID": "bb3fc804-4cc6-4689-a08f-b5175fde051b",
-		"ingredientId": 113,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 46,
-		"foodId": 9,
-		"foodUUID": "bb3fc804-4cc6-4689-a08f-b5175fde051b",
-		"ingredientId": 205,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 2
-	},
-	{
-		"id": 47,
-		"foodId": 9,
-		"foodUUID": "bb3fc804-4cc6-4689-a08f-b5175fde051b",
-		"ingredientId": 206,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 48,
-		"foodId": 9,
-		"foodUUID": "bb3fc804-4cc6-4689-a08f-b5175fde051b",
-		"ingredientId": 258,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 49,
-		"foodId": 9,
-		"foodUUID": "bb3fc804-4cc6-4689-a08f-b5175fde051b",
-		"ingredientId": 85,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 1
-	},
-	{
-		"id": 50,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 116,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 0,
-		"isNecessary": 1,
-		"canBeGeneric": 0,
-		"order": 0
-	},
-	{
-		"id": 51,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 78,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 3
-	},
-	{
-		"id": 52,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 103,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 2
-	},
-	{
-		"id": 53,
-		"foodId": 8,
-		"foodUUID": "ed715c14-a0e4-42ad-ae6b-9a47f63604a4",
-		"ingredientId": 150,
-		"description": "",
-		"amount": 1,
-		"isPrincipal": 1,
-		"isNecessary": 0,
-		"canBeGeneric": 0,
-		"order": 5
+		"order": 2,
+		"options": [
+			{
+				"id": 15,
+				"foodIngredientId": 15,
+				"ingredientId": 1011,
+				"isMain": 1,
+				"allowedVariantIds": []
+			}
+		]
 	}
 ]
