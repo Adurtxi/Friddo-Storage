@@ -13,7 +13,7 @@
 		"courseTypes": "2",
 		"foodCategoryByIngredientId": 2,
 		"foodCategoryByTypeId": 7,
-		"imagePath": "images/foods/food_1765466362090.jpg",
+		"imagePath": "images/foods/05caa79a-cc9d-499d-9fb1-d3024e43edde.wepb",
 		"isFavorite": 0
 	},
 	{
@@ -30,7 +30,7 @@
 		"courseTypes": "2",
 		"foodCategoryByIngredientId": 2,
 		"foodCategoryByTypeId": 7,
-		"imagePath": "images/foods/food_1765466376188.jpg",
+		"imagePath": "images/foods/b2c828d4-6b55-4801-9f17-1e9cee577b00.webp",
 		"isFavorite": 0
 	},
 	{
@@ -47,7 +47,7 @@
 		"courseTypes": "",
 		"foodCategoryByIngredientId": null,
 		"foodCategoryByTypeId": null,
-		"imagePath": "images/foods/food_1765466391323.jpg",
+		"imagePath": "images/foods/b84774ff-1399-445b-b379-c8521705005d.webp",
 		"isFavorite": 0
 	},
 	{
@@ -64,7 +64,7 @@
 		"courseTypes": "",
 		"foodCategoryByIngredientId": null,
 		"foodCategoryByTypeId": null,
-		"imagePath": "images/foods/food_1765466411161.jpg",
+		"imagePath": "images/foods/126595cb-ee12-417e-a9fb-9a2af5e8b86a.webp",
 		"isFavorite": 0
 	},
 	{
@@ -81,7 +81,7 @@
 		"courseTypes": "",
 		"foodCategoryByIngredientId": null,
 		"foodCategoryByTypeId": null,
-		"imagePath": "images/foods/food_1765466401639.jpg",
+		"imagePath": "images/foods/126595cb-ee12-417e-a9fb-9a2af5e8b86a.webp",
 		"isFavorite": 0
 	}
 ]
