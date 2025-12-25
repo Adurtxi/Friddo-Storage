@@ -34,20 +34,33 @@
 					{
 						"id": 3,
 						"name": "Carnicería",
-						"icon": "Icons.restaurant"
+						"icon": "Icons.restaurant",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Carnicería",
+								"icon": "Icons.restaurant"
+							}
+						]
 					},
 					{
 						"id": 4,
 						"name": "Pescadería",
-						"icon": "Icons.set_meal"
+						"icon": "Icons.set_meal",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Pescadería",
+								"icon": "Icons.set_meal"
+							}
+						]
 					},
 					{
 						"id": 5,
 						"name": "Marisco",
 						"icon": "Icons.water",
 						"categories": [
-							{ "id": 51, "name": "Marisco fresco", "icon": "Icons.water" },
-							{ "id": 52, "name": "Marisco congelado", "icon": "Icons.water" }
+							{ "id": 1, "name": "Marisco", "icon": "Icons.water" }
 						]
 					},
 					{
@@ -56,11 +69,11 @@
 						"icon": "Icons.lunch_dining",
 						"categories": [
 							{
-								"id": 61,
+								"id": 1,
 								"name": "Charcutería",
 								"icon": "Icons.lunch_dining"
 							},
-							{ "id": 62, "name": "Quesos", "icon": "Icons.lunch_dining" }
+							{ "id": 2, "name": "Quesos", "icon": "Icons.lunch_dining" }
 						]
 					},
 					{
@@ -68,8 +81,8 @@
 						"name": "Lácteos y huevos",
 						"icon": "Icons.egg",
 						"categories": [
-							{ "id": 71, "name": "Lácteos", "icon": "Icons.egg" },
-							{ "id": 72, "name": "Huevos", "icon": "Icons.egg" }
+							{ "id": 1, "name": "Lácteos", "icon": "Icons.egg" },
+							{ "id": 2, "name": "Huevos", "icon": "Icons.egg" }
 						]
 					},
 					{
@@ -78,12 +91,12 @@
 						"icon": "Icons.bakery_dining",
 						"categories": [
 							{
-								"id": 81,
+								"id": 1,
 								"name": "Panadería",
 								"icon": "Icons.bakery_dining"
 							},
 							{
-								"id": 82,
+								"id": 2,
 								"name": "Pastelería",
 								"icon": "Icons.bakery_dining"
 							}
@@ -94,43 +107,46 @@
 			{
 				"id": 2,
 				"name": "Despensa",
-				"subcategories": [
+				"categories": [
 					{
 						"id": 9,
 						"name": "Cereales, arroz y pasta",
 						"icon": "Icons.rice_bowl",
-						"subcategories": [
-							{ "id": 91, "name": "Cereales", "icon": "Icons.rice_bowl" },
-							{ "id": 92, "name": "Arroz", "icon": "Icons.rice_bowl" },
-							{ "id": 93, "name": "Pasta", "icon": "Icons.rice_bowl" }
+						"categories": [
+							{ "id": 1, "name": "Cereales", "icon": "Icons.rice_bowl" },
+							{ "id": 2, "name": "Arroz", "icon": "Icons.rice_bowl" },
+							{ "id": 3, "name": "Pasta", "icon": "Icons.rice_bowl" }
 						]
 					},
 					{
 						"id": 10,
 						"name": "Aceites y salsas",
 						"icon": "Icons.local_dining",
-						"subcategories": [
-							{ "id": 101, "name": "Aceites", "icon": "Icons.local_dining" },
-							{ "id": 102, "name": "Salsas", "icon": "Icons.local_dining" }
+						"categories": [
+							{ "id": 1, "name": "Aceites", "icon": "Icons.local_dining" },
+							{ "id": 2, "name": "Salsas", "icon": "Icons.local_dining" }
 						]
 					},
 					{
 						"id": 11,
 						"name": "Especias y condimentos",
-						"icon": "Icons.grain"
+						"icon": "Icons.grain",
+						"categories": [
+							{ "id": 1, "name": "Especias", "icon": "Icons.grain" }
+						]
 					},
 					{
 						"id": 12,
 						"name": "Conservas y encurtidos",
 						"icon": "Icons.inventory_2",
-						"subcategories": [
+						"categories": [
 							{
-								"id": 121,
+								"id": 1,
 								"name": "Conservas",
 								"icon": "Icons.inventory_2"
 							},
 							{
-								"id": 122,
+								"id": 2,
 								"name": "Encurtidos",
 								"icon": "Icons.inventory_2"
 							}
@@ -140,10 +156,10 @@
 						"id": 13,
 						"name": "Snacks y frutos secos",
 						"icon": "Icons.fastfood",
-						"subcategories": [
-							{ "id": 131, "name": "Snacks", "icon": "Icons.fastfood" },
+						"categories": [
+							{ "id": 1, "name": "Snacks", "icon": "Icons.fastfood" },
 							{
-								"id": 132,
+								"id": 2,
 								"name": "Frutos secos",
 								"icon": "Icons.fastfood"
 							}
@@ -153,9 +169,9 @@
 						"id": 14,
 						"name": "Dulces y postres",
 						"icon": "Icons.cake",
-						"subcategories": [
-							{ "id": 141, "name": "Dulces", "icon": "Icons.cake" },
-							{ "id": 142, "name": "Postres", "icon": "Icons.cake" }
+						"categories": [
+							{ "id": 1, "name": "Dulces", "icon": "Icons.cake" },
+							{ "id": 2, "name": "Postres", "icon": "Icons.cake" }
 						]
 					}
 				]
@@ -163,15 +179,15 @@
 			{
 				"id": 3,
 				"name": "Preparados",
-				"subcategories": [
-					{ "id": 15, "name": "Congelados", "icon": "Icons.ac_unit" },
+				"categories": [
+					{ "id": 1, "name": "Congelados", "icon": "Icons.ac_unit" },
 					{
-						"id": 16,
+						"id": 2,
 						"name": "Platos preparados",
 						"icon": "Icons.restaurant"
 					},
 					{
-						"id": 17,
+						"id": 3,
 						"name": "Ecológicos y dietéticos",
 						"icon": "Icons.spa"
 					}
@@ -182,33 +198,44 @@
 	{
 		"id": 2,
 		"name": "Bebidas",
-		"subcategories": [
+		"categories": [
 			{
 				"id": 4,
 				"name": "Sin alcohol",
-				"subcategories": [
-					{ "id": 18, "name": "Agua", "icon": "Icons.water_drop" },
+				"categories": [
+					{
+						"id": 18,
+						"name": "Agua",
+						"icon": "Icons.water_drop",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Agua",
+								"icon": "Icons.water_drop"
+							}
+						]
+					},
 					{
 						"id": 19,
 						"name": "Refrescos y zumos",
 						"icon": "Icons.local_drink",
-						"subcategories": [
+						"categories": [
 							{
-								"id": 191,
+								"id": 1,
 								"name": "Refrescos",
 								"icon": "Icons.local_drink"
 							},
-							{ "id": 192, "name": "Zumos", "icon": "Icons.local_drink" }
+							{ "id": 2, "name": "Zumos", "icon": "Icons.local_drink" }
 						]
 					},
 					{
 						"id": 20,
 						"name": "Café, té y cacao",
 						"icon": "Icons.coffee",
-						"subcategories": [
-							{ "id": 201, "name": "Café", "icon": "Icons.coffee" },
-							{ "id": 202, "name": "Té", "icon": "Icons.coffee" },
-							{ "id": 203, "name": "Cacao", "icon": "Icons.coffee" }
+						"categories": [
+							{ "id": 1, "name": "Café", "icon": "Icons.coffee" },
+							{ "id": 2, "name": "Té", "icon": "Icons.coffee" },
+							{ "id": 3, "name": "Cacao", "icon": "Icons.coffee" }
 						]
 					}
 				]
@@ -216,10 +243,10 @@
 			{
 				"id": 5,
 				"name": "Con alcohol",
-				"subcategories": [
-					{ "id": 21, "name": "Vino", "icon": "Icons.wine_bar" },
-					{ "id": 22, "name": "Cerveza", "icon": "Icons.sports_bar" },
-					{ "id": 23, "name": "Licores", "icon": "Icons.liquor" }
+				"categories": [
+					{ "id": 1, "name": "Vino", "icon": "Icons.wine_bar" },
+					{ "id": 2, "name": "Cerveza", "icon": "Icons.sports_bar" },
+					{ "id": 3, "name": "Licores", "icon": "Icons.liquor" }
 				]
 			}
 		]
@@ -227,42 +254,95 @@
 	{
 		"id": 3,
 		"name": "Hogar y otros",
-		"subcategories": [
+		"categories": [
 			{
 				"id": 6,
 				"name": "Cuidado personal",
-				"subcategories": [
+				"categories": [
 					{
 						"id": 24,
 						"name": "Higiene personal",
-						"icon": "Icons.clean_hands"
+						"icon": "Icons.clean_hands",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Higiene personal",
+								"icon": "Icons.clean_hands"
+							}
+						]
 					},
 					{
 						"id": 25,
 						"name": "Cuidado del cabello",
-						"icon": "Icons.face_retouching_natural"
+						"icon": "Icons.face_retouching_natural",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Cuidado del cabello",
+								"icon": "Icons.face_retouching_natural"
+							}
+						]
 					},
-					{ "id": 26, "name": "Facial y corporal", "icon": "Icons.face" }
+					{
+						"id": 26,
+						"name": "Facial y corporal",
+						"icon": "Icons.face",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Facial y corporal",
+								"icon": "Icons.face"
+							}
+						]
+					}
 				]
 			},
 			{
 				"id": 7,
 				"name": "Hogar",
-				"subcategories": [
+				"categories": [
 					{
 						"id": 27,
 						"name": "Limpieza del hogar",
-						"icon": "Icons.cleaning_services"
+						"icon": "Icons.cleaning_services",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Limpieza del hogar",
+								"icon": "Icons.cleaning_services"
+							}
+						]
 					},
-					{ "id": 28, "name": "Cocina y menaje", "icon": "Icons.kitchen" }
+					{
+						"id": 28,
+						"name": "Cocina y menaje",
+						"icon": "Icons.kitchen",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Cocina y menaje",
+								"icon": "Icons.kitchen"
+							}
+						]
+					}
 				]
 			},
 			{
 				"id": 8,
 				"name": "Otros",
-				"subcategories": [
-					{ "id": 29, "name": "Bebé", "icon": "Icons.child_friendly" },
-					{ "id": 30, "name": "Mascotas", "icon": "Icons.pets" }
+				"categories": [
+					{
+						"id": 29,
+						"name": "Bebé",
+						"icon": "Icons.child_friendly",
+						"categories": [
+							{
+								"id": 1,
+								"name": "Bebé",
+								"icon": "Icons.child_friendly"
+							}
+						]
+					}
 				]
 			}
 		]
@@ -270,11 +350,11 @@
 	{
 		"id": 0,
 		"name": "Sin categoría",
-		"subcategories": [
+		"categories": [
 			{
 				"id": 0,
 				"name": "Sin categoría",
-				"subcategories": [
+				"categories": [
 					{
 						"id": 0,
 						"name": "Sin categoría",
