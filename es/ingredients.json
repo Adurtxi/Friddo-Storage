@@ -43,6 +43,7 @@
     "name": "Plátano",
     "imagePath": "/images/8039a586-2aef-4662-828e-189d43c182e0.webp",
     "categoryId": 1,
+    "subCategoryId": 1,
     "storageRuleId": 1,
     "isVegetarian": 1,
     "isHalal": 1,
