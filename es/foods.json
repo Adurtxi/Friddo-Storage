@@ -47,7 +47,7 @@
 		"courseTypes": "2",
 		"foodCategoryByIngredientId": 22,
 		"foodCategoryByTypeId": 4,
-		"imagePath": "images/foods/null",
+		"imagePath": "images/foods/0431b487-ef88-442c-9822-2008c30e2203.webp",
 		"isFavorite": 0
 	},
 	{
@@ -64,7 +64,7 @@
 		"courseTypes": "2",
 		"foodCategoryByIngredientId": 22,
 		"foodCategoryByTypeId": 4,
-		"imagePath": "images/foods/null",
+		"imagePath": "images/foods/5a1f6050-7f38-4a28-a65f-aa0b1f382e21.webp",
 		"isFavorite": 0
 	},
 	{
@@ -81,7 +81,7 @@
 		"courseTypes": "3",
 		"foodCategoryByIngredientId": 6,
 		"foodCategoryByTypeId": 8,
-		"imagePath": "images/foods/null",
+		"imagePath": "images/foods/b67c435d-cfb1-47ce-88f8-938a0f3f6136.webp",
 		"isFavorite": 0
 	},
 	{
@@ -98,7 +98,7 @@
 		"courseTypes": "5,2,3",
 		"foodCategoryByIngredientId": 2,
 		"foodCategoryByTypeId": 7,
-		"imagePath": "images/foods/null",
+		"imagePath": "images/foods/ac6a6063-28cb-4542-b275-f6c7f52a7831.webp",
 		"isFavorite": 0
 	},
 	{
@@ -115,7 +115,7 @@
 		"courseTypes": "5",
 		"foodCategoryByIngredientId": 9,
 		"foodCategoryByTypeId": 11,
-		"imagePath": "images/foods/2758f6fd-79dd-4678-b5a9-0e663ce215ce.webp",
+		"imagePath": "images/foods/8494bbe7-c52f-42a0-a8f2-e7c4c8952eb2.webp",
 		"isFavorite": 0
 	},
 	{
@@ -132,7 +132,7 @@
 		"courseTypes": "4",
 		"foodCategoryByIngredientId": 15,
 		"foodCategoryByTypeId": 1,
-		"imagePath": "images/foods/null",
+		"imagePath": "images/foods/54708833-55cb-4454-93fb-d1d37b101ee4.webp",
 		"isFavorite": 0
 	},
 	{
@@ -200,7 +200,7 @@
 		"courseTypes": "",
 		"foodCategoryByIngredientId": null,
 		"foodCategoryByTypeId": null,
-		"imagePath": "images/foods/food_1767274968805.jpg",
+		"imagePath": "images/foods/f834fa74-3b5b-4966-9be8-f3d4f25819c4.webp",
 		"isFavorite": 0
 	},
 	{
@@ -285,7 +285,7 @@
 		"courseTypes": "",
 		"foodCategoryByIngredientId": null,
 		"foodCategoryByTypeId": null,
-		"imagePath": "images/foods/null",
+		"imagePath": "images/foods/eb93fd70-b436-4458-ab0b-1506f44ed9b2.webp",
 		"isFavorite": 0
 	},
 	{
@@ -336,7 +336,7 @@
 		"courseTypes": "",
 		"foodCategoryByIngredientId": null,
 		"foodCategoryByTypeId": null,
-		"imagePath": "images/foods/126595cb-ee12-417e-a9fb-9a2af5e8b86a.webp",
+		"imagePath": "images/foods/532b0704-8cec-489f-bc1f-417ef746d69d.webp",
 		"isFavorite": 0
 	}
 ]
