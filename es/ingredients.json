@@ -1,5 +1,5 @@
 [
-	{
+  {
     "id": 1000,
     "name": "Pan De Molde",
     "imagePath": "/images/e1052d0d-9904-442a-b579-7a55d6857070.webp",
@@ -4022,7 +4022,7 @@
   {
     "id": 1299,
     "name": "Quesitos",
-    "imagePath": "",
+    "imagePath": "/images/e7fd0cdd-99f3-451b-a2a2-0acd78de143c.webp",
     "categoryId": 6,
     "subCategoryId": 7,
     "isVegetarian": 0,
@@ -4030,14 +4030,14 @@
     "isGeneric": 0,
     "genericId": 1298,
     "storageRuleId": 3,
-    "stored": 0,
+    "stored": 1,
     "isCountable": 1,
     "baseQuantity": 1.0
   },
   {
     "id": 1300,
     "name": "Alga Sushi",
-    "imagePath": "",
+    "imagePath": "/images/9bab6c54-4b79-424d-a06c-a05bc02027b0.webp",
     "categoryId": 2,
     "subCategoryId": 2,
     "isVegetarian": 0,
@@ -4045,14 +4045,14 @@
     "isGeneric": 0,
     "genericId": null,
     "storageRuleId": 1,
-    "stored": 0,
+    "stored": 1,
     "isCountable": 1,
     "baseQuantity": 1.0
   },
   {
     "id": 1301,
     "name": "Salsa Cesar",
-    "imagePath": "",
+    "imagePath": "/images/3ed74430-15d5-4d9c-8fad-b506ca0b560f.webp",
     "categoryId": 10,
     "subCategoryId": 16,
     "isVegetarian": 0,
@@ -4060,14 +4060,14 @@
     "isGeneric": 0,
     "genericId": null,
     "storageRuleId": 2,
-    "stored": 0,
+    "stored": 1,
     "isCountable": 1,
     "baseQuantity": 1.0
   },
   {
     "id": 1302,
     "name": "Picos Camperos",
-    "imagePath": "",
+    "imagePath": "/images/356d9526-efd9-4b11-9cac-75fb1f5a3515.webp",
     "categoryId": 8,
     "subCategoryId": 10,
     "isVegetarian": 0,
@@ -4075,7 +4075,7 @@
     "isGeneric": 0,
     "genericId": null,
     "storageRuleId": 1,
-    "stored": 0,
+    "stored": 1,
     "isCountable": 1,
     "baseQuantity": 1.0
   },
@@ -10337,7 +10337,7 @@
   {
     "id": 443,
     "name": "Yogur Bebible",
-    "imagePath": "",
+    "imagePath": "/images/d7600433-3e31-489b-a9b0-705e5a37d560.webp",
     "categoryId": 7,
     "subCategoryId": 0,
     "isVegetarian": 1,
