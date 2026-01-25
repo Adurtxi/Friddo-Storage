@@ -790,13 +790,8 @@
 		"barcode": "8480010039122"
 	},
 	{
-		"id": 194,
-		"ingredientId": 1299,
-		"barcode": "76059860"
-	},
-	{
 		"id": 195,
-		"ingredientId": 1299,
+		"ingredientId": 599,
 		"barcode": "8410259101069"
 	},
 	{
@@ -856,7 +851,7 @@
 	},
 	{
 		"id": 208,
-		"ingredientId": 1300,
+		"ingredientId": 600,
 		"barcode": "5010338101473"
 	},
 	{
@@ -881,12 +876,12 @@
 	},
 	{
 		"id": 213,
-		"ingredientId": 1301,
+		"ingredientId": 601,
 		"barcode": "8402001024467"
 	},
 	{
 		"id": 214,
-		"ingredientId": 1302,
+		"ingredientId": 602,
 		"barcode": "8480000679536"
 	},
 	{
