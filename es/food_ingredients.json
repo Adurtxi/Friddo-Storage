@@ -245,7 +245,10 @@
 				"foodIngredientId": 13,
 				"ingredientId": 1067,
 				"isMain": 1,
-				"allowedVariantIds": []
+				"allowedVariantIds": [
+					97,
+					190
+				]
 			}
 		]
 	},
