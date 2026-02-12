@@ -1,0 +1,385 @@
+[
+  {
+    "id": 1,
+    "name": "Food & Groceries",
+    "icon": "Icons.shopping_cart",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Fresh Food",
+        "icon": "Icons.eco",
+        "categories": [
+          {
+            "id": 1,
+            "name": "Fruits",
+            "icon": "Icons.nutrition"
+          },
+          {
+            "id": 2,
+            "name": "Vegetables",
+            "icon": "Icons.spa"
+          },
+          {
+            "id": 3,
+            "name": "Butcher Shop",
+            "icon": "Icons.restaurant"
+          },
+          {
+            "id": 4,
+            "name": "Fish Market",
+            "icon": "Icons.set_meal"
+          },
+          {
+            "id": 5,
+            "name": "Seafood",
+            "icon": "Icons.water"
+          },
+          {
+            "id": 6,
+            "name": "Deli & Cheese",
+            "icon": "Icons.lunch_dining",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Deli Meat",
+                "icon": "Icons.lunch_dining"
+              },
+              {
+                "id": 2,
+                "name": "Cheese",
+                "icon": "Icons.lunch_dining"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Dairy & Eggs",
+            "icon": "Icons.egg",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Dairy",
+                "icon": "Icons.egg"
+              },
+              {
+                "id": 2,
+                "name": "Eggs",
+                "icon": "Icons.egg"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Bakery & Pastry",
+            "icon": "Icons.bakery_dining",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Bakery",
+                "icon": "Icons.bakery_dining"
+              },
+              {
+                "id": 2,
+                "name": "Pastry",
+                "icon": "Icons.bakery_dining"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pantry",
+        "icon": "Icons.inventory",
+        "categories": [
+          {
+            "id": 9,
+            "name": "Cereal, Rice & Pasta",
+            "icon": "Icons.rice_bowl",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Cereal",
+                "icon": "Icons.rice_bowl"
+              },
+              {
+                "id": 2,
+                "name": "Rice",
+                "icon": "Icons.rice_bowl"
+              },
+              {
+                "id": 3,
+                "name": "Pasta",
+                "icon": "Icons.rice_bowl"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Oils & Sauces",
+            "icon": "Icons.local_dining",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Oils",
+                "icon": "Icons.oil_barrel"
+              },
+              {
+                "id": 2,
+                "name": "Sauces",
+                "icon": "Icons.soup_kitchen"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Spices & Seasonings",
+            "icon": "Icons.grain",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Spices",
+                "icon": "Icons.grain"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Canned & Pickled Food",
+            "icon": "Icons.inventory_2",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Canned Goods",
+                "icon": "Icons.inventory_2"
+              },
+              {
+                "id": 2,
+                "name": "Pickles",
+                "icon": "Icons.tapas"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Snacks & Nuts",
+            "icon": "Icons.fastfood",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Snacks",
+                "icon": "Icons.fastfood"
+              },
+              {
+                "id": 2,
+                "name": "Nuts",
+                "icon": "Icons.emoji_food_beverage"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Sweets & Desserts",
+            "icon": "Icons.cake",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Sweets",
+                "icon": "Icons.cake"
+              },
+              {
+                "id": 2,
+                "name": "Desserts",
+                "icon": "Icons.icecream"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Prepared Foods",
+        "icon": "Icons.restaurant_menu",
+        "categories": [
+          {
+            "id": 15,
+            "name": "Frozen Foods",
+            "icon": "Icons.ac_unit"
+          },
+          {
+            "id": 16,
+            "name": "Ready Meals",
+            "icon": "Icons.restaurant"
+          },
+          {
+            "id": 17,
+            "name": "Organic & Dietary",
+            "icon": "Icons.spa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Beverages",
+    "icon": "Icons.local_drink",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Non-Alcoholic",
+        "icon": "Icons.no_drinks",
+        "categories": [
+          {
+            "id": 18,
+            "name": "Water",
+            "icon": "Icons.water_drop"
+          },
+          {
+            "id": 19,
+            "name": "Soft Drinks & Juices",
+            "icon": "Icons.local_drink",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Soft Drinks",
+                "icon": "Icons.local_drink"
+              },
+              {
+                "id": 2,
+                "name": "Juices",
+                "icon": "Icons.local_drink"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Coffee, Tea & Cocoa",
+            "icon": "Icons.coffee",
+            "categories": [
+              {
+                "id": 1,
+                "name": "Coffee",
+                "icon": "Icons.coffee"
+              },
+              {
+                "id": 2,
+                "name": "Tea",
+                "icon": "Icons.emoji_food_beverage"
+              },
+              {
+                "id": 3,
+                "name": "Cocoa",
+                "icon": "Icons.cookie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Alcoholic Drinks",
+        "icon": "Icons.local_bar",
+        "categories": [
+          {
+            "id": 21,
+            "name": "Wine",
+            "icon": "Icons.wine_bar"
+          },
+          {
+            "id": 22,
+            "name": "Beer",
+            "icon": "Icons.sports_bar"
+          },
+          {
+            "id": 23,
+            "name": "Liquors",
+            "icon": "Icons.liquor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Home & Others",
+    "icon": "Icons.home",
+    "categories": [
+      {
+        "id": 6,
+        "name": "Personal Care",
+        "icon": "Icons.self_improvement",
+        "categories": [
+          {
+            "id": 24,
+            "name": "Personal Hygiene",
+            "icon": "Icons.clean_hands"
+          },
+          {
+            "id": 25,
+            "name": "Hair Care",
+            "icon": "Icons.face_retouching_natural"
+          },
+          {
+            "id": 26,
+            "name": "Face & Body",
+            "icon": "Icons.face"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Home",
+        "icon": "Icons.house",
+        "categories": [
+          {
+            "id": 27,
+            "name": "Home Cleaning",
+            "icon": "Icons.cleaning_services"
+          },
+          {
+            "id": 28,
+            "name": "Kitchenware",
+            "icon": "Icons.kitchen"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Others",
+        "icon": "Icons.more_horiz",
+        "categories": [
+          {
+            "id": 29,
+            "name": "Baby",
+            "icon": "Icons.child_friendly"
+          },
+          {
+            "id": 30,
+            "name": "Pets",
+            "icon": "Icons.pets"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Uncategorized",
+    "icon": "Icons.help_outline",
+    "categories": [
+      {
+        "id": 0,
+        "name": "Uncategorized",
+        "icon": "Icons.help_outline",
+        "categories": [
+          {
+            "id": 0,
+            "name": "Uncategorized",
+            "icon": "Icons.help_outline"
+          }
+        ]
+      }
+    ]
+  }
+]
