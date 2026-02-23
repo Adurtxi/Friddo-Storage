@@ -1,10 +1,5 @@
 [
 	{
-		"id": 1,
-		"ingredientId": 132,
-		"barcode": "8480017005045"
-	},
-	{
 		"id": 2,
 		"ingredientId": 155,
 		"barcode": "8480000168641"
@@ -150,11 +145,6 @@
 		"barcode": "8410010000181"
 	},
 	{
-		"id": 36,
-		"ingredientId": 132,
-		"barcode": "8480000105769"
-	},
-	{
 		"id": 37,
 		"ingredientId": 1,
 		"barcode": "8480017292742"
@@ -193,11 +183,6 @@
 		"id": 44,
 		"ingredientId": 97,
 		"barcode": "8422414006935"
-	},
-	{
-		"id": 45,
-		"ingredientId": 373,
-		"barcode": "8402001005688"
 	},
 	{
 		"id": 46,
@@ -488,11 +473,6 @@
 		"id": 131,
 		"ingredientId": 133,
 		"barcode": "8480010204674"
-	},
-	{
-		"id": 132,
-		"ingredientId": 132,
-		"barcode": "8480010182996"
 	},
 	{
 		"id": 133,
@@ -790,8 +770,13 @@
 		"barcode": "8480010039122"
 	},
 	{
+		"id": 194,
+		"ingredientId": 1299,
+		"barcode": "76059860"
+	},
+	{
 		"id": 195,
-		"ingredientId": 599,
+		"ingredientId": 1299,
 		"barcode": "8410259101069"
 	},
 	{
@@ -851,7 +836,7 @@
 	},
 	{
 		"id": 208,
-		"ingredientId": 600,
+		"ingredientId": 1300,
 		"barcode": "5010338101473"
 	},
 	{
@@ -876,17 +861,117 @@
 	},
 	{
 		"id": 213,
-		"ingredientId": 601,
+		"ingredientId": 1301,
 		"barcode": "8402001024467"
 	},
 	{
 		"id": 214,
-		"ingredientId": 602,
+		"ingredientId": 1302,
 		"barcode": "8480000679536"
 	},
 	{
 		"id": 215,
 		"ingredientId": 592,
 		"barcode": "8436046153509"
+	},
+	{
+		"id": 216,
+		"ingredientId": 254,
+		"barcode": "8480000511812"
+	},
+	{
+		"id": 217,
+		"ingredientId": 1305,
+		"barcode": "8410069017888"
+	},
+	{
+		"id": 218,
+		"ingredientId": 458,
+		"barcode": "8410128777104"
+	},
+	{
+		"id": 219,
+		"ingredientId": 215,
+		"barcode": "8410573103671"
+	},
+	{
+		"id": 220,
+		"ingredientId": 206,
+		"barcode": "8410179301006"
+	},
+	{
+		"id": 221,
+		"ingredientId": 195,
+		"barcode": "8410066111459"
+	},
+	{
+		"id": 222,
+		"ingredientId": 87,
+		"barcode": "8004690129166"
+	},
+	{
+		"id": 223,
+		"ingredientId": 155,
+		"barcode": "8412634105150"
+	},
+	{
+		"id": 224,
+		"ingredientId": 142,
+		"barcode": "8422414002814"
+	},
+	{
+		"id": 225,
+		"ingredientId": 287,
+		"barcode": "8004690950111"
+	},
+	{
+		"id": 226,
+		"ingredientId": 122,
+		"barcode": "8480010344523"
+	},
+	{
+		"id": 227,
+		"ingredientId": 287,
+		"barcode": "8424523030252"
+	},
+	{
+		"id": 228,
+		"ingredientId": 254,
+		"barcode": "7622210103352"
+	},
+	{
+		"id": 229,
+		"ingredientId": 458,
+		"barcode": "8480000105769"
+	},
+	{
+		"id": 230,
+		"ingredientId": 179,
+		"barcode": "8410320013949"
+	},
+	{
+		"id": 231,
+		"ingredientId": 127,
+		"barcode": "8480017049162"
+	},
+	{
+		"id": 232,
+		"ingredientId": 293,
+		"barcode": "8480010327908"
+	},
+	{
+		"id": 233,
+		"ingredientId": 216,
+		"barcode": "8410134026517"
+	},
+	{
+		"id": 234,
+		"ingredientId": 164,
+		"barcode": "8480000610935"
+	},
+	{
+		"id": 235,
+		"ingredientId": 52,
+		"barcode": "8402001005688"
 	}
 ]
